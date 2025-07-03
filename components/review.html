@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Online Quiz</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Font Awesome CDN -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+      integrity="sha512-..."
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <nav id="navbar"></nav>
+    <div id="summary" class="w-[95%] mx-auto pt-16">
+      <div id="summaryOne" class="flex justify-between items-center">
+        <div id="testName">
+          <h4 class="text-2xl font-semibold">General Knowledge Test</h4>
+        </div>
+        <div class="flex justify-between gap-5">
+          <div>
+            <p>Accuracy</p>
+            <i class="fa-solid fa-spinner mr-1"></i>
+            <span id="accuracy"></span>
+          </div>
+          <div>
+            <p>Award</p>
+            <i class="fa-solid fa-award mr-1"></i> <span id="award"></span>
+          </div>
+          <div>
+            <p>Answered</p>
+            <span id="answered"></span>
+          </div>
+        </div>
+      </div>
+      <div id="summaryTwo">
+        <ul class="flex gap-4 text-gray-500">
+          <li>Finished</li>
+          <li>July 01, 2025</li>
+          <li>10:00 AM</li>
+          <li>
+            <i class="fa-solid fa-clipboard-question"></i>
+            <span id="totalQuestions">30 Questions</span>
+          </li>
+        </ul>
+      </div>
+      <div id="summaryThree" class="grid grid-cols-5 w-[100%] mt-4">
+        <div class="mt-4 p-2 flex items-center">
+          <div class="w-2 h-2 bg-black"></div>
+          <p class="ml-4 text-gray-500">Correct -</p>
+          <p class="ml-1 font-semibold" id="correct"></p>
+        </div>
+        <div class="mt-4 p-2 flex items-center">
+          <div class="w-2 h-2 bg-black"></div>
+          <p class="ml-4 text-gray-500">Incorrect -</p>
+          <p class="ml-1 font-semibold" id="incorrect"></p>
+        </div>
+        <div class="mt-4 p-2 flex items-center">
+          <div class="w-2 h-2 bg-black"></div>
+          <p class="ml-4 text-gray-500">Skipped -</p>
+          <p class="ml-1 font-semibold" id="skipped"></p>
+        </div>
+        <div class="mt-4 p-2 flex items-center">
+          <div class="w-2 h-2 bg-black"></div>
+          <p class="ml-4 text-gray-500">Not Attempted -</p>
+          <p class="ml-1 font-semibold" id="not-attempted"></p>
+        </div>
+        <div class="mt-4 p-2 flex items-center">
+          <div class="w-2 h-2 bg-black"></div>
+          <p class="ml-4 text-gray-500">Time Taken -</p>
+          <p class="ml-1 font-semibold" id="time-taken"></p>
+        </div>
+      </div>
+    </div>
+    <table class="w-[95%] my-10 mx-auto">
+      <thead>
+        <tr>
+          <th class="w-[40%] text-left">Question</th>
+          <th class="w-[15%] text-left">Your Answer</th>
+          <th class="w-[15%] text-left">Correct Answer</th>
+          <th class="w-[15%] text-left">Score</th>
+          <th class="w-[15%] text-left">Time</th>
+        </tr>
+      </thead>
+      <tbody id="totalQues"></tbody>
+    </table>
+    <script src="../utils/utils.js"></script>
+    <script>
+      loadNavbar();
+      loadQuizReview();
+      window.onload = function () {
+        setNavbar();
+      };
+    </script>
+  </body>
+</html>

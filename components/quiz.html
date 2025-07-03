@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>User Detail</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body>
+    <nav id="navbar"></nav>
+    <div class="quiz">
+      <section
+        id="user-detail"
+        style="display: flex"
+        class="h-screen pt-[28px] flex items-center justify-center flex-col"
+      >
+        <h1 class="text-3xl font-semibold">Enter Your Details</h1>
+        <div class="mt-10">
+          <label for="" class="font-medium">Name : </label>
+          <input
+            id="name"
+            type="text"
+            placeholder="Enter Your Name"
+            class="mt-2 border-b outline-none px-2 border-black"
+          />
+          <p id="enter-name" class="text-sm text-red-500 ml-14 mt-1" style="display: none;">Please enter your name</p>
+        </div>
+        <div class="mt-4">
+          <label for="" class="font-medium">Email : </label>
+          <input
+            id="email"
+            type="text"
+            placeholder="Enter Your Name"
+            class="mt-2 border-b outline-none px-2 border-black"
+          />
+          <p id="enter-email" class="text-sm text-red-500 ml-14 mt-1" style="display: none;" >Please enter your email</p>
+        </div>
+        <button
+          onclick="startQuiz()"
+          class="bg-black hover:bg-gray-500 text-white rounded-md px-4 py-1 mt-8"
+        >
+          Start Now
+        </button>
+      </section>
+      <section
+        id="quiz-questions"
+        style="display: none"
+        class="flex h-screen pt-[28px]"
+      >
+        <div class="border-r border-black w-3/4">
+          <div class="w-full h-3 mt-4 bg-gray-200">
+            <div id="progress" class="w-[0%] h-3 bg-green-400"></div>
+          </div>
+          <div class="mx-12 mt-12 h-[calc(100vh_-_104px)] relative">
+            <div class="flex justify-between">
+              <h3 id="question">
+                1 : Question Lorem ipsum dolor sit amet consectetur.
+              </h3>
+              <span class="text-md"
+                ><span id="timer">60</span> seconds left</span
+              >
+            </div>
+            <ul class="px-8 pt-6 flex gap-3 flex-col" id="options"></ul>
+            <button
+              onclick="saveNext()"
+              class="absolute bottom-8 right-0 bg-black text-white rounded-md px-4 py-1 mt-8"
+            >
+              Save & Next
+            </button>
+          </div>
+        </div>
+        <div class="w-1/4 h-20 pt-5">
+          <div id="timer" class="text-2xl text-center my-6">
+            <h4 class="">Questions</h4>
+            <!-- <h3 class="mt-3 bg-red-100" id="remaningTime"></h3> -->
+          </div>
+          <div id="container" class="grid grid-cols-6 gap-3 mx-4 my-4"></div>
+          <button
+              onclick="submitQuiz()"
+              class="absolute bottom-8 right-8 bg-black text-white rounded-md px-4 py-1 mt-8"
+            >
+              Submit
+            </button>
+        </div>
+      </section>
+    </div>
+    <script src="../utils/utils.js"></script>
+    <script>
+      loadNavbar();
+    </script>
+  </body>
+</html>
