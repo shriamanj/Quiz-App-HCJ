@@ -1,0 +1,1285 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "ReactJS",
+      "question": "What is React primarily used for?",
+      "correct_answer": "Building user interfaces",
+      "incorrect_answers": [
+        "Database management",
+        "Server-side scripting",
+        "Operating system development"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "ReactJS",
+      "question": "Who developed React?",
+      "correct_answer": "Facebook",
+      "incorrect_answers": ["Google", "Microsoft", "Twitter"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "ReactJS",
+      "question": "What is a component in React?",
+      "correct_answer": "A reusable piece of UI",
+      "incorrect_answers": [
+        "A database table",
+        "A CSS file",
+        "A server endpoint"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "ReactJS",
+      "question": "Which method is used to render React elements to the DOM?",
+      "correct_answer": "ReactDOM.render()",
+      "incorrect_answers": [
+        "renderDOM()",
+        "React.render()",
+        "DOMReact.render()"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "ReactJS",
+      "question": "What is JSX?",
+      "correct_answer": "A syntax extension for JavaScript",
+      "incorrect_answers": [
+        "A database language",
+        "A CSS preprocessor",
+        "A server-side language"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "ReactJS",
+      "question": "Which hook is used to manage state in a functional component?",
+      "correct_answer": "useState",
+      "incorrect_answers": ["useEffect", "useContext", "useReducer"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "ReactJS",
+      "question": "What does the useEffect hook do?",
+      "correct_answer": "Performs side effects in function components",
+      "incorrect_answers": [
+        "Manages state",
+        "Creates components",
+        "Handles routing"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "ReactJS",
+      "question": "What is the virtual DOM?",
+      "correct_answer": "A lightweight copy of the real DOM",
+      "incorrect_answers": [
+        "A server-side database",
+        "A CSS framework",
+        "A JavaScript library"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "ReactJS",
+      "question": "How do you pass data from parent to child component?",
+      "correct_answer": "Using props",
+      "incorrect_answers": ["Using state", "Using refs", "Using context"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "ReactJS",
+      "question": "What is the default port for Create React App?",
+      "correct_answer": "3000",
+      "incorrect_answers": ["8080", "5000", "8000"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "Which lifecycle method is called after a component is rendered for the first time?",
+      "correct_answer": "componentDidMount",
+      "incorrect_answers": [
+        "componentWillMount",
+        "componentDidUpdate",
+        "componentWillUnmount"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "How do you update the state in a class component?",
+      "correct_answer": "Using this.setState()",
+      "incorrect_answers": [
+        "Using setState() directly",
+        "Using useState()",
+        "Using updateState()"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the purpose of keys in React lists?",
+      "correct_answer": "To help React identify which items have changed",
+      "incorrect_answers": [
+        "To style list items",
+        "To encrypt data",
+        "To manage state"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "Which hook is used for context in React?",
+      "correct_answer": "useContext",
+      "incorrect_answers": ["useState", "useEffect", "useReducer"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What does lifting state up mean?",
+      "correct_answer": "Moving state to a common ancestor component",
+      "incorrect_answers": [
+        "Moving state to a child component",
+        "Moving state to a sibling component",
+        "Moving state to the Redux store"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "How do you prevent a component from re-rendering?",
+      "correct_answer": "By using shouldComponentUpdate",
+      "incorrect_answers": [
+        "By using useEffect",
+        "By using useMemo",
+        "By using useCallback"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is prop drilling?",
+      "correct_answer": "Passing data through many nested components",
+      "incorrect_answers": [
+        "Using props in class components",
+        "Using props in functional components",
+        "Passing functions as props"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "Which of the following is NOT a React hook?",
+      "correct_answer": "useFetch",
+      "incorrect_answers": ["useState", "useEffect", "useContext"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of React.Fragment?",
+      "correct_answer": "To group multiple elements without adding extra nodes to the DOM",
+      "incorrect_answers": [
+        "To fetch data",
+        "To manage state",
+        "To handle events"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "How do you handle forms in React?",
+      "correct_answer": "By using controlled components",
+      "incorrect_answers": [
+        "By using uncontrolled components only",
+        "By using Redux only",
+        "By using context only"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is Redux?",
+      "correct_answer": "A state management library",
+      "incorrect_answers": [
+        "A CSS framework",
+        "A database",
+        "A routing library"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "Which function is used to create a Redux store?",
+      "correct_answer": "createStore",
+      "incorrect_answers": ["createRedux", "createState", "createReducer"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the purpose of useReducer hook?",
+      "correct_answer": "To manage complex state logic",
+      "incorrect_answers": [
+        "To fetch data",
+        "To handle side effects",
+        "To create components"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the default value of props in React?",
+      "correct_answer": "undefined",
+      "incorrect_answers": ["null", "0", "false"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "How do you optimize performance in a React app?",
+      "correct_answer": "By using React.memo and useCallback",
+      "incorrect_answers": [
+        "By using more components",
+        "By using more props",
+        "By using more state"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the purpose of useRef hook?",
+      "correct_answer": "To access DOM nodes directly",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle side effects",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the main advantage of using React?",
+      "correct_answer": "Reusable components",
+      "incorrect_answers": [
+        "Server-side rendering only",
+        "Database management",
+        "CSS styling"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "Which of the following is a valid React event?",
+      "correct_answer": "onClick",
+      "incorrect_answers": ["onclick", "onPress", "onTap"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of PropTypes in React?",
+      "correct_answer": "To validate props",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle events",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the purpose of React Router?",
+      "correct_answer": "To handle routing in React applications",
+      "incorrect_answers": [
+        "To manage state",
+        "To fetch data",
+        "To style components"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "How do you create a functional component in React?",
+      "correct_answer": "By writing a JavaScript function that returns JSX",
+      "incorrect_answers": [
+        "By writing a class that extends React.Component",
+        "By writing a CSS file",
+        "By writing an HTML file"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of useMemo hook?",
+      "correct_answer": "To memoize expensive calculations",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle side effects",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the purpose of useCallback hook?",
+      "correct_answer": "To memoize callback functions",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle side effects",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "Which of the following is NOT a valid way to style React components?",
+      "correct_answer": "Using SQL queries",
+      "incorrect_answers": [
+        "Using CSS modules",
+        "Using inline styles",
+        "Using styled-components"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the purpose of React.StrictMode?",
+      "correct_answer": "To highlight potential problems in an application",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "How do you handle errors in React components?",
+      "correct_answer": "By using Error Boundaries",
+      "incorrect_answers": [
+        "By using try-catch in render",
+        "By using useEffect",
+        "By using useState"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the purpose of the children prop?",
+      "correct_answer": "To pass nested elements to a component",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle events",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the default export in a React component file?",
+      "correct_answer": "The main component",
+      "incorrect_answers": [
+        "A CSS file",
+        "A database connection",
+        "A Redux store"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "Which of the following is NOT a valid React component name?",
+      "correct_answer": "mycomponent",
+      "incorrect_answers": ["MyComponent", "UserProfile", "App"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of defaultProps in React?",
+      "correct_answer": "To set default values for props",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle events",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "Which of the following is NOT a valid way to create a React element?",
+      "correct_answer": "document.createElement()",
+      "incorrect_answers": [
+        "React.createElement()",
+        "JSX",
+        "Using functional components"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of useLayoutEffect hook?",
+      "correct_answer": "To run effects synchronously after all DOM mutations",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the main difference between useEffect and useLayoutEffect?",
+      "correct_answer": "useLayoutEffect runs synchronously, useEffect runs asynchronously",
+      "incorrect_answers": [
+        "useEffect is for class components",
+        "useLayoutEffect is for server-side rendering",
+        "There is no difference"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of React.PureComponent?",
+      "correct_answer": "To prevent unnecessary re-renders",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the main purpose of React keys?",
+      "correct_answer": "To uniquely identify elements in a list",
+      "incorrect_answers": [
+        "To style elements",
+        "To manage state",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of React.lazy?",
+      "correct_answer": "To lazy load components",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of Suspense in React?",
+      "correct_answer": "To display a fallback while loading lazy components",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the main advantage of using hooks?",
+      "correct_answer": "They allow using state and other features in functional components",
+      "incorrect_answers": [
+        "They replace Redux",
+        "They improve CSS styling",
+        "They handle server-side rendering"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of useImperativeHandle hook?",
+      "correct_answer": "To customize the instance value that is exposed to parent components",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of forwardRef in React?",
+      "correct_answer": "To pass refs to child components",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of useDebugValue hook?",
+      "correct_answer": "To display a label for custom hooks in React DevTools",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the main difference between controlled and uncontrolled components?",
+      "correct_answer": "Controlled components are managed by React state, uncontrolled by the DOM",
+      "incorrect_answers": [
+        "Uncontrolled components use Redux",
+        "Controlled components use refs",
+        "There is no difference"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of context in React?",
+      "correct_answer": "To pass data through the component tree without props",
+      "incorrect_answers": [
+        "To manage state only",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the main purpose of React DevTools?",
+      "correct_answer": "To debug React applications",
+      "incorrect_answers": [
+        "To style components",
+        "To manage state",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of shouldComponentUpdate lifecycle method?",
+      "correct_answer": "To control whether a component should re-render",
+      "incorrect_answers": [
+        "To fetch data",
+        "To handle events",
+        "To manage state"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of getDerivedStateFromProps lifecycle method?",
+      "correct_answer": "To update state based on props changes",
+      "incorrect_answers": [
+        "To fetch data",
+        "To handle events",
+        "To manage context"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of getSnapshotBeforeUpdate lifecycle method?",
+      "correct_answer": "To capture information before DOM changes",
+      "incorrect_answers": [
+        "To fetch data",
+        "To handle events",
+        "To manage state"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of componentWillUnmount lifecycle method?",
+      "correct_answer": "To perform cleanup before a component is removed",
+      "incorrect_answers": [
+        "To fetch data",
+        "To handle events",
+        "To manage state"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of componentDidUpdate lifecycle method?",
+      "correct_answer": "To perform actions after a component updates",
+      "incorrect_answers": [
+        "To fetch data",
+        "To handle events",
+        "To manage state"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of componentWillReceiveProps lifecycle method?",
+      "correct_answer": "To react to prop changes before rendering",
+      "incorrect_answers": [
+        "To fetch data",
+        "To handle events",
+        "To manage state"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of componentWillUpdate lifecycle method?",
+      "correct_answer": "To perform actions before a component updates",
+      "incorrect_answers": [
+        "To fetch data",
+        "To handle events",
+        "To manage state"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of componentWillMount lifecycle method?",
+      "correct_answer": "To perform actions before the initial render",
+      "incorrect_answers": [
+        "To fetch data",
+        "To handle events",
+        "To manage state"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "ReactJS",
+      "question": "What is the use of componentDidCatch lifecycle method?",
+      "correct_answer": "To catch errors in child components",
+      "incorrect_answers": [
+        "To fetch data",
+        "To handle events",
+        "To manage state"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is reconciliation in React?",
+      "correct_answer": "The process of updating the DOM with new changes",
+      "incorrect_answers": [
+        "The process of fetching data",
+        "The process of managing state",
+        "The process of handling events"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the main purpose of React Fiber?",
+      "correct_answer": "To improve rendering performance and scheduling",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the difference between React and ReactDOM?",
+      "correct_answer": "React is the core library, ReactDOM handles DOM rendering",
+      "incorrect_answers": [
+        "ReactDOM is for server-side rendering",
+        "React is for mobile apps",
+        "There is no difference"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is server-side rendering (SSR) in React?",
+      "correct_answer": "Rendering React components on the server",
+      "incorrect_answers": [
+        "Rendering React components on the client",
+        "Rendering CSS on the server",
+        "Rendering HTML on the client"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is hydration in React?",
+      "correct_answer": "Attaching event listeners to server-rendered HTML",
+      "incorrect_answers": [
+        "Fetching data from the server",
+        "Rendering components on the server",
+        "Styling components"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is code splitting in React?",
+      "correct_answer": "Breaking up code into smaller bundles for faster loading",
+      "incorrect_answers": [
+        "Splitting CSS files",
+        "Splitting database tables",
+        "Splitting HTML files"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of React Profiler?",
+      "correct_answer": "To measure performance of React components",
+      "incorrect_answers": [
+        "To style components",
+        "To manage state",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of Concurrent Mode in React?",
+      "correct_answer": "To improve responsiveness by rendering asynchronously",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.hydrate()?",
+      "correct_answer": "To attach event listeners to server-rendered markup",
+      "incorrect_answers": [
+        "To fetch data",
+        "To manage state",
+        "To handle routing"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOMServer?",
+      "correct_answer": "To render components to static markup on the server",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of React.forwardRef?",
+      "correct_answer": "To pass refs through a component to one of its children",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of React.memo?",
+      "correct_answer": "To memoize functional components",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of React.cloneElement?",
+      "correct_answer": "To clone and return a new React element",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of React.Children?",
+      "correct_answer": "To manipulate and traverse children elements",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of React.createRef?",
+      "correct_answer": "To create a ref to access DOM nodes",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of React.isValidElement?",
+      "correct_answer": "To check if a value is a valid React element",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of React.forwardRef?",
+      "correct_answer": "To forward refs to child components",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of React.lazy?",
+      "correct_answer": "To load components lazily",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of React.Suspense?",
+      "correct_answer": "To show a fallback while loading lazy components",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of React.StrictMode?",
+      "correct_answer": "To highlight potential problems in an application",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.createPortal?",
+      "correct_answer": "To render children into a DOM node outside the parent hierarchy",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unmountComponentAtNode?",
+      "correct_answer": "To unmount a React component from the DOM",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.findDOMNode?",
+      "correct_answer": "To get the DOM node of a React component",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.render?",
+      "correct_answer": "To render a React element into the DOM",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOMServer.renderToString?",
+      "correct_answer": "To render a React element to its initial HTML",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOMServer.renderToStaticMarkup?",
+      "correct_answer": "To render a React element to static HTML without extra attributes",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.flushSync?",
+      "correct_answer": "To force React to flush updates synchronously",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.createRoot?",
+      "correct_answer": "To create a root for concurrent rendering",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.hydrateRoot?",
+      "correct_answer": "To hydrate a server-rendered container for concurrent rendering",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOMClient?",
+      "correct_answer": "To provide APIs for client-side rendering",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOMServer.renderToPipeableStream?",
+      "correct_answer": "To stream server-rendered HTML to the client",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOMServer.renderToReadableStream?",
+      "correct_answer": "To render to a web stream for server-side rendering",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOMServer.renderToNodeStream?",
+      "correct_answer": "To render to a Node.js stream for server-side rendering",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOMServer.renderToStaticNodeStream?",
+      "correct_answer": "To render static HTML to a Node.js stream",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unstable_batchedUpdates?",
+      "correct_answer": "To batch multiple state updates together",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unstable_renderSubtreeIntoContainer?",
+      "correct_answer": "To render a subtree into a DOM node",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unstable_createPortal?",
+      "correct_answer": "To create a portal for rendering children outside the parent hierarchy",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unstable_createRoot?",
+      "correct_answer": "To create a root for concurrent rendering (unstable API)",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unstable_flushControlled?",
+      "correct_answer": "To flush updates inside a controlled callback",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unstable_scheduleHydration?",
+      "correct_answer": "To schedule hydration of a server-rendered container",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unstable_runWithPriority?",
+      "correct_answer": "To run a function with a specific priority",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unstable_now?",
+      "correct_answer": "To get the current time in milliseconds",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unstable_IdlePriority?",
+      "correct_answer": "To schedule work at idle priority",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unstable_LowPriority?",
+      "correct_answer": "To schedule work at low priority",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unstable_NormalPriority?",
+      "correct_answer": "To schedule work at normal priority",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unstable_UserBlockingPriority?",
+      "correct_answer": "To schedule work at user-blocking priority",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unstable_ImmediatePriority?",
+      "correct_answer": "To schedule work at immediate priority",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    }
+  ]
+}

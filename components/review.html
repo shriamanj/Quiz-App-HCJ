@@ -17,11 +17,11 @@
   <body>
     <nav id="navbar"></nav>
     <div id="summary" class="w-[95%] mx-auto pt-16">
-      <div id="summaryOne" class="flex justify-between items-center">
+      <div id="summaryOne" class="sm:flex justify-between items-center">
         <div id="testName">
           <h4 class="text-2xl font-semibold">General Knowledge Test</h4>
         </div>
-        <div class="flex justify-between gap-5">
+        <div class="flex justify-between mt-2 sm:mt-0 gap-5">
           <div>
             <p>Accuracy</p>
             <i class="fa-solid fa-spinner mr-1"></i>
@@ -38,50 +38,48 @@
         </div>
       </div>
       <div id="summaryTwo">
-        <ul class="flex gap-4 text-gray-500">
+        <ul class="flex gap-4 sm:text-sm mt-4 sm:mt-0 text-gray-500">
           <li>Finished</li>
-          <li>July 01, 2025</li>
-          <li>10:00 AM</li>
           <li>
             <i class="fa-solid fa-clipboard-question"></i>
             <span id="totalQuestions">30 Questions</span>
           </li>
         </ul>
       </div>
-      <div id="summaryThree" class="grid grid-cols-5 w-[100%] mt-4">
-        <div class="mt-4 p-2 flex items-center">
+      <div id="summaryThree" class="grid grid-cols-2 sm:grid-cols-5 w-[100%] mt-4 text-sm sm:text-base">
+        <div class="sm:mt-4 p-2 flex items-center">
           <div class="w-2 h-2 bg-black"></div>
           <p class="ml-4 text-gray-500">Correct -</p>
           <p class="ml-1 font-semibold" id="correct"></p>
         </div>
-        <div class="mt-4 p-2 flex items-center">
+        <div class="sm:mt-4 p-2 flex items-center">
           <div class="w-2 h-2 bg-black"></div>
           <p class="ml-4 text-gray-500">Incorrect -</p>
           <p class="ml-1 font-semibold" id="incorrect"></p>
         </div>
-        <div class="mt-4 p-2 flex items-center">
+        <div class="sm:mt-4 p-2 flex items-center">
           <div class="w-2 h-2 bg-black"></div>
           <p class="ml-4 text-gray-500">Skipped -</p>
           <p class="ml-1 font-semibold" id="skipped"></p>
         </div>
-        <div class="mt-4 p-2 flex items-center">
+        <div class="sm:mt-4 p-2 flex items-center">
           <div class="w-2 h-2 bg-black"></div>
           <p class="ml-4 text-gray-500">Not Attempted -</p>
           <p class="ml-1 font-semibold" id="not-attempted"></p>
         </div>
-        <div class="mt-4 p-2 flex items-center">
+        <div class="sm:mt-4 p-2 flex items-center">
           <div class="w-2 h-2 bg-black"></div>
           <p class="ml-4 text-gray-500">Time Taken -</p>
           <p class="ml-1 font-semibold" id="time-taken"></p>
         </div>
       </div>
     </div>
-    <table class="w-[95%] my-10 mx-auto">
+    <table class="w-[95%] my-4 sm:my-10 mx-auto">
       <thead>
         <tr>
           <th class="w-[40%] text-left">Question</th>
-          <th class="w-[15%] text-left">Your Answer</th>
-          <th class="w-[15%] text-left">Correct Answer</th>
+          <th class="w-[15%] text-left hidden sm:table-cell ">Your Answer</th>
+          <th class="w-[15%] text-left hidden sm:table-cell">Correct Answer</th>
           <th class="w-[15%] text-left">Score</th>
           <th class="w-[15%] text-left">Time</th>
         </tr>

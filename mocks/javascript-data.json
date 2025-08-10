@@ -1,0 +1,1081 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "What is JavaScript primarily used for?",
+      "correct_answer": "Web development",
+      "incorrect_answers": [
+        "Database management",
+        "Operating system development",
+        "Network configuration"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "Which company developed JavaScript?",
+      "correct_answer": "Netscape",
+      "incorrect_answers": ["Microsoft", "Google", "Apple"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "Which of the following is a correct way to declare a variable in ES6?",
+      "correct_answer": "let x = 5;",
+      "incorrect_answers": ["var x := 5;", "int x = 5;", "x := 5;"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "What is the output of 'typeof null' in JavaScript?",
+      "correct_answer": "object",
+      "incorrect_answers": ["null", "undefined", "number"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "Which symbol is used for single-line comments in JavaScript?",
+      "correct_answer": "//",
+      "incorrect_answers": ["#", "<!--", "/*"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "Which keyword is used to define a constant in ES6?",
+      "correct_answer": "const",
+      "incorrect_answers": ["let", "var", "static"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "What will 'console.log(2 + '2')' output?",
+      "correct_answer": "22",
+      "incorrect_answers": ["4", "NaN", "undefined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a primitive data type in JavaScript?",
+      "correct_answer": "Array",
+      "incorrect_answers": ["String", "Number", "Boolean"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "How do you write a function in JavaScript?",
+      "correct_answer": "function myFunction() {}",
+      "incorrect_answers": [
+        "def myFunction() {}",
+        "function:myFunction() {}",
+        "func myFunction() {}"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "Which method is used to parse a JSON string into a JavaScript object?",
+      "correct_answer": "JSON.parse()",
+      "incorrect_answers": ["JSON.stringify()", "parseJSON()", "toObject()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "Which operator is used to assign a value to a variable?",
+      "correct_answer": "=",
+      "incorrect_answers": ["==", "===", ":="]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "What is the correct syntax for an arrow function?",
+      "correct_answer": "const add = (a, b) => a + b;",
+      "incorrect_answers": [
+        "const add = (a, b) -> a + b;",
+        "const add = (a, b) := a + b;",
+        "const add = (a, b) => { return a + b }"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "Which method adds an element to the end of an array?",
+      "correct_answer": "push()",
+      "incorrect_answers": ["pop()", "shift()", "unshift()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "What does 'NaN' stand for?",
+      "correct_answer": "Not a Number",
+      "incorrect_answers": ["Not a Name", "Null and None", "Negative and Null"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "Which of the following is a template literal in ES6?",
+      "correct_answer": "`Hello, ${name}!`",
+      "incorrect_answers": [
+        "'Hello, ' + name + '!'",
+        "\"Hello, \" + name + \"!\"",
+        "Hello, name!"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "Which method removes the last element from an array?",
+      "correct_answer": "pop()",
+      "incorrect_answers": ["push()", "shift()", "unshift()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "How do you declare a class in ES6?",
+      "correct_answer": "class MyClass {}",
+      "incorrect_answers": [
+        "function class MyClass() {}",
+        "MyClass = class {}",
+        "class: MyClass {}"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "Which method is used to convert a JavaScript object to a JSON string?",
+      "correct_answer": "JSON.stringify()",
+      "incorrect_answers": ["JSON.parse()", "toString()", "objectToString()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "Which keyword is used to inherit a class in ES6?",
+      "correct_answer": "extends",
+      "incorrect_answers": ["inherits", "super", "implement"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "What is the default value of an uninitialized variable?",
+      "correct_answer": "undefined",
+      "incorrect_answers": ["null", "0", "false"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "What will 'console.log([] + {})' output?",
+      "correct_answer": "[object Object]",
+      "incorrect_answers": ["[]", "{}", "undefined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to declare a function in JavaScript?",
+      "correct_answer": "function = myFunc() {}",
+      "incorrect_answers": [
+        "function myFunc() {}",
+        "const myFunc = function() {}",
+        "const myFunc = () => {}"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "What does the 'this' keyword refer to in a regular function?",
+      "correct_answer": "The object that called the function",
+      "incorrect_answers": [
+        "The global object always",
+        "The function itself",
+        "undefined"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to merge two or more arrays?",
+      "correct_answer": "concat()",
+      "incorrect_answers": ["merge()", "append()", "combine()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "What is the output of 'console.log(typeof NaN)'?",
+      "correct_answer": "number",
+      "incorrect_answers": ["NaN", "undefined", "object"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a falsy value in JavaScript?",
+      "correct_answer": "'false'",
+      "incorrect_answers": ["0", "null", "undefined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to filter elements in an array?",
+      "correct_answer": "filter()",
+      "incorrect_answers": ["find()", "map()", "reduce()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "What is the result of '2 == '2''?",
+      "correct_answer": "true",
+      "incorrect_answers": ["false", "undefined", "NaN"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "What is the result of '2 === '2''?",
+      "correct_answer": "false",
+      "incorrect_answers": ["true", "undefined", "NaN"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to execute a function for each array element?",
+      "correct_answer": "forEach()",
+      "incorrect_answers": ["map()", "filter()", "reduce()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which keyword is used to create a generator function?",
+      "correct_answer": "function*",
+      "incorrect_answers": ["generator", "yield", "gen"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "What is the output of 'console.log(0.1 + 0.2 === 0.3)'?",
+      "correct_answer": "false",
+      "incorrect_answers": ["true", "undefined", "NaN"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to sort the elements of an array?",
+      "correct_answer": "sort()",
+      "incorrect_answers": ["order()", "arrange()", "align()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a looping structure in JavaScript?",
+      "correct_answer": "foreach",
+      "incorrect_answers": ["for", "while", "do...while"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "What is the output of 'console.log([] == false)'?",
+      "correct_answer": "true",
+      "incorrect_answers": ["false", "undefined", "NaN"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to remove the first element from an array?",
+      "correct_answer": "shift()",
+      "incorrect_answers": ["pop()", "unshift()", "push()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is used to handle asynchronous operations in ES6?",
+      "correct_answer": "Promise",
+      "incorrect_answers": ["Callback", "setTimeout", "setInterval"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "What is the output of 'console.log(typeof [])'?",
+      "correct_answer": "object",
+      "incorrect_answers": ["array", "undefined", "null"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to check if an array includes a certain value?",
+      "correct_answer": "includes()",
+      "incorrect_answers": ["contains()", "has()", "exists()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid JavaScript variable name?",
+      "correct_answer": "2names",
+      "incorrect_answers": ["_name", "$name", "name2"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to join all elements of an array into a string?",
+      "correct_answer": "join()",
+      "incorrect_answers": ["concat()", "merge()", "combine()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create an object?",
+      "correct_answer": "var obj = Object[];",
+      "incorrect_answers": [
+        "var obj = {};",
+        "var obj = new Object();",
+        "Object.create(null);"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to return the index of the first occurrence of a value in an array?",
+      "correct_answer": "indexOf()",
+      "incorrect_answers": ["findIndex()", "search()", "locate()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid string method?",
+      "correct_answer": "push()",
+      "incorrect_answers": ["slice()", "substring()", "charAt()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to remove whitespace from both ends of a string?",
+      "correct_answer": "trim()",
+      "incorrect_answers": ["strip()", "cut()", "clean()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a JavaScript data type?",
+      "correct_answer": "character",
+      "incorrect_answers": ["string", "number", "boolean"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to split a string into an array of substrings?",
+      "correct_answer": "split()",
+      "incorrect_answers": ["slice()", "splice()", "divide()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid array method?",
+      "correct_answer": "insert()",
+      "incorrect_answers": ["push()", "pop()", "splice()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to declare a variable?",
+      "correct_answer": "variable x = 10;",
+      "incorrect_answers": ["let x = 10;", "var x = 10;", "const x = 10;"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to return a shallow copy of a portion of an array?",
+      "correct_answer": "slice()",
+      "incorrect_answers": ["splice()", "split()", "copy()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid comparison operator?",
+      "correct_answer": "===",
+      "incorrect_answers": ["==", "!=", "<="]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to return the primitive value of a string object?",
+      "correct_answer": "valueOf()",
+      "incorrect_answers": ["toString()", "getValue()", "primitive()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a function?",
+      "correct_answer": "function: myFunc() {}",
+      "incorrect_answers": [
+        "function myFunc() {}",
+        "const myFunc = function() {}",
+        "const myFunc = () => {}"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to return the number of elements in an array?",
+      "correct_answer": "length",
+      "incorrect_answers": ["size()", "count()", "elements()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to access an object property?",
+      "correct_answer": "object->property",
+      "incorrect_answers": [
+        "object.property",
+        "object['property']",
+        "object[\"property\"]"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to return the first element that satisfies a condition?",
+      "correct_answer": "find()",
+      "incorrect_answers": ["filter()", "map()", "reduce()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create an array?",
+      "correct_answer": "var arr = array();",
+      "incorrect_answers": [
+        "var arr = [];",
+        "var arr = new Array();",
+        "Array.of()"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to return the last index of a specified value?",
+      "correct_answer": "lastIndexOf()",
+      "incorrect_answers": ["indexOf()", "findLastIndex()", "search()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a string?",
+      "correct_answer": "String.create()",
+      "incorrect_answers": [
+        "var str = 'hello';",
+        "var str = \"hello\";",
+        "var str = String('hello');"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to return the Unicode of the character at a specified index?",
+      "correct_answer": "charCodeAt()",
+      "incorrect_answers": ["charAt()", "codeAt()", "unicodeAt()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a number?",
+      "correct_answer": "Number.create()",
+      "incorrect_answers": [
+        "var num = 10;",
+        "var num = Number('10');",
+        "var num = new Number(10);"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to return the square root of a number?",
+      "correct_answer": "Math.sqrt()",
+      "incorrect_answers": ["sqrt()", "squareRoot()", "Math.squareRoot()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a boolean?",
+      "correct_answer": "Boolean.create()",
+      "incorrect_answers": [
+        "var bool = true;",
+        "var bool = Boolean(1);",
+        "var bool = new Boolean(false);"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to return the absolute value of a number?",
+      "correct_answer": "Math.abs()",
+      "incorrect_answers": ["abs()", "absolute()", "Math.absolute()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a date?",
+      "correct_answer": "Date.create()",
+      "incorrect_answers": [
+        "var date = new Date();",
+        "var date = Date();",
+        "Date.now();"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to return the current timestamp?",
+      "correct_answer": "Date.now()",
+      "incorrect_answers": ["now()", "getTime()", "currentTime()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a regular expression?",
+      "correct_answer": "RegExp.create()",
+      "incorrect_answers": [
+        "var regex = /abc/;",
+        "var regex = new RegExp('abc');",
+        "RegExp('abc');"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to test a regular expression against a string?",
+      "correct_answer": "test()",
+      "incorrect_answers": ["match()", "search()", "find()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a map?",
+      "correct_answer": "Map.create()",
+      "incorrect_answers": [
+        "var map = new Map();",
+        "Map();",
+        "new Map([['a', 1]]);"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to set a value in a Map?",
+      "correct_answer": "set()",
+      "incorrect_answers": ["add()", "put()", "insert()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to get a value from a Map?",
+      "correct_answer": "get()",
+      "incorrect_answers": ["find()", "search()", "lookup()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a set?",
+      "correct_answer": "Set.create()",
+      "incorrect_answers": [
+        "var set = new Set();",
+        "Set();",
+        "new Set([1, 2, 3]);"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to add a value to a Set?",
+      "correct_answer": "add()",
+      "incorrect_answers": ["push()", "insert()", "set()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to check if a Set contains a value?",
+      "correct_answer": "has()",
+      "incorrect_answers": ["contains()", "includes()", "exists()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to remove a value from a Set?",
+      "correct_answer": "delete()",
+      "incorrect_answers": ["remove()", "pop()", "shift()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a symbol?",
+      "correct_answer": "Symbol.create()",
+      "incorrect_answers": [
+        "Symbol('desc')",
+        "var sym = Symbol();",
+        "let sym = Symbol('id');"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to get the description of a Symbol?",
+      "correct_answer": "description",
+      "incorrect_answers": ["getDescription()", "desc()", "toString()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a promise?",
+      "correct_answer": "Promise.create()",
+      "incorrect_answers": [
+        "new Promise((resolve, reject) => {})",
+        "Promise.resolve()",
+        "Promise.reject()"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to handle a fulfilled promise?",
+      "correct_answer": "then()",
+      "incorrect_answers": ["catch()", "finally()", "resolve()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to handle a rejected promise?",
+      "correct_answer": "catch()",
+      "incorrect_answers": ["then()", "finally()", "reject()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to execute code after a promise is settled?",
+      "correct_answer": "finally()",
+      "incorrect_answers": ["then()", "catch()", "done()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create an async function?",
+      "correct_answer": "async: function myFunc() {}",
+      "incorrect_answers": [
+        "async function myFunc() {}",
+        "const myFunc = async () => {}",
+        "let myFunc = async function() {}"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which keyword is used to wait for a promise to resolve in an async function?",
+      "correct_answer": "await",
+      "incorrect_answers": ["wait", "resolve", "pause"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "What is the output of 'console.log([...'hello'])'?",
+      "correct_answer": "['h', 'e', 'l', 'l', 'o']",
+      "incorrect_answers": [
+        "['hello']",
+        "['h', 'e', 'l', 'l', 'o', '']",
+        "['h', 'e', 'l', 'l']"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "What is the output of 'console.log({a: 1} == {a: 1})'?",
+      "correct_answer": "false",
+      "incorrect_answers": ["true", "undefined", "NaN"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to clone an object?",
+      "correct_answer": "let clone = obj.clone();",
+      "incorrect_answers": [
+        "let clone = {...obj};",
+        "let clone = Object.assign({}, obj);",
+        "let clone = JSON.parse(JSON.stringify(obj));"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "What is the output of 'console.log(1 + '1' - 1)'?",
+      "correct_answer": "10",
+      "incorrect_answers": ["11", "1", "0"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a class method?",
+      "correct_answer": "function myMethod() {}",
+      "incorrect_answers": [
+        "myMethod() {}",
+        "static myMethod() {}",
+        "get myMethod() {}"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a static method?",
+      "correct_answer": "static: myMethod() {}",
+      "incorrect_answers": [
+        "static myMethod() {}",
+        "ClassName.myMethod = function() {}",
+        "Object.defineProperty(ClassName, 'myMethod', { value: function() {} })"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "What is the output of 'console.log(typeof Symbol())'?",
+      "correct_answer": "symbol",
+      "incorrect_answers": ["object", "string", "undefined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a subclass?",
+      "correct_answer": "class SubClass inherits SuperClass {}",
+      "incorrect_answers": [
+        "class SubClass extends SuperClass {}",
+        "function SubClass() { SuperClass.call(this); }",
+        "Object.setPrototypeOf(SubClass.prototype, SuperClass.prototype);"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a getter?",
+      "correct_answer": "getter myProp() {}",
+      "incorrect_answers": [
+        "get myProp() {}",
+        "Object.defineProperty(obj, 'myProp', { get: function() {} })",
+        "Object.defineProperties(obj, { myProp: { get: function() {} } })"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a setter?",
+      "correct_answer": "setter myProp(val) {}",
+      "incorrect_answers": [
+        "set myProp(val) {}",
+        "Object.defineProperty(obj, 'myProp', { set: function(val) {} })",
+        "Object.defineProperties(obj, { myProp: { set: function(val) {} } })"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a module?",
+      "correct_answer": "module myModule {}",
+      "incorrect_answers": [
+        "export default myModule;",
+        "export function myFunc() {}",
+        "import myFunc from './myModule';"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to import a module?",
+      "correct_answer": "import: myFunc from './myModule';",
+      "incorrect_answers": [
+        "import myFunc from './myModule';",
+        "import { myFunc } from './myModule';",
+        "import * as myModule from './myModule';"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to export a module?",
+      "correct_answer": "export: myFunc;",
+      "incorrect_answers": [
+        "export default myFunc;",
+        "export { myFunc };",
+        "export function myFunc() {}"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a default export?",
+      "correct_answer": "export default: myFunc;",
+      "incorrect_answers": [
+        "export default myFunc;",
+        "export default function myFunc() {}",
+        "export default class MyClass {}"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a named export?",
+      "correct_answer": "export name myFunc;",
+      "incorrect_answers": [
+        "export { myFunc };",
+        "export function myFunc() {}",
+        "export const myFunc = () => {};"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to import a default export?",
+      "correct_answer": "import { myFunc } from './myModule';",
+      "incorrect_answers": [
+        "import myFunc from './myModule';",
+        "import myFunc, { helper } from './myModule';",
+        "import myFunc from './myModule.js';"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to import a named export?",
+      "correct_answer": "import myFunc from './myModule';",
+      "incorrect_answers": [
+        "import { myFunc } from './myModule';",
+        "import * as myModule from './myModule';",
+        "import { myFunc as func } from './myModule';"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a symbol property?",
+      "correct_answer": "obj.symbol = Symbol('id');",
+      "incorrect_answers": [
+        "obj[Symbol('id')] = 1;",
+        "let sym = Symbol('id'); obj[sym] = 1;",
+        "Object.defineProperty(obj, Symbol('id'), { value: 1 });"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a computed property?",
+      "correct_answer": "obj.computed = value;",
+      "incorrect_answers": [
+        "obj['computed'] = value;",
+        "let key = 'computed'; obj[key] = value;",
+        "let obj = { [key]: value };"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a private field in a class?",
+      "correct_answer": "this._private = value;",
+      "incorrect_answers": [
+        "#private = value;",
+        "class MyClass { #private = value; }",
+        "Object.defineProperty(this, '_private', { value });"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a static field in a class?",
+      "correct_answer": "static: field = value;",
+      "incorrect_answers": [
+        "static field = value;",
+        "MyClass.field = value;",
+        "Object.defineProperty(MyClass, 'field', { value });"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a computed method name?",
+      "correct_answer": "method[computed]() {}",
+      "incorrect_answers": [
+        "[computed]() {}",
+        "let obj = { [computed]() {} };",
+        "Object.defineProperty(obj, computed, { value: function() {} });"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a generator method?",
+      "correct_answer": "generator* myGen() {}",
+      "incorrect_answers": [
+        "*myGen() {}",
+        "function* myGen() {}",
+        "let myGen = function* () {};"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to yield a value in a generator?",
+      "correct_answer": "return value;",
+      "incorrect_answers": ["yield value;", "yield* iterable;", "yield;"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to handle errors in async/await?",
+      "correct_answer": "try: await myFunc();",
+      "incorrect_answers": [
+        "try { await myFunc(); } catch(e) {}",
+        "myFunc().catch(e => {})",
+        "Promise.resolve().then(async () => { await myFunc(); }).catch(e => {})"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to destructure an array?",
+      "correct_answer": "let [a, b, c] = arr();",
+      "incorrect_answers": [
+        "let [a, b, c] = arr;",
+        "const [x, y] = [1, 2];",
+        "let [, , z] = arr;"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to destructure an object?",
+      "correct_answer": "let {a, b, c} = obj();",
+      "incorrect_answers": [
+        "let {a, b, c} = obj;",
+        "const {x, y} = {x: 1, y: 2};",
+        "let {a: alpha, b: beta} = obj;"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to use the spread operator?",
+      "correct_answer": "...arr = [1, 2, 3];",
+      "incorrect_answers": ["[...arr]", "{...obj}", "func(...args)"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to use the rest parameter?",
+      "correct_answer": "function myFunc(...args, last) {}",
+      "incorrect_answers": [
+        "function myFunc(...args) {}",
+        "const myFunc = (...args) => {}",
+        "function myFunc(a, ...rest) {}"
+      ]
+    }
+  ]
+}

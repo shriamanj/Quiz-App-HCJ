@@ -1,0 +1,1302 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is known as the 'God of Cricket'?",
+      "correct_answer": "Sachin Tendulkar",
+      "incorrect_answers": [
+        "Virat Kohli",
+        "Brian Lara",
+        "Ricky Ponting"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country won the first ICC Cricket World Cup in 1975?",
+      "correct_answer": "West Indies",
+      "incorrect_answers": [
+        "Australia",
+        "India",
+        "England"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "How many players are there in a cricket team (on the field)?",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "10",
+        "12",
+        "9"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the captain of India when they won the 2011 Cricket World Cup?",
+      "correct_answer": "MS Dhoni",
+      "incorrect_answers": [
+        "Virat Kohli",
+        "Sourav Ganguly",
+        "Kapil Dev"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which bowler has taken the most wickets in Test cricket?",
+      "correct_answer": "Muttiah Muralitharan",
+      "incorrect_answers": [
+        "Shane Warne",
+        "Anil Kumble",
+        "James Anderson"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "What is the maximum number of overs allowed per bowler in a standard ODI match?",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "8",
+        "12",
+        "6"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country is known as the 'Baggy Greens' in cricket?",
+      "correct_answer": "Australia",
+      "incorrect_answers": [
+        "South Africa",
+        "New Zealand",
+        "England"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who hit six sixes in an over in a T20 World Cup match?",
+      "correct_answer": "Yuvraj Singh",
+      "incorrect_answers": [
+        "Chris Gayle",
+        "Kieron Pollard",
+        "AB de Villiers"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian cricketer is nicknamed 'The Wall'?",
+      "correct_answer": "Rahul Dravid",
+      "incorrect_answers": [
+        "VVS Laxman",
+        "Sourav Ganguly",
+        "Sunil Gavaskar"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who holds the record for the highest individual score in ODI cricket?",
+      "correct_answer": "Rohit Sharma",
+      "incorrect_answers": [
+      "Martin Guptill",
+      "Virender Sehwag",
+      "Chris Gayle"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country hosted the 2019 ICC Cricket World Cup?",
+      "correct_answer": "England",
+      "incorrect_answers": [
+      "Australia",
+      "India",
+      "South Africa"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first cricketer to score 10,000 runs in Test cricket?",
+      "correct_answer": "Sunil Gavaskar",
+      "incorrect_answers": [
+      "Allan Border",
+      "Sachin Tendulkar",
+      "Brian Lara"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian bowler is famous for the 'Slinga' bowling action?",
+      "correct_answer": "Lasith Malinga",
+      "incorrect_answers": [
+      "Jasprit Bumrah",
+      "Zaheer Khan",
+      "Irfan Pathan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who won the Orange Cap in IPL 2020?",
+      "correct_answer": "KL Rahul",
+      "incorrect_answers": [
+      "Shikhar Dhawan",
+      "David Warner",
+      "AB de Villiers"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which stadium is known as the 'Home of Cricket'?",
+      "correct_answer": "Lord's",
+      "incorrect_answers": [
+        "MCG",
+        "Eden Gardens",
+        "Wankhede Stadium"
+      ]
+    }
+    ,
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only player to score 100 international centuries?",
+      "correct_answer": "Sachin Tendulkar",
+      "incorrect_answers": [
+        "Ricky Ponting",
+        "Virat Kohli",
+        "Brian Lara"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country is called the 'Proteas' in cricket?",
+      "correct_answer": "South Africa",
+      "incorrect_answers": [
+        "Australia",
+        "New Zealand",
+        "England"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who won the ICC Cricket World Cup in 2015?",
+      "correct_answer": "Australia",
+      "incorrect_answers": [
+        "New Zealand",
+        "India",
+        "South Africa"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian cricketer is known as 'Captain Cool'?",
+      "correct_answer": "MS Dhoni",
+      "incorrect_answers": [
+        "Virat Kohli",
+        "Rohit Sharma",
+        "Kapil Dev"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the fastest bowler to take 400 wickets in Test cricket?",
+      "correct_answer": "Muttiah Muralitharan",
+      "incorrect_answers": [
+        "Dale Steyn",
+        "Ravichandran Ashwin",
+        "Richard Hadlee"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country won the first T20 World Cup?",
+      "correct_answer": "India",
+      "incorrect_answers": [
+        "Pakistan",
+        "Australia",
+        "South Africa"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only batsman to hit six sixes in an over in ODI cricket?",
+      "correct_answer": "Herschelle Gibbs",
+      "incorrect_answers": [
+        "Yuvraj Singh",
+        "Chris Gayle",
+        "Kieron Pollard"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which cricketer is known as the 'Rawalpindi Express'?",
+      "correct_answer": "Shoaib Akhtar",
+      "incorrect_answers": [
+        "Wasim Akram",
+        "Waqar Younis",
+        "Imran Khan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first captain to win all ICC trophies?",
+      "correct_answer": "MS Dhoni",
+      "incorrect_answers": [
+        "Ricky Ponting",
+        "Clive Lloyd",
+        "Imran Khan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country is famous for the 'Black Caps' cricket team?",
+      "correct_answer": "New Zealand",
+      "incorrect_answers": [
+        "South Africa",
+        "England",
+        "Australia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who scored the fastest century in ODI cricket?",
+      "correct_answer": "AB de Villiers",
+      "incorrect_answers": [
+        "Corey Anderson",
+        "Shahid Afridi",
+        "Virat Kohli"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian cricketer is called 'Hitman'?",
+      "correct_answer": "Rohit Sharma",
+      "incorrect_answers": [
+        "Virat Kohli",
+        "Shikhar Dhawan",
+        "KL Rahul"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first bowler to take a hat-trick in World Cup history?",
+      "correct_answer": "Chetan Sharma",
+      "incorrect_answers": [
+        "Lasith Malinga",
+        "Wasim Akram",
+        "Chaminda Vaas"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country has won the most ICC Cricket World Cups?",
+      "correct_answer": "Australia",
+      "incorrect_answers": [
+        "India",
+        "West Indies",
+        "England"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only player to captain India in 200 ODIs?",
+      "correct_answer": "MS Dhoni",
+      "incorrect_answers": [
+        "Sourav Ganguly",
+        "Virat Kohli",
+        "Kapil Dev"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which cricketer is known as 'Boom Boom'?",
+      "correct_answer": "Shahid Afridi",
+      "incorrect_answers": [
+        "Shoaib Akhtar",
+        "Wasim Akram",
+        "Yuvraj Singh"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first Indian to take a hat-trick in Test cricket?",
+      "correct_answer": "Harbhajan Singh",
+      "incorrect_answers": [
+        "Anil Kumble",
+        "Kapil Dev",
+        "Zaheer Khan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country is called the 'Men in Blue'?",
+      "correct_answer": "India",
+      "incorrect_answers": [
+        "Australia",
+        "England",
+        "South Africa"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only bowler to take 800 wickets in Test cricket?",
+      "correct_answer": "Muttiah Muralitharan",
+      "incorrect_answers": [
+        "Shane Warne",
+        "Anil Kumble",
+        "James Anderson"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who scored the first double century in ODI cricket?",
+      "correct_answer": "Sachin Tendulkar",
+      "incorrect_answers": [
+        "Virender Sehwag",
+        "Rohit Sharma",
+        "Chris Gayle"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country won the ICC Champions Trophy in 2017?",
+      "correct_answer": "Pakistan",
+      "incorrect_answers": [
+        "India",
+        "England",
+        "South Africa"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only Indian bowler to take 10 wickets in a Test innings?",
+      "correct_answer": "Anil Kumble",
+      "incorrect_answers": [
+        "Harbhajan Singh",
+        "Kapil Dev",
+        "Zaheer Khan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which cricketer is known as 'Universe Boss'?",
+      "correct_answer": "Chris Gayle",
+      "incorrect_answers": [
+        "Andre Russell",
+        "Kieron Pollard",
+        "Dwayne Bravo"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first captain to win the World Cup twice?",
+      "correct_answer": "Ricky Ponting",
+      "incorrect_answers": [
+        "Clive Lloyd",
+        "MS Dhoni",
+        "Imran Khan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian cricketer is called 'Dada'?",
+      "correct_answer": "Sourav Ganguly",
+      "incorrect_answers": [
+        "Rahul Dravid",
+        "Sachin Tendulkar",
+        "Virender Sehwag"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only player to score a triple century in Test cricket for India?",
+      "correct_answer": "Virender Sehwag",
+      "incorrect_answers": [
+        "Sachin Tendulkar",
+        "Rahul Dravid",
+        "VVS Laxman"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country is called the 'Three Lions' in cricket?",
+      "correct_answer": "England",
+      "incorrect_answers": [
+        "Australia",
+        "South Africa",
+        "New Zealand"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first batsman to score 10,000 runs in ODI cricket?",
+      "correct_answer": "Sachin Tendulkar",
+      "incorrect_answers": [
+        "Ricky Ponting",
+        "Sanath Jayasuriya",
+        "Brian Lara"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which bowler has the best bowling figures in ODI cricket?",
+      "correct_answer": "Chaminda Vaas",
+      "incorrect_answers": [
+        "Glenn McGrath",
+        "Shahid Afridi",
+        "Muttiah Muralitharan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only player to win the ICC Cricketer of the Year award three times?",
+      "correct_answer": "Virat Kohli",
+      "incorrect_answers": [
+        "Sachin Tendulkar",
+        "Ricky Ponting",
+        "AB de Villiers"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country won the ICC T20 World Cup in 2016?",
+      "correct_answer": "West Indies",
+      "incorrect_answers": [
+        "England",
+        "India",
+        "Australia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only Indian to win the ICC ODI Player of the Year award twice?",
+      "correct_answer": "MS Dhoni",
+      "incorrect_answers": [
+        "Virat Kohli",
+        "Sachin Tendulkar",
+        "Yuvraj Singh"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which cricketer is called 'Mr. 360'?",
+      "correct_answer": "AB de Villiers",
+      "incorrect_answers": [
+        "Glenn Maxwell",
+        "Jos Buttler",
+        "Kieron Pollard"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first Indian to score a century in T20 Internationals?",
+      "correct_answer": "Suresh Raina",
+      "incorrect_answers": [
+        "Rohit Sharma",
+        "Virat Kohli",
+        "Yuvraj Singh"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country won the ICC Cricket World Cup in 2019?",
+      "correct_answer": "England",
+      "incorrect_answers": [
+        "New Zealand",
+        "Australia",
+        "India"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only bowler to take four wickets in four balls in ODIs?",
+      "correct_answer": "Lasith Malinga",
+      "incorrect_answers": [
+        "Chaminda Vaas",
+        "Wasim Akram",
+        "Saqlain Mushtaq"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian cricketer is called 'The Turbanator'?",
+      "correct_answer": "Harbhajan Singh",
+      "incorrect_answers": [
+        "Yuvraj Singh",
+        "Ravichandran Ashwin",
+        "Ishant Sharma"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first batsman to score a century in IPL?",
+      "correct_answer": "Brendon McCullum",
+      "incorrect_answers": [
+        "Chris Gayle",
+        "Sachin Tendulkar",
+        "Virat Kohli"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country is known as the 'Lions' in cricket?",
+      "correct_answer": "Sri Lanka",
+      "incorrect_answers": [
+        "England",
+        "South Africa",
+        "New Zealand"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only player to score a century in all three formats on debut?",
+      "correct_answer": "No one",
+      "incorrect_answers": [
+        "KL Rahul",
+        "Martin Guptill",
+        "David Warner"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian cricketer is called 'Gabbar'?",
+      "correct_answer": "Shikhar Dhawan",
+      "incorrect_answers": [
+        "Rohit Sharma",
+        "Virat Kohli",
+        "KL Rahul"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first Indian to win the Orange Cap in IPL?",
+      "correct_answer": "Sachin Tendulkar",
+      "incorrect_answers": [
+        "Virat Kohli",
+        "KL Rahul",
+        "Shikhar Dhawan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which bowler has the most wickets in IPL history?",
+      "correct_answer": "Dwayne Bravo",
+      "incorrect_answers": [
+        "Lasith Malinga",
+        "Amit Mishra",
+        "Sunil Narine"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only Indian to win the Purple Cap in IPL twice?",
+      "correct_answer": "Bhuvneshwar Kumar",
+      "incorrect_answers": [
+        "Harbhajan Singh",
+        "Amit Mishra",
+        "Yuzvendra Chahal"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country won the first ICC Champions Trophy?",
+      "correct_answer": "South Africa",
+      "incorrect_answers": [
+        "India",
+        "Australia",
+        "Sri Lanka"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only player to score 400 runs in a Test innings?",
+      "correct_answer": "Brian Lara",
+      "incorrect_answers": [
+        "Matthew Hayden",
+        "Sachin Tendulkar",
+        "Virender Sehwag"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian cricketer is called 'Jumbo'?",
+      "correct_answer": "Anil Kumble",
+      "incorrect_answers": [
+        "Harbhajan Singh",
+        "Zaheer Khan",
+        "Kapil Dev"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first Indian to win the Purple Cap in IPL?",
+      "correct_answer": "RP Singh",
+      "incorrect_answers": [
+        "Harbhajan Singh",
+        "Amit Mishra",
+        "Bhuvneshwar Kumar"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country is called the 'Windies'?",
+      "correct_answer": "West Indies",
+      "incorrect_answers": [
+        "England",
+        "Australia",
+        "South Africa"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only Indian to win the ICC Test Player of the Year award?",
+      "correct_answer": "Rahul Dravid",
+      "incorrect_answers": [
+        "Sachin Tendulkar",
+        "Virat Kohli",
+        "Anil Kumble"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which cricketer is called 'The Finisher'?",
+      "correct_answer": "MS Dhoni",
+      "incorrect_answers": [
+        "Yuvraj Singh",
+        "Michael Bevan",
+        "Jos Buttler"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first Indian to score a century in World Cup?",
+      "correct_answer": "Kapil Dev",
+      "incorrect_answers": [
+        "Sunil Gavaskar",
+        "Sachin Tendulkar",
+        "Mohinder Amarnath"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian cricketer is called 'Nawab of Najafgarh'?",
+      "correct_answer": "Virender Sehwag",
+      "incorrect_answers": [
+        "Yuvraj Singh",
+        "Gautam Gambhir",
+        "Rahul Dravid"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only Indian to win the ICC Emerging Player of the Year award?",
+      "correct_answer": "Ishant Sharma",
+      "incorrect_answers": [
+        "Virat Kohli",
+        "Rohit Sharma",
+        "KL Rahul"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country won the ICC T20 World Cup in 2009?",
+      "correct_answer": "Pakistan",
+      "incorrect_answers": [
+        "India",
+        "Sri Lanka",
+        "Australia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only Indian to win the ICC Spirit of Cricket award?",
+      "correct_answer": "MS Dhoni",
+      "incorrect_answers": [
+        "Sachin Tendulkar",
+        "Rahul Dravid",
+        "Virat Kohli"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian cricketer is called 'Sir'?",
+      "correct_answer": "Ravindra Jadeja",
+      "incorrect_answers": [
+        "Rahul Dravid",
+        "Ajinkya Rahane",
+        "Cheteshwar Pujara"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first Indian to score a triple century in Test cricket?",
+      "correct_answer": "Virender Sehwag",
+      "incorrect_answers": [
+        "Sachin Tendulkar",
+        "Rahul Dravid",
+        "VVS Laxman"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country won the ICC Cricket World Cup in 1992?",
+      "correct_answer": "Pakistan",
+      "incorrect_answers": [
+        "England",
+        "Australia",
+        "New Zealand"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only Indian to win the ICC ODI Player of the Year award in 2010?",
+      "correct_answer": "Sachin Tendulkar",
+      "incorrect_answers": [
+        "Virat Kohli",
+        "MS Dhoni",
+        "Yuvraj Singh"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian cricketer is called 'Chiku'?",
+      "correct_answer": "Virat Kohli",
+      "incorrect_answers": [
+        "Rohit Sharma",
+        "KL Rahul",
+        "Shikhar Dhawan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first Indian to win the ICC Test Player of the Year award?",
+      "correct_answer": "Rahul Dravid",
+      "incorrect_answers": [
+        "Sachin Tendulkar",
+        "Virat Kohli",
+        "Anil Kumble"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country won the ICC Cricket World Cup in 1983?",
+      "correct_answer": "India",
+      "incorrect_answers": [
+        "West Indies",
+        "Australia",
+        "England"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only Indian to win the ICC Player of the Tournament in World Cup?",
+      "correct_answer": "Yuvraj Singh",
+      "incorrect_answers": [
+        "Sachin Tendulkar",
+        "MS Dhoni",
+        "Virat Kohli"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian cricketer is called 'Mahi'?",
+      "correct_answer": "MS Dhoni",
+      "incorrect_answers": [
+        "Virat Kohli",
+        "Rohit Sharma",
+        "Yuvraj Singh"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first Indian to win the ICC Cricketer of the Year award?",
+      "correct_answer": "Rahul Dravid",
+      "incorrect_answers": [
+        "Sachin Tendulkar",
+        "Virat Kohli",
+        "MS Dhoni"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country won the ICC T20 World Cup in 2012?",
+      "correct_answer": "West Indies",
+      "incorrect_answers": [
+        "Sri Lanka",
+        "Australia",
+        "India"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only Indian to win the ICC Test Player of the Year award twice?",
+      "correct_answer": "Virat Kohli",
+      "incorrect_answers": [
+        "Sachin Tendulkar",
+        "Rahul Dravid",
+        "Anil Kumble"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian cricketer is called 'Boom Boom'?",
+      "correct_answer": "Jasprit Bumrah",
+      "incorrect_answers": [
+        "Yuvraj Singh",
+        "Rohit Sharma",
+        "Shikhar Dhawan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first Indian to win the ICC ODI Player of the Year award?",
+      "correct_answer": "MS Dhoni",
+      "incorrect_answers": [
+        "Sachin Tendulkar",
+        "Virat Kohli",
+        "Yuvraj Singh"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country won the ICC Cricket World Cup in 2007?",
+      "correct_answer": "Australia",
+      "incorrect_answers": [
+        "Sri Lanka",
+        "South Africa",
+        "New Zealand"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only Indian to win the ICC Spirit of Cricket award twice?",
+      "correct_answer": "MS Dhoni",
+      "incorrect_answers": [
+        "Sachin Tendulkar",
+        "Rahul Dravid",
+        "Virat Kohli"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian cricketer is called 'The Run Machine'?",
+      "correct_answer": "Virat Kohli",
+      "incorrect_answers": [
+        "Rohit Sharma",
+        "Sachin Tendulkar",
+        "Rahul Dravid"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first Indian to win the ICC T20I Player of the Year award?",
+      "correct_answer": "Virat Kohli",
+      "incorrect_answers": [
+        "Rohit Sharma",
+        "Yuvraj Singh",
+        "KL Rahul"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country won the ICC Champions Trophy in 2013?",
+      "correct_answer": "India",
+      "incorrect_answers": [
+        "England",
+        "Australia",
+        "South Africa"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only Indian to win the ICC Test Player of the Year award in 2018?",
+      "correct_answer": "Virat Kohli",
+      "incorrect_answers": [
+        "Cheteshwar Pujara",
+        "Ajinkya Rahane",
+        "Ravichandran Ashwin"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian cricketer is called 'The Hitman'?",
+      "correct_answer": "Rohit Sharma",
+      "incorrect_answers": [
+        "Virat Kohli",
+        "Shikhar Dhawan",
+        "KL Rahul"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first Indian to win the ICC ODI Player of the Year award in 2008?",
+      "correct_answer": "MS Dhoni",
+      "incorrect_answers": [
+        "Sachin Tendulkar",
+        "Virat Kohli",
+        "Yuvraj Singh"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country won the ICC Cricket World Cup in 1996?",
+      "correct_answer": "Sri Lanka",
+      "incorrect_answers": [
+        "Australia",
+        "India",
+        "South Africa"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only Indian to win the ICC Test Player of the Year award in 2017?",
+      "correct_answer": "Virat Kohli",
+      "incorrect_answers": [
+        "Cheteshwar Pujara",
+        "Ajinkya Rahane",
+        "Ravichandran Ashwin"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian cricketer is called 'The Wall'?",
+      "correct_answer": "Rahul Dravid",
+      "incorrect_answers": [
+        "VVS Laxman",
+        "Sourav Ganguly",
+        "Sunil Gavaskar"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first Indian to win the ICC ODI Player of the Year award in 2009?",
+      "correct_answer": "MS Dhoni",
+      "incorrect_answers": [
+        "Sachin Tendulkar",
+        "Virat Kohli",
+        "Yuvraj Singh"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country won the ICC Cricket World Cup in 2003?",
+      "correct_answer": "Australia",
+      "incorrect_answers": [
+        "India",
+        "South Africa",
+        "England"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only Indian to win the ICC Test Player of the Year award in 2016?",
+      "correct_answer": "Ravichandran Ashwin",
+      "incorrect_answers": [
+        "Virat Kohli",
+        "Cheteshwar Pujara",
+        "Ajinkya Rahane"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian cricketer is called 'The Prince of Kolkata'?",
+      "correct_answer": "Sourav Ganguly",
+      "incorrect_answers": [
+        "Rahul Dravid",
+        "Sachin Tendulkar",
+        "Virender Sehwag"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first Indian to win the ICC ODI Player of the Year award in 2011?",
+      "correct_answer": "Virender Sehwag",
+      "incorrect_answers": [
+        "Sachin Tendulkar",
+        "Virat Kohli",
+        "MS Dhoni"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country won the ICC Cricket World Cup in 1999?",
+      "correct_answer": "Australia",
+      "incorrect_answers": [
+        "Pakistan",
+        "South Africa",
+        "New Zealand"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only Indian to win the ICC Test Player of the Year award in 2015?",
+      "correct_answer": "Ravichandran Ashwin",
+      "incorrect_answers": [
+        "Virat Kohli",
+        "Cheteshwar Pujara",
+        "Ajinkya Rahane"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian cricketer is called 'The Haryana Hurricane'?",
+      "correct_answer": "Kapil Dev",
+      "incorrect_answers": [
+        "Sunil Gavaskar",
+        "Mohinder Amarnath",
+        "Ravi Shastri"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who was the first Indian to win the ICC ODI Player of the Year award in 2012?",
+      "correct_answer": "Virat Kohli",
+      "incorrect_answers": [
+        "Sachin Tendulkar",
+        "MS Dhoni",
+        "Yuvraj Singh"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which country won the ICC Cricket World Cup in 1987?",
+      "correct_answer": "Australia",
+      "incorrect_answers": [
+        "England",
+        "India",
+        "Pakistan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Who is the only Indian to win the ICC Test Player of the Year award in 2014?",
+      "correct_answer": "Cheteshwar Pujara",
+      "incorrect_answers": [
+        "Virat Kohli",
+        "Ajinkya Rahane",
+        "Ravichandran Ashwin"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Cricket",
+      "question": "Which Indian cricketer is called 'The Little Master'?",
+      "correct_answer": "Sunil Gavaskar",
+      "incorrect_answers": [
+        "Sachin Tendulkar",
+        "Rahul Dravid",
+        "Virender Sehwag"
+      ]
+    }
+  ]
+}

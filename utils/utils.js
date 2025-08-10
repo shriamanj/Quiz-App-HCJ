@@ -12,7 +12,7 @@ function loadNavbar(selector = "#navbar") {
 }
 
 function getQuesNumberClassName(i) {
-  let className = "flex justify-center p-2 rounded-full shadow w-10 h-10 ";
+  let className = "flex items-center justify-center p-2 rounded-full shadow w-8 md:w-10 h-8 md:h-10 text-sm md:text-base ";
   if (currentUser?.questions[i]?.yourAnswer !== "") {
     className = className + "bg-green-300";
   } else if (
@@ -82,13 +82,13 @@ function loadQuizReview() {
     const tr = document.createElement("tr");
     tr.className = "p-2 even:bg-blue-100";
     const td1 = document.createElement("td");
-    td1.className = "w-[40%] p-2";
+    td1.className = "w-[70%] text-sm sm:text-base sm:w-[40%] p-2";
     td1.textContent = `Q${ques.id + 1}. ${ques.question}`;
     const td2 = document.createElement("td");
-    td2.className = "w-[15%]";
+    td2.className = "w-[15%] hidden sm:table-cell";
     td2.textContent = ques.yourAnswer;
     const td3 = document.createElement("td");
-    td3.className = "w-[15%]";
+    td3.className = "w-[15%] hidden sm:table-cell";
     td3.textContent = ques.correct_answer;
     const td4 = document.createElement("td");
     td4.className = "w-[15%]";
@@ -131,7 +131,7 @@ function setNavbar() {
   document.getElementById("nav-items").style.display = "none";
   const userDetails = document.getElementById("user-details");
   userDetails.style.display = "block";
-  userDetails.textContent = `${currentUser?.name} (${currentUser?.email})`;
+  userDetails.innerHTML = `${currentUser?.name} (${currentUser?.email})`;
 }
 
 function formatTime(seconds) {
@@ -180,14 +180,28 @@ function getOption(id, questionText, options) {
   startTimer();
 }
 
+const shuffleArray = (arr) => {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const randomIdx = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[randomIdx]] = [arr[randomIdx], arr[i]];
+  }
+  return arr;
+};
+
+const urls = {
+  cricket: "../mocks/cricket-data.json",
+  html: "../mocks/html-css-data.json",
+  javascript: "../mocks/javascript-data.json",
+  react: "../mocks/react-data.json",
+};
+
 async function fetchQuestion() {
+  const category = document.getElementById("category").value;
   const users = JSON.parse(localStorage.getItem("users")) || [];
-  currentUser = users[0];
-  const res = await fetch(
-    "https://opentdb.com/api.php?amount=10&category=21&difficulty=easy&type=multiple"
-  );
+  const res = await fetch(urls[category]);
   const data = await res.json();
-  const ques = data.results.map((item, index) => {
+  const shuffeledQues = shuffleArray(data.results).slice(0, 20);
+  const ques = shuffeledQues.map((item, index) => {
     return { ...item, id: index, yourAnswer: "", timeTaken: 60 };
   });
   currentUser.questions = ques;
@@ -204,27 +218,37 @@ async function fetchQuestion() {
   getOption(ques[0].id, ques[0].question, options);
 }
 
+function validateEmail(email) {
+  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  return emailRegex.test(email);
+}
+
 async function startQuiz() {
   stopTimer();
   const name = document.getElementById("name").value;
   const email = document.getElementById("email").value;
   if (name && email) {
-    const rollNumber = Math.floor(100000 + Math.random() * 900000);
-    const users = JSON.parse(localStorage.getItem("users")) || [];
-    const index = users.findIndex((user) => email === user.email);
-    currentUser = {
-      name: name,
-      email: email,
-      rollNumber: rollNumber,
-      score: "",
-      totalTimeTaken: "",
-      questions: [],
-    };
-    if (index !== -1) users[index] = { ...currentUser };
-    else users.push(currentUser);
-    localStorage.setItem("users", JSON.stringify(users));
-    localStorage.setItem("currentUser", JSON.stringify(currentUser));
-    fetchQuestion();
+    if (validateEmail(email)) {
+      const rollNumber = Math.floor(100000 + Math.random() * 900000);
+      const users = JSON.parse(localStorage.getItem("users")) || [];
+      const index = users.findIndex((user) => email === user.email);
+      currentUser = {
+        name: name,
+        email: email,
+        rollNumber: rollNumber,
+        score: "",
+        totalTimeTaken: "",
+        questions: [],
+      };
+      if (index !== -1) users[index] = { ...currentUser };
+      else users.push(currentUser);
+      localStorage.setItem("users", JSON.stringify(users));
+      localStorage.setItem("currentUser", JSON.stringify(currentUser));
+      fetchQuestion();
+    } else {
+      document.getElementById("enter-name").style.display = "none";
+      document.getElementById("enter-email").style.display = "block";
+    }
   } else {
     document.getElementById("enter-name").style.display =
       name == "" ? "block" : "none";
@@ -301,6 +325,10 @@ function findResult() {
   const users = JSON.parse(localStorage.getItem("users"));
   const emailId = document.getElementById("email-id").value;
   const currentUser = users.find((user) => emailId === user.email);
-  localStorage.setItem("currentUser", JSON.stringify(currentUser));
-  window.location.href = "review.html";
+  if (currentUser) {
+    localStorage.setItem("currentUser", JSON.stringify(currentUser));
+    window.location.href = "review.html";
+  } else {
+    alert("User not found.");
+  }
 }
