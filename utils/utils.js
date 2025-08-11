@@ -7,12 +7,21 @@ function loadNavbar(selector = "#navbar") {
     .then((res) => res.text())
     .then((data) => {
       document.querySelector(selector).innerHTML = data;
+      if (
+        window.location.href.includes("quiz.html") ||
+        window.location.href.includes("review.html")
+      )
+        checkQuizStatus();
+      else if (window.location.href.includes("index.html")) {
+        localStorage.setItem("currentUser", null);
+      }
     })
     .catch((err) => console.error("Error loading navbar:", err));
 }
 
 function getQuesNumberClassName(i) {
-  let className = "flex items-center justify-center p-2 rounded-full shadow w-8 md:w-10 h-8 md:h-10 text-sm md:text-base ";
+  let className =
+    "flex items-center justify-center p-2 rounded-full shadow w-8 md:w-10 h-8 md:h-10 text-sm md:text-base ";
   if (currentUser?.questions[i]?.yourAnswer !== "") {
     className = className + "bg-green-300";
   } else if (
@@ -195,27 +204,34 @@ const urls = {
   react: "../mocks/react-data.json",
 };
 
+const setQuizUI = (ques) => {
+  currentQuestion = ques;
+  document.getElementById("user-detail").style.display = "none";
+  document.getElementById("quiz-questions").style.display = "flex";
+  const navbar = document.getElementById("nav-items");
+  navbar.style.display = "none";
+  document.getElementById("remaningTime").style.display = "flex";
+  const options = [...ques.incorrect_answers, ques.correct_answer].sort(
+    () => Math.random() - 0.5
+  );
+  localStorage.setItem("currentUser", JSON.stringify(currentUser));
+  loadQuestions();
+  remaningTimer();
+  getOption(ques.id, ques.question, options);
+  disableSubmit();
+};
+
 async function fetchQuestion() {
   const category = document.getElementById("category").value;
-  const users = JSON.parse(localStorage.getItem("users")) || [];
   const res = await fetch(urls[category]);
   const data = await res.json();
-  const shuffeledQues = shuffleArray(data.results).slice(0, 20);
-  const ques = shuffeledQues.map((item, index) => {
+  const shuffeledQues = shuffleArray(data.results)
+  const uniqueQues = uniqueArray(shuffeledQues).slice(0, 20)
+  const ques = uniqueQues.map((item, index) => {
     return { ...item, id: index, yourAnswer: "", timeTaken: 60 };
   });
   currentUser.questions = ques;
-  currentQuestion = ques[0];
-  document.getElementById("user-detail").style.display = "none";
-  document.getElementById("quiz-questions").style.display = "flex";
-  document.getElementById("nav-items").style.display = "none";
-  document.getElementById("remaningTime").style.display = "flex";
-  const options = [...ques[0].incorrect_answers, ques[0].correct_answer].sort(
-    () => Math.random() - 0.5
-  );
-  loadQuestions();
-  remaningTimer();
-  getOption(ques[0].id, ques[0].question, options);
+  setQuizUI(ques[0]);
 }
 
 function validateEmail(email) {
@@ -263,12 +279,6 @@ const saveNext = (index) => {
   currentUser.questions[currentQuestion.id].timeTaken =
     60 - parseInt(timerEl.textContent);
   currentUser.questions[currentQuestion.id].yourAnswer = selected?.value || "";
-  const nextQues = index
-    ? currentUser.questions[index]
-    : currentUser.questions[currentQuestion.id + 1];
-  const options = [...nextQues.incorrect_answers, nextQues.correct_answer].sort(
-    () => Math.random() - 0.5
-  );
   const queNum = document.getElementById(
     `question-number-${currentQuestion.id + 1}`
   );
@@ -278,8 +288,24 @@ const saveNext = (index) => {
   progress.className = progress.className.replace(/w-\[\d+%\]/, "");
   progress.classList.add(`w-[${progressWidth}%]`);
   stopTimer();
-  currentQuestion = nextQues;
-  getOption(nextQues.id, nextQues.question, options);
+  const nextQues =
+    index !== undefined
+      ? currentUser.questions[index]
+      : currentUser.questions[currentQuestion.id + 1];
+  if (nextQues) {
+    const options = [
+      ...nextQues.incorrect_answers,
+      nextQues.correct_answer,
+    ].sort(() => Math.random() - 0.5);
+    currentQuestion = nextQues;
+    getOption(nextQues.id, nextQues.question, options);
+  }
+  disableSubmit();
+};
+
+const disableSubmit = () => {
+  let yourAns = currentUser.questions.some((ques) => ques.timeTaken === 60);
+  document.getElementById("submitQuiz").disabled = yourAns;
 };
 
 function submitQuiz() {
@@ -331,4 +357,21 @@ function findResult() {
   } else {
     alert("User not found.");
   }
+}
+
+function checkQuizStatus() {
+  const cUser = JSON.parse(localStorage.getItem("currentUser"));
+  if (cUser) {
+    currentUser = cUser;
+    setQuizUI(currentUser.questions[0]);
+  }
+}
+
+function uniqueArray(array) {
+  const newArray = [];
+  array.forEach((ques) => {
+    const isName = newArray.some((item) => item.name !== ques.name);
+    if (isName) newArray.push(ques);
+  });
+  return newArray
 }
