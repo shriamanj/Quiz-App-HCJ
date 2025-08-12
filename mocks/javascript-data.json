@@ -1,5 +1,6 @@
 {
   "response_code": 0,
+  "total_no_of_questions": 120,
   "results": [
     {
       "type": "multiple",
@@ -11,6 +12,134 @@
         "Database management",
         "Operating system development",
         "Network configuration"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to convert a string to an integer in JavaScript?",
+      "correct_answer": "parseInt()",
+      "incorrect_answers": ["Number()", "toInt()", "convert()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "What is the result of 'typeof NaN'?",
+      "correct_answer": "number",
+      "incorrect_answers": ["NaN", "undefined", "object"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to check if a variable is an array?",
+      "correct_answer": "Array.isArray()",
+      "incorrect_answers": ["isArray()", "typeof array", "arrayCheck()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "total_no_of_questions": 120,
+      "correct_answer": "...",
+      "incorrect_answers": ["*", "+", "&"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "What is the output of 'console.log(typeof [])'?",
+      "correct_answer": "object",
+      "incorrect_answers": ["array", "undefined", "null"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to remove the first element from an array?",
+      "correct_answer": "shift()",
+      "incorrect_answers": ["pop()", "unshift()", "push()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which keyword is used to create a generator function?",
+      "correct_answer": "function*",
+      "incorrect_answers": ["generator", "yield", "gen"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to check if an array includes a certain value?",
+      "correct_answer": "includes()",
+      "incorrect_answers": ["contains()", "has()", "exists()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to join all elements of an array into a string?",
+      "correct_answer": "join()",
+      "incorrect_answers": ["concat()", "merge()", "combine()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to return the index of the first occurrence of a value in an array?",
+      "correct_answer": "indexOf()",
+      "incorrect_answers": ["findIndex()", "search()", "locate()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "What is the output of 'console.log([...'hello'])'?",
+      "correct_answer": "['h', 'e', 'l', 'l', 'o']",
+      "incorrect_answers": ["hello", "[hello]", "undefined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "What is the output of 'console.log({a: 1} == {a: 1})'?",
+      "correct_answer": "false",
+      "incorrect_answers": ["true", "undefined", "NaN"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to clone an object?",
+      "correct_answer": "let clone = obj.clone();",
+      "incorrect_answers": [
+        "Object.assign({}, obj)",
+        "{...obj}",
+        "JSON.parse(JSON.stringify(obj))"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "What is the output of 'console.log(1 + '1' - 1)'?",
+      "correct_answer": "10",
+      "incorrect_answers": ["11", "1", "0"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to create a class method?",
+      "correct_answer": "function myMethod() {}",
+      "incorrect_answers": [
+        "myMethod() {}",
+        "static myMethod() {}",
+        "get myMethod() {}"
       ]
     },
     {

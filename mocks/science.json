@@ -1,0 +1,942 @@
+{
+  "response_code": 0,
+  "total_no_of_questions": 15,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What is the chemical symbol for Oxygen?",
+      "correct_answer": "O",
+      "incorrect_answers": ["Ox", "Og", "On"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "Who developed the theory of relativity?",
+      "correct_answer": "Albert Einstein",
+      "incorrect_answers": ["Isaac Newton", "Galileo Galilei", "Nikola Tesla"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": ["Venus", "Jupiter", "Saturn"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What is the boiling point of water in Celsius?",
+      "correct_answer": "100",
+      "incorrect_answers": ["0", "50", "212"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "Who invented the telephone?",
+      "correct_answer": "Alexander Graham Bell",
+      "incorrect_answers": ["Thomas Edison", "Nikola Tesla", "James Watt"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the atomic number of Carbon?",
+      "correct_answer": "6",
+      "incorrect_answers": ["12", "8", "14"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Who discovered penicillin?",
+      "correct_answer": "Alexander Fleming",
+      "incorrect_answers": ["Louis Pasteur", "Marie Curie", "Isaac Newton"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the largest organ in the human body?",
+      "correct_answer": "Skin",
+      "incorrect_answers": ["Heart", "Liver", "Brain"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the speed of light in km/s?",
+      "correct_answer": "299,792",
+      "incorrect_answers": ["150,000", "1,000,000", "30,000"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Who won the Nobel Prize in Physics in 2020?",
+      "correct_answer": "Roger Penrose",
+      "incorrect_answers": ["Albert Einstein", "Marie Curie", "Richard Feynman"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical formula for table salt?",
+      "correct_answer": "NaCl",
+      "incorrect_answers": ["KCl", "NaOH", "HCl"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "Who developed the theory of relativity?",
+      "correct_answer": "Albert Einstein",
+      "incorrect_answers": ["Isaac Newton", "Galileo Galilei", "Nikola Tesla"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": ["Venus", "Jupiter", "Saturn"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What is the boiling point of water in Celsius?",
+      "correct_answer": "100",
+      "incorrect_answers": ["0", "50", "212"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "Who invented the telephone?",
+      "correct_answer": "Alexander Graham Bell",
+      "incorrect_answers": ["Thomas Edison", "Nikola Tesla", "James Watt"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the atomic number of Carbon?",
+      "correct_answer": "6",
+      "incorrect_answers": ["12", "8", "14"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Who discovered penicillin?",
+      "correct_answer": "Alexander Fleming",
+      "incorrect_answers": ["Louis Pasteur", "Marie Curie", "Isaac Newton"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the largest organ in the human body?",
+      "correct_answer": "Skin",
+      "incorrect_answers": ["Heart", "Liver", "Brain"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the speed of light in km/s?",
+      "correct_answer": "299,792",
+      "incorrect_answers": ["150,000", "1,000,000", "30,000"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Who won the Nobel Prize in Physics in 2020?",
+      "correct_answer": "Roger Penrose",
+      "incorrect_answers": ["Albert Einstein", "Marie Curie", "Richard Feynman"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical formula for table salt?",
+      "correct_answer": "NaCl",
+      "incorrect_answers": ["KCl", "NaOH", "HCl"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What is H2O commonly known as?",
+      "correct_answer": "Water",
+      "incorrect_answers": ["Hydrogen Peroxide", "Oxygen", "Salt"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "Which planet is closest to the Sun?",
+      "correct_answer": "Mercury",
+      "incorrect_answers": ["Venus", "Earth", "Mars"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What gas do plants absorb from the atmosphere?",
+      "correct_answer": "Carbon Dioxide",
+      "incorrect_answers": ["Oxygen", "Nitrogen", "Hydrogen"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What is the largest planet in our solar system?",
+      "correct_answer": "Jupiter",
+      "incorrect_answers": ["Saturn", "Earth", "Mars"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What do bees collect and use to make honey?",
+      "correct_answer": "Nectar",
+      "incorrect_answers": ["Pollen", "Water", "Leaves"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the chemical symbol for Gold?",
+      "correct_answer": "Au",
+      "incorrect_answers": ["Ag", "Gd", "Go"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which element has the highest melting point?",
+      "correct_answer": "Tungsten",
+      "incorrect_answers": ["Iron", "Carbon", "Platinum"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the powerhouse of the cell?",
+      "correct_answer": "Mitochondria",
+      "incorrect_answers": ["Nucleus", "Ribosome", "Chloroplast"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the most abundant element in the universe?",
+      "correct_answer": "Hydrogen",
+      "incorrect_answers": ["Oxygen", "Carbon", "Helium"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What is the main gas found in the air we breathe?",
+      "correct_answer": "Nitrogen",
+      "incorrect_answers": ["Oxygen", "Carbon Dioxide", "Hydrogen"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "How many legs does a spider have?",
+      "correct_answer": "8",
+      "incorrect_answers": ["6", "10", "12"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What is the center of an atom called?",
+      "correct_answer": "Nucleus",
+      "incorrect_answers": ["Electron", "Proton", "Neutron"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "Which organ pumps blood through the body?",
+      "correct_answer": "Heart",
+      "incorrect_answers": ["Liver", "Lungs", "Kidney"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What is the process by which plants make food?",
+      "correct_answer": "Photosynthesis",
+      "incorrect_answers": ["Respiration", "Digestion", "Fermentation"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "Which planet is known for its rings?",
+      "correct_answer": "Saturn",
+      "incorrect_answers": ["Jupiter", "Mars", "Venus"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What is the freezing point of water in Celsius?",
+      "correct_answer": "0",
+      "incorrect_answers": ["32", "100", "-10"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What do you call animals that eat only plants?",
+      "correct_answer": "Herbivores",
+      "incorrect_answers": ["Carnivores", "Omnivores", "Insectivores"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "Which planet is known as the Blue Planet?",
+      "correct_answer": "Earth",
+      "incorrect_answers": ["Neptune", "Mars", "Venus"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What is the largest mammal?",
+      "correct_answer": "Blue Whale",
+      "incorrect_answers": ["Elephant", "Giraffe", "Hippopotamus"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What is the main source of energy for Earth?",
+      "correct_answer": "Sun",
+      "incorrect_answers": ["Moon", "Wind", "Water"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the hardest natural substance?",
+      "correct_answer": "Diamond",
+      "incorrect_answers": ["Gold", "Iron", "Quartz"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the chemical symbol for Silver?",
+      "correct_answer": "Ag",
+      "incorrect_answers": ["Si", "S", "Au"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which scientist is known for the laws of motion?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Albert Einstein", "Galileo Galilei", "Marie Curie"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the main function of red blood cells?",
+      "correct_answer": "Carry oxygen",
+      "incorrect_answers": ["Fight infection", "Clot blood", "Produce hormones"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the pH value of pure water?",
+      "correct_answer": "7",
+      "incorrect_answers": ["0", "14", "5"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which vitamin is produced when skin is exposed to sunlight?",
+      "correct_answer": "Vitamin D",
+      "incorrect_answers": ["Vitamin A", "Vitamin C", "Vitamin B12"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the largest bone in the human body?",
+      "correct_answer": "Femur",
+      "incorrect_answers": ["Tibia", "Humerus", "Skull"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the main component of natural gas?",
+      "correct_answer": "Methane",
+      "incorrect_answers": ["Propane", "Butane", "Ethane"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which organ is responsible for filtering blood?",
+      "correct_answer": "Kidney",
+      "incorrect_answers": ["Liver", "Heart", "Lung"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the chemical formula for glucose?",
+      "correct_answer": "C6H12O6",
+      "incorrect_answers": ["C12H22O11", "C2H5OH", "CO2"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which planet has the most moons?",
+      "correct_answer": "Jupiter",
+      "incorrect_answers": ["Saturn", "Mars", "Earth"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the study of fungi called?",
+      "correct_answer": "Mycology",
+      "incorrect_answers": ["Botany", "Zoology", "Ecology"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which gas is essential for photosynthesis?",
+      "correct_answer": "Carbon Dioxide",
+      "incorrect_answers": ["Oxygen", "Nitrogen", "Hydrogen"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the SI unit of force?",
+      "correct_answer": "Newton",
+      "incorrect_answers": ["Joule", "Watt", "Pascal"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which organ produces insulin?",
+      "correct_answer": "Pancreas",
+      "incorrect_answers": ["Liver", "Kidney", "Stomach"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the main function of white blood cells?",
+      "correct_answer": "Fight infection",
+      "incorrect_answers": ["Carry oxygen", "Clot blood", "Produce hormones"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the chemical symbol for Sodium?",
+      "correct_answer": "Na",
+      "incorrect_answers": ["S", "So", "Sn"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which planet is known as the Morning Star?",
+      "correct_answer": "Venus",
+      "incorrect_answers": ["Mars", "Mercury", "Jupiter"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the process of cell division in body cells called?",
+      "correct_answer": "Mitosis",
+      "incorrect_answers": ["Meiosis", "Binary Fission", "Budding"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which scientist discovered gravity?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Albert Einstein", "Galileo Galilei", "Marie Curie"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the main function of the lungs?",
+      "correct_answer": "Exchange gases",
+      "incorrect_answers": ["Pump blood", "Digest food", "Filter toxins"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the chemical symbol for Iron?",
+      "correct_answer": "Fe",
+      "incorrect_answers": ["Ir", "In", "I"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which organ is responsible for producing bile?",
+      "correct_answer": "Liver",
+      "incorrect_answers": ["Pancreas", "Kidney", "Stomach"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the largest planet in our solar system?",
+      "correct_answer": "Jupiter",
+      "incorrect_answers": ["Saturn", "Earth", "Mars"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the main function of platelets?",
+      "correct_answer": "Clot blood",
+      "incorrect_answers": ["Carry oxygen", "Fight infection", "Produce hormones"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the chemical symbol for Potassium?",
+      "correct_answer": "K",
+      "incorrect_answers": ["P", "Po", "Pt"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": ["Venus", "Jupiter", "Saturn"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the process by which plants lose water?",
+      "correct_answer": "Transpiration",
+      "incorrect_answers": ["Respiration", "Photosynthesis", "Evaporation"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which organ is responsible for hearing?",
+      "correct_answer": "Ear",
+      "incorrect_answers": ["Eye", "Nose", "Skin"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the chemical symbol for Calcium?",
+      "correct_answer": "Ca",
+      "incorrect_answers": ["C", "Cl", "Cu"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which planet is known for its Great Red Spot?",
+      "correct_answer": "Jupiter",
+      "incorrect_answers": ["Mars", "Saturn", "Venus"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the process by which animals obtain energy from food?",
+      "correct_answer": "Respiration",
+      "incorrect_answers": ["Photosynthesis", "Fermentation", "Transpiration"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which organ is responsible for vision?",
+      "correct_answer": "Eye",
+      "incorrect_answers": ["Ear", "Nose", "Skin"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical formula for sulfuric acid?",
+      "correct_answer": "H2SO4",
+      "incorrect_answers": ["HCl", "HNO3", "H2CO3"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which scientist discovered radioactivity?",
+      "correct_answer": "Marie Curie",
+      "incorrect_answers": ["Isaac Newton", "Albert Einstein", "Louis Pasteur"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the SI unit of electric current?",
+      "correct_answer": "Ampere",
+      "incorrect_answers": ["Volt", "Ohm", "Watt"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which planet has the shortest day?",
+      "correct_answer": "Jupiter",
+      "incorrect_answers": ["Mars", "Earth", "Venus"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical symbol for Lead?",
+      "correct_answer": "Pb",
+      "incorrect_answers": ["Ld", "Le", "Pd"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which organelle is responsible for photosynthesis?",
+      "correct_answer": "Chloroplast",
+      "incorrect_answers": ["Mitochondria", "Nucleus", "Ribosome"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical formula for ammonia?",
+      "correct_answer": "NH3",
+      "incorrect_answers": ["NO2", "N2O", "NH4"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which scientist developed the periodic table?",
+      "correct_answer": "Dmitri Mendeleev",
+      "incorrect_answers": ["Marie Curie", "Isaac Newton", "Albert Einstein"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the SI unit of pressure?",
+      "correct_answer": "Pascal",
+      "incorrect_answers": ["Newton", "Joule", "Watt"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which planet is the hottest in the solar system?",
+      "correct_answer": "Venus",
+      "incorrect_answers": ["Mercury", "Mars", "Jupiter"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical symbol for Uranium?",
+      "correct_answer": "U",
+      "incorrect_answers": ["Ur", "Un", "Um"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which organelle is known as the control center of the cell?",
+      "correct_answer": "Nucleus",
+      "incorrect_answers": ["Mitochondria", "Chloroplast", "Ribosome"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical formula for methane?",
+      "correct_answer": "CH4",
+      "incorrect_answers": ["C2H6", "C3H8", "C4H10"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which scientist is known for the uncertainty principle?",
+      "correct_answer": "Werner Heisenberg",
+      "incorrect_answers": ["Albert Einstein", "Isaac Newton", "Marie Curie"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the SI unit of energy?",
+      "correct_answer": "Joule",
+      "incorrect_answers": ["Watt", "Newton", "Pascal"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which planet has the largest volcano?",
+      "correct_answer": "Mars",
+      "incorrect_answers": ["Earth", "Venus", "Jupiter"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical symbol for Mercury?",
+      "correct_answer": "Hg",
+      "incorrect_answers": ["Me", "Mc", "Mr"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which organelle is responsible for protein synthesis?",
+      "correct_answer": "Ribosome",
+      "incorrect_answers": ["Nucleus", "Mitochondria", "Chloroplast"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical formula for carbon dioxide?",
+      "correct_answer": "CO2",
+      "incorrect_answers": ["CO", "C2O", "C2O2"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which scientist discovered the electron?",
+      "correct_answer": "J.J. Thomson",
+      "incorrect_answers": ["Marie Curie", "Isaac Newton", "Albert Einstein"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the SI unit of frequency?",
+      "correct_answer": "Hertz",
+      "incorrect_answers": ["Joule", "Watt", "Pascal"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which planet is farthest from the Sun?",
+      "correct_answer": "Neptune",
+      "incorrect_answers": ["Uranus", "Saturn", "Jupiter"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical symbol for Tin?",
+      "correct_answer": "Sn",
+      "incorrect_answers": ["Ti", "Tn", "Ta"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which organelle is responsible for cellular respiration?",
+      "correct_answer": "Mitochondria",
+      "incorrect_answers": ["Nucleus", "Chloroplast", "Ribosome"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical formula for hydrochloric acid?",
+      "correct_answer": "HCl",
+      "incorrect_answers": ["H2SO4", "HNO3", "H2CO3"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which scientist is known for the law of universal gravitation?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Albert Einstein", "Marie Curie", "Galileo Galilei"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the SI unit of temperature?",
+      "correct_answer": "Kelvin",
+      "incorrect_answers": ["Celsius", "Fahrenheit", "Joule"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which planet has the strongest winds?",
+      "correct_answer": "Neptune",
+      "incorrect_answers": ["Jupiter", "Saturn", "Mars"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical symbol for Platinum?",
+      "correct_answer": "Pt",
+      "incorrect_answers": ["Pl", "Pm", "Pn"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which organelle is responsible for lipid synthesis?",
+      "correct_answer": "Smooth Endoplasmic Reticulum",
+      "incorrect_answers": ["Rough Endoplasmic Reticulum", "Golgi Apparatus", "Mitochondria"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical formula for ethanol?",
+      "correct_answer": "C2H5OH",
+      "incorrect_answers": ["C2H6O", "C2H4O2", "CH3OH"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which scientist is known for the theory of evolution?",
+      "correct_answer": "Charles Darwin",
+      "incorrect_answers": ["Isaac Newton", "Albert Einstein", "Marie Curie"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the SI unit of capacitance?",
+      "correct_answer": "Farad",
+      "incorrect_answers": ["Henry", "Ohm", "Watt"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which planet has the largest moon?",
+      "correct_answer": "Jupiter",
+      "incorrect_answers": ["Saturn", "Earth", "Mars"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical symbol for Zinc?",
+      "correct_answer": "Zn",
+      "incorrect_answers": ["Z", "Zc", "ZnO"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which organelle is responsible for packaging proteins?",
+      "correct_answer": "Golgi Apparatus",
+      "incorrect_answers": ["Ribosome", "Nucleus", "Mitochondria"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical formula for acetic acid?",
+      "correct_answer": "CH3COOH",
+      "incorrect_answers": ["C2H4O2", "C2H6O", "C2H2O2"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which scientist discovered penicillin?",
+      "correct_answer": "Alexander Fleming",
+      "incorrect_answers": ["Marie Curie", "Isaac Newton", "Albert Einstein"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the SI unit of magnetic field?",
+      "correct_answer": "Tesla",
+      "incorrect_answers": ["Weber", "Henry", "Farad"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which planet has the most rings?",
+      "correct_answer": "Saturn",
+      "incorrect_answers": ["Jupiter", "Uranus", "Neptune"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical symbol for Copper?",
+      "correct_answer": "Cu",
+      "incorrect_answers": ["Co", "Cp", "C"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which organelle is responsible for cell division?",
+      "correct_answer": "Centrosome",
+      "incorrect_answers": ["Nucleus", "Mitochondria", "Ribosome"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical formula for sodium chloride?",
+      "correct_answer": "NaCl",
+      "incorrect_answers": ["KCl", "NaOH", "HCl"]
+    }
+  ]
+}

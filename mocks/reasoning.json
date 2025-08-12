@@ -1,0 +1,879 @@
+{
+  "response_code": 0,
+  "total_no_of_questions": 15,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If all roses are flowers and some flowers fade quickly, can some roses fade quickly?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Apple, Banana, Carrot, Mango?",
+      "correct_answer": "Carrot",
+      "incorrect_answers": ["Apple", "Banana", "Mango"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If A is taller than B and B is taller than C, who is the shortest?",
+      "correct_answer": "C",
+      "incorrect_answers": ["A", "B", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: A, C, E, G, ?",
+      "correct_answer": "I",
+      "incorrect_answers": ["H", "J", "K"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which number is missing: 3, 6, 9, __, 15?",
+      "correct_answer": "12",
+      "incorrect_answers": ["10", "11", "13"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If all cats are animals and some animals are black, can some cats be black?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Dog, Cat, Cow, Car?",
+      "correct_answer": "Car",
+      "incorrect_answers": ["Dog", "Cat", "Cow"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If X is older than Y and Y is older than Z, who is the youngest?",
+      "correct_answer": "Z",
+      "incorrect_answers": ["X", "Y", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: B, D, F, H, ?",
+      "correct_answer": "J",
+      "incorrect_answers": ["I", "K", "L"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which number is missing: 2, 4, 6, __, 10?",
+      "correct_answer": "8",
+      "incorrect_answers": ["7", "9", "11"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Table, Chair, Sofa, Apple?",
+      "correct_answer": "Apple",
+      "incorrect_answers": ["Table", "Chair", "Sofa"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If A is heavier than B and B is heavier than C, who is the lightest?",
+      "correct_answer": "C",
+      "incorrect_answers": ["A", "B", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: C, E, G, I, ?",
+      "correct_answer": "K",
+      "incorrect_answers": ["J", "L", "M"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which number is missing: 5, 10, 15, __, 25?",
+      "correct_answer": "20",
+      "incorrect_answers": ["15", "18", "22"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "If all squares are rectangles and all rectangles are shapes, are all squares shapes?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Rose, Lily, Lotus, Mango?",
+      "correct_answer": "Mango",
+      "incorrect_answers": ["Rose", "Lily", "Lotus"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "If X is faster than Y and Y is faster than Z, who is the slowest?",
+      "correct_answer": "Z",
+      "incorrect_answers": ["X", "Y", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: D, F, H, J, ?",
+      "correct_answer": "L",
+      "incorrect_answers": ["K", "M", "N"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Which number is missing: 4, 8, 12, __, 20?",
+      "correct_answer": "16",
+      "incorrect_answers": ["14", "18", "20"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "If all birds can fly and penguins are birds, can penguins fly?",
+      "correct_answer": "No",
+      "incorrect_answers": ["Yes", "Cannot be determined", "Some"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Iron, Copper, Silver, Wood?",
+      "correct_answer": "Wood",
+      "incorrect_answers": ["Iron", "Copper", "Silver"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "If A is shorter than B and B is shorter than C, who is the tallest?",
+      "correct_answer": "C",
+      "incorrect_answers": ["A", "B", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: E, G, I, K, ?",
+      "correct_answer": "M",
+      "incorrect_answers": ["L", "N", "O"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Which number is missing: 6, 12, 18, __, 30?",
+      "correct_answer": "24",
+      "incorrect_answers": ["20", "22", "26"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If all birds have wings and some birds can sing, can some birds with wings sing?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Ball, Bat, Stump, Apple?",
+      "correct_answer": "Apple",
+      "incorrect_answers": ["Ball", "Bat", "Stump"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If X is heavier than Y and Y is heavier than Z, who is the lightest?",
+      "correct_answer": "Z",
+      "incorrect_answers": ["X", "Y", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: D, F, H, J, ?",
+      "correct_answer": "L",
+      "incorrect_answers": ["K", "M", "N"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which number is missing: 4, 8, 12, __, 20?",
+      "correct_answer": "16",
+      "incorrect_answers": ["14", "18", "20"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If all books are objects and some objects are blue, can some books be blue?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Shirt, Pant, Tie, Banana?",
+      "correct_answer": "Banana",
+      "incorrect_answers": ["Shirt", "Pant", "Tie"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If M is taller than N and N is taller than O, who is the shortest?",
+      "correct_answer": "O",
+      "incorrect_answers": ["M", "N", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: E, G, I, K, ?",
+      "correct_answer": "M",
+      "incorrect_answers": ["L", "N", "O"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which number is missing: 5, 10, 15, __, 25?",
+      "correct_answer": "20",
+      "incorrect_answers": ["15", "18", "22"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "If all triangles are polygons and all polygons have sides, do all triangles have sides?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Car, Bus, Train, Apple?",
+      "correct_answer": "Apple",
+      "incorrect_answers": ["Car", "Bus", "Train"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "If P is faster than Q and Q is faster than R, who is the slowest?",
+      "correct_answer": "R",
+      "incorrect_answers": ["P", "Q", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: H, J, L, N, ?",
+      "correct_answer": "P",
+      "incorrect_answers": ["O", "Q", "R"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Which number is missing: 6, 12, 18, __, 30?",
+      "correct_answer": "24",
+      "incorrect_answers": ["20", "22", "26"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "If all rectangles are parallelograms and all parallelograms have opposite sides equal, do all rectangles have opposite sides equal?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Potato, Tomato, Onion, Chair?",
+      "correct_answer": "Chair",
+      "incorrect_answers": ["Potato", "Tomato", "Onion"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "If S is heavier than T and T is heavier than U, who is the lightest?",
+      "correct_answer": "U",
+      "incorrect_answers": ["S", "T", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: J, L, N, P, ?",
+      "correct_answer": "R",
+      "incorrect_answers": ["Q", "S", "T"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Which number is missing: 9, 18, 27, __, 45?",
+      "correct_answer": "36",
+      "incorrect_answers": ["33", "39", "42"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "If all mammals have hair and dolphins are mammals, do dolphins have hair?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "Some"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Steel, Iron, Copper, Paper?",
+      "correct_answer": "Paper",
+      "incorrect_answers": ["Steel", "Iron", "Copper"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "If G is shorter than H and H is shorter than I, who is the tallest?",
+      "correct_answer": "I",
+      "incorrect_answers": ["G", "H", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: K, M, O, Q, ?",
+      "correct_answer": "S",
+      "incorrect_answers": ["R", "T", "U"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Which number is missing: 10, 20, 30, __, 50?",
+      "correct_answer": "40",
+      "incorrect_answers": ["35", "45", "55"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If all fruits have seeds and some fruits are sweet, can some sweet fruits have seeds?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Book, Pen, Pencil, Grapes?",
+      "correct_answer": "Grapes",
+      "incorrect_answers": ["Book", "Pen", "Pencil"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If Q is older than R and R is older than S, who is the youngest?",
+      "correct_answer": "S",
+      "incorrect_answers": ["Q", "R", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: L, N, P, R, ?",
+      "correct_answer": "T",
+      "incorrect_answers": ["S", "U", "V"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which number is missing: 2, 5, 8, __, 14?",
+      "correct_answer": "11",
+      "incorrect_answers": ["9", "10", "12"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "If all circles are shapes and all shapes have boundaries, do all circles have boundaries?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Rose, Jasmine, Lily, Table?",
+      "correct_answer": "Table",
+      "incorrect_answers": ["Rose", "Jasmine", "Lily"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "If V is faster than W and W is faster than X, who is the slowest?",
+      "correct_answer": "X",
+      "incorrect_answers": ["V", "W", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: M, O, Q, S, ?",
+      "correct_answer": "U",
+      "incorrect_answers": ["T", "V", "W"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Which number is missing: 3, 6, 9, __, 15?",
+      "correct_answer": "12",
+      "incorrect_answers": ["10", "11", "13"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "If all reptiles lay eggs and snakes are reptiles, do snakes lay eggs?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "Some"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Silver, Gold, Platinum, Wood?",
+      "correct_answer": "Wood",
+      "incorrect_answers": ["Silver", "Gold", "Platinum"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "If J is shorter than K and K is shorter than L, who is the tallest?",
+      "correct_answer": "L",
+      "incorrect_answers": ["J", "K", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: N, P, R, T, ?",
+      "correct_answer": "V",
+      "incorrect_answers": ["U", "W", "X"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Which number is missing: 12, 24, 36, __, 60?",
+      "correct_answer": "48",
+      "incorrect_answers": ["42", "54", "56"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If all vegetables are plants and some plants are green, can some vegetables be green?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Cup, Plate, Spoon, Mango?",
+      "correct_answer": "Mango",
+      "incorrect_answers": ["Cup", "Plate", "Spoon"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If T is older than U and U is older than V, who is the youngest?",
+      "correct_answer": "V",
+      "incorrect_answers": ["T", "U", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: O, Q, S, U, ?",
+      "correct_answer": "W",
+      "incorrect_answers": ["V", "X", "Y"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which number is missing: 7, 14, 21, __, 35?",
+      "correct_answer": "28",
+      "incorrect_answers": ["25", "30", "32"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "If all squares are shapes and all shapes have boundaries, do all squares have boundaries?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Onion, Potato, Tomato, Chair?",
+      "correct_answer": "Chair",
+      "incorrect_answers": ["Onion", "Potato", "Tomato"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "If Y is faster than Z and Z is faster than A, who is the slowest?",
+      "correct_answer": "A",
+      "incorrect_answers": ["Y", "Z", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: Q, S, U, W, ?",
+      "correct_answer": "Y",
+      "incorrect_answers": ["X", "Z", "A"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Which number is missing: 8, 16, 24, __, 40?",
+      "correct_answer": "32",
+      "incorrect_answers": ["28", "34", "36"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "If all amphibians can live in water and frogs are amphibians, can frogs live in water?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "Some"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Platinum, Gold, Silver, Plastic?",
+      "correct_answer": "Plastic",
+      "incorrect_answers": ["Platinum", "Gold", "Silver"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "If M is shorter than N and N is shorter than O, who is the tallest?",
+      "correct_answer": "O",
+      "incorrect_answers": ["M", "N", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: S, U, W, Y, ?",
+      "correct_answer": "A",
+      "incorrect_answers": ["Z", "B", "C"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Which number is missing: 14, 28, 42, __, 70?",
+      "correct_answer": "56",
+      "incorrect_answers": ["50", "60", "64"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If all cars have wheels and some cars are red, can some red cars have wheels?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Orange, Banana, Grapes, Chair?",
+      "correct_answer": "Chair",
+      "incorrect_answers": ["Orange", "Banana", "Grapes"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If D is heavier than E and E is heavier than F, who is the lightest?",
+      "correct_answer": "F",
+      "incorrect_answers": ["D", "E", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: F, H, J, L, ?",
+      "correct_answer": "N",
+      "incorrect_answers": ["M", "O", "P"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which number is missing: 1, 3, 5, __, 9?",
+      "correct_answer": "7",
+      "incorrect_answers": ["6", "8", "10"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "If all rectangles are quadrilaterals and all quadrilaterals have four sides, do all rectangles have four sides?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Pen, Pencil, Eraser, Apple?",
+      "correct_answer": "Apple",
+      "incorrect_answers": ["Pen", "Pencil", "Eraser"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "If L is faster than M and M is faster than N, who is the slowest?",
+      "correct_answer": "N",
+      "incorrect_answers": ["L", "M", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: P, R, T, V, ?",
+      "correct_answer": "X",
+      "incorrect_answers": ["W", "Y", "Z"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Which number is missing: 5, 10, 15, __, 25?",
+      "correct_answer": "20",
+      "incorrect_answers": ["18", "22", "24"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "If all insects have six legs and ants are insects, do ants have six legs?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "Some"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Gold, Silver, Copper, Plastic?",
+      "correct_answer": "Plastic",
+      "incorrect_answers": ["Gold", "Silver", "Copper"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "If S is shorter than T and T is shorter than U, who is the tallest?",
+      "correct_answer": "U",
+      "incorrect_answers": ["S", "T", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: T, V, X, Z, ?",
+      "correct_answer": "B",
+      "incorrect_answers": ["A", "C", "D"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Which number is missing: 15, 30, 45, __, 75?",
+      "correct_answer": "60",
+      "incorrect_answers": ["55", "65", "70"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If all birds have feathers and some birds are black, can some black birds have feathers?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Pen, Book, Table, Banana?",
+      "correct_answer": "Banana",
+      "incorrect_answers": ["Pen", "Book", "Table"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If G is heavier than H and H is heavier than I, who is the lightest?",
+      "correct_answer": "I",
+      "incorrect_answers": ["G", "H", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: G, I, K, M, ?",
+      "correct_answer": "O",
+      "incorrect_answers": ["N", "P", "Q"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which number is missing: 2, 4, 6, __, 10?",
+      "correct_answer": "8",
+      "incorrect_answers": ["7", "9", "11"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "If all hexagons are polygons and all polygons have sides, do all hexagons have sides?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Potato, Tomato, Onion, Table?",
+      "correct_answer": "Table",
+      "incorrect_answers": ["Potato", "Tomato", "Onion"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "If Q is faster than R and R is faster than S, who is the slowest?",
+      "correct_answer": "S",
+      "incorrect_answers": ["Q", "R", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: S, U, W, Y, ?",
+      "correct_answer": "A",
+      "incorrect_answers": ["Z", "B", "C"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Which number is missing: 10, 20, 30, __, 50?",
+      "correct_answer": "40",
+      "incorrect_answers": ["35", "45", "55"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "If all mammals give birth to young ones and whales are mammals, do whales give birth to young ones?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "Some"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Iron, Copper, Silver, Paper?",
+      "correct_answer": "Paper",
+      "incorrect_answers": ["Iron", "Copper", "Silver"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "If K is shorter than L and L is shorter than M, who is the tallest?",
+      "correct_answer": "M",
+      "incorrect_answers": ["K", "L", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: M, O, Q, S, ?",
+      "correct_answer": "U",
+      "incorrect_answers": ["T", "V", "W"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Which number is missing: 18, 36, 54, __, 90?",
+      "correct_answer": "72",
+      "incorrect_answers": ["66", "78", "84"]
+    }
+  ]
+}
+

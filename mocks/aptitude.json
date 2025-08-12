@@ -1,0 +1,854 @@
+{
+  "response_code": 0,
+  "total_no_of_questions": 120,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is the value of 2 + 2 * 2?",
+      "correct_answer": "6",
+      "incorrect_answers": ["8", "4", "2"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is the square root of 81?",
+      "correct_answer": "9",
+      "incorrect_answers": ["8", "7", "6"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "If a train travels 60 km in 1 hour, how long will it take to travel 180 km?",
+        "total_no_of_questions": 120,
+      "incorrect_answers": ["2 hours", "4 hours", "1.5 hours"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is 25% of 200?",
+      "correct_answer": "50",
+      "incorrect_answers": ["25", "100", "75"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is the next number in the sequence: 2, 4, 8, 16, ?",
+      "correct_answer": "32",
+      "incorrect_answers": ["24", "18", "20"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is the value of 5 * 6?",
+      "correct_answer": "30",
+      "incorrect_answers": ["11", "56", "25"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is the cube root of 27?",
+      "correct_answer": "3",
+      "incorrect_answers": ["9", "6", "2"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "If a car travels 80 km in 2 hours, what is its average speed?",
+      "correct_answer": "40 km/h",
+      "incorrect_answers": ["20 km/h", "60 km/h", "80 km/h"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is 10% of 500?",
+      "correct_answer": "50",
+      "incorrect_answers": ["10", "100", "25"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is the next number in the sequence: 3, 6, 12, 24, ?",
+      "correct_answer": "48",
+      "incorrect_answers": ["36", "30", "42"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is the value of 7 + 8 * 2?",
+      "correct_answer": "23",
+      "incorrect_answers": ["30", "15", "22"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is the square root of 144?",
+      "correct_answer": "12",
+      "incorrect_answers": ["14", "10", "16"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "If a bus travels 90 km in 3 hours, what is its average speed?",
+      "correct_answer": "30 km/h",
+      "incorrect_answers": ["60 km/h", "45 km/h", "90 km/h"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is 15% of 400?",
+      "correct_answer": "60",
+      "incorrect_answers": ["40", "100", "80"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "If x + 2y = 10 and y = 3, what is x?",
+      "correct_answer": "4",
+      "incorrect_answers": ["2", "6", "8"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "What is the value of 2^5?",
+      "correct_answer": "32",
+      "incorrect_answers": ["16", "64", "25"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "If a = 5 and b = 3, what is the value of a^2 + b^2?",
+      "correct_answer": "34",
+      "incorrect_answers": ["25", "16", "28"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "What is the cube of 4?",
+      "correct_answer": "64",
+      "incorrect_answers": ["16", "32", "24"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "If a train travels 120 km in 2 hours, what is its average speed?",
+      "correct_answer": "60 km/h",
+      "incorrect_answers": ["120 km/h", "80 km/h", "100 km/h"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 3x - 2y = 7 and x = 5, what is y?",
+      "correct_answer": "4",
+      "incorrect_answers": ["2", "6", "8"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of log10(1000)?",
+      "correct_answer": "3",
+      "incorrect_answers": ["2", "1", "4"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If a = 7, b = 2, c = 3, what is a^2 + b^2 + c^2?",
+      "correct_answer": "62",
+      "incorrect_answers": ["49", "14", "36"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 9! (9 factorial)?",
+      "correct_answer": "362880",
+      "incorrect_answers": ["40320", "720", "5040"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If x^2 - 4x + 4 = 0, what is x?",
+      "correct_answer": "2",
+      "incorrect_answers": ["-2", "4", "0"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is the value of 12 - 7?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "6", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is the product of 3 and 9?",
+      "correct_answer": "27",
+      "incorrect_answers": ["18", "21", "36"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is half of 100?",
+      "correct_answer": "50",
+      "incorrect_answers": ["25", "10", "75"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is the value of 8 + 15?",
+      "correct_answer": "23",
+      "incorrect_answers": ["21", "24", "25"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is the next number in the sequence: 1, 3, 5, 7, ?",
+      "correct_answer": "9",
+      "incorrect_answers": ["11", "8", "10"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is 20% of 150?",
+      "correct_answer": "30",
+      "incorrect_answers": ["20", "15", "25"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is the value of 14 / 2?",
+      "correct_answer": "7",
+      "incorrect_answers": ["6", "8", "9"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is the sum of 17 and 5?",
+      "correct_answer": "22",
+      "incorrect_answers": ["21", "23", "24"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is the value of 6 * 7?",
+      "correct_answer": "42",
+      "incorrect_answers": ["36", "48", "49"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is the square root of 49?",
+      "correct_answer": "7",
+      "incorrect_answers": ["6", "8", "9"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is 100 minus 45?",
+      "correct_answer": "55",
+      "incorrect_answers": ["65", "45", "60"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is the value of 11 + 13?",
+      "correct_answer": "24",
+      "incorrect_answers": ["22", "23", "25"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is the next number in the sequence: 10, 20, 30, 40, ?",
+      "correct_answer": "50",
+      "incorrect_answers": ["60", "45", "55"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Aptitude",
+      "question": "What is 60 divided by 12?",
+      "correct_answer": "5",
+      "incorrect_answers": ["6", "4", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "If 3x = 21, what is x?",
+      "correct_answer": "7",
+      "incorrect_answers": ["6", "8", "9"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "What is the value of 5^2?",
+      "correct_answer": "25",
+      "incorrect_answers": ["20", "15", "30"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "If a rectangle has length 12 and width 4, what is its area?",
+      "correct_answer": "48",
+      "incorrect_answers": ["16", "36", "40"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "What is the value of 144/12?",
+      "correct_answer": "12",
+      "incorrect_answers": ["14", "10", "16"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "If 4x + 2 = 18, what is x?",
+      "correct_answer": "4",
+      "incorrect_answers": ["5", "3", "6"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "What is the cube root of 64?",
+      "correct_answer": "4",
+      "incorrect_answers": ["8", "16", "2"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "If a = 6 and b = 2, what is a^2 - b^2?",
+      "correct_answer": "32",
+      "incorrect_answers": ["36", "28", "16"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "What is the value of 2^6?",
+      "correct_answer": "64",
+      "incorrect_answers": ["32", "16", "128"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "If 5x = 35, what is x?",
+      "correct_answer": "7",
+      "incorrect_answers": ["5", "6", "8"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "What is the value of 9^2?",
+      "correct_answer": "81",
+      "incorrect_answers": ["72", "90", "99"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "If a triangle has sides 3, 4, 5, what is its perimeter?",
+      "correct_answer": "12",
+      "incorrect_answers": ["11", "13", "14"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "What is the value of 7 * 8?",
+      "correct_answer": "56",
+      "incorrect_answers": ["48", "64", "54"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "What is the square root of 225?",
+      "correct_answer": "15",
+      "incorrect_answers": ["12", "14", "16"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Aptitude",
+      "question": "If 2x + 5 = 15, what is x?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "6", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 4x - 7 = 9, what is x?",
+      "correct_answer": "4",
+      "incorrect_answers": ["3", "5", "6"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 11^2?",
+      "correct_answer": "121",
+      "incorrect_answers": ["111", "122", "120"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If the area of a square is 81, what is the length of one side?",
+      "correct_answer": "9",
+      "incorrect_answers": ["8", "7", "6"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 3^4?",
+      "correct_answer": "81",
+      "incorrect_answers": ["27", "64", "72"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 5x + 2 = 27, what is x?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "6", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 8! (8 factorial)?",
+      "correct_answer": "40320",
+      "incorrect_answers": ["5040", "720", "362880"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If x^2 + 6x + 9 = 0, what is x?",
+      "correct_answer": "-3",
+      "incorrect_answers": ["3", "0", "-9"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of log10(100)?",
+      "correct_answer": "2",
+      "incorrect_answers": ["1", "3", "4"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If a = 8, b = 3, c = 4, what is a^2 + b^2 + c^2?",
+      "correct_answer": "89",
+      "incorrect_answers": ["64", "25", "81"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 10^3?",
+      "correct_answer": "1000",
+      "incorrect_answers": ["100", "10000", "10"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 2x^2 = 18, what is x?",
+      "correct_answer": "3",
+      "incorrect_answers": ["2", "4", "6"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 6^3?",
+      "correct_answer": "216",
+      "incorrect_answers": ["36", "126", "256"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If x^2 - 9 = 0, what is x?",
+      "correct_answer": "3",
+      "incorrect_answers": ["-3", "9", "0"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 7! (7 factorial)?",
+      "correct_answer": "5040",
+      "incorrect_answers": ["720", "40320", "362880"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If a = 9, b = 4, c = 5, what is a^2 + b^2 + c^2?",
+      "correct_answer": "122",
+      "incorrect_answers": ["81", "25", "100"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 12^2?",
+      "correct_answer": "144",
+      "incorrect_answers": ["124", "132", "156"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 6x - 5 = 19, what is x?",
+      "correct_answer": "4",
+      "incorrect_answers": ["3", "5", "6"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 2^8?",
+      "correct_answer": "256",
+      "incorrect_answers": ["128", "512", "64"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If the perimeter of a square is 48, what is the length of one side?",
+      "correct_answer": "12",
+      "incorrect_answers": ["24", "16", "8"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 15^2?",
+      "correct_answer": "225",
+      "incorrect_answers": ["215", "255", "245"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 8x + 4 = 68, what is x?",
+      "correct_answer": "8",
+      "incorrect_answers": ["6", "7", "9"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 13^2?",
+      "correct_answer": "169",
+      "incorrect_answers": ["156", "196", "139"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 9x - 3 = 78, what is x?",
+      "correct_answer": "9",
+      "incorrect_answers": ["8", "7", "6"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 14^2?",
+      "correct_answer": "196",
+      "incorrect_answers": ["186", "206", "176"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 10x + 5 = 105, what is x?",
+      "correct_answer": "10",
+      "incorrect_answers": ["9", "11", "12"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 16^2?",
+      "correct_answer": "256",
+      "incorrect_answers": ["216", "246", "266"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 7x - 14 = 35, what is x?",
+      "correct_answer": "7",
+      "incorrect_answers": ["6", "8", "9"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 17^2?",
+      "correct_answer": "289",
+      "incorrect_answers": ["279", "299", "269"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 11x + 22 = 77, what is x?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "6", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 18^2?",
+      "correct_answer": "324",
+      "incorrect_answers": ["314", "334", "304"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 12x - 24 = 72, what is x?",
+      "correct_answer": "8",
+      "incorrect_answers": ["6", "7", "9"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 19^2?",
+      "correct_answer": "361",
+      "incorrect_answers": ["351", "371", "341"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 13x + 13 = 78, what is x?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "6", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 20^2?",
+      "correct_answer": "400",
+      "incorrect_answers": ["420", "380", "440"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 14x - 28 = 98, what is x?",
+      "correct_answer": "9",
+      "incorrect_answers": ["8", "10", "11"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 21^2?",
+      "correct_answer": "441",
+      "incorrect_answers": ["421", "461", "401"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 15x + 30 = 105, what is x?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "6", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 22^2?",
+      "correct_answer": "484",
+      "incorrect_answers": ["474", "494", "464"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 16x - 32 = 128, what is x?",
+      "correct_answer": "10",
+      "incorrect_answers": ["8", "12", "14"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 23^2?",
+      "correct_answer": "529",
+      "incorrect_answers": ["519", "539", "509"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 17x + 34 = 119, what is x?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "6", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 24^2?",
+      "correct_answer": "576",
+      "incorrect_answers": ["566", "586", "556"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 18x - 36 = 144, what is x?",
+      "correct_answer": "10",
+      "incorrect_answers": ["8", "12", "14"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 25^2?",
+      "correct_answer": "625",
+      "incorrect_answers": ["615", "635", "605"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 19x + 38 = 133, what is x?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "6", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 26^2?",
+      "correct_answer": "676",
+      "incorrect_answers": ["666", "686", "656"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 20x - 40 = 160, what is x?",
+      "correct_answer": "10",
+      "incorrect_answers": ["8", "12", "14"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 27^2?",
+      "correct_answer": "729",
+      "incorrect_answers": ["719", "739", "709"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 21x + 42 = 147, what is x?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "6", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 28^2?",
+      "correct_answer": "784",
+      "incorrect_answers": ["774", "794", "764"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 22x - 44 = 176, what is x?",
+      "correct_answer": "10",
+      "incorrect_answers": ["8", "12", "14"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 29^2?",
+      "correct_answer": "841",
+      "incorrect_answers": ["831", "851", "821"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 23x + 46 = 161, what is x?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "6", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 30^2?",
+      "correct_answer": "900",
+      "incorrect_answers": ["890", "910", "880"]
+    }
+  ]
+}

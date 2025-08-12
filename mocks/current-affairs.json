@@ -1,0 +1,423 @@
+{
+  "response_code": 0,
+  "total_no_of_questions": 120,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Current Affairs",
+      "question": "Who is the current Prime Minister of the UK (2025)?",
+      "correct_answer": "Rishi Sunak",
+      "incorrect_answers": ["Boris Johnson", "Keir Starmer", "Theresa May"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Current Affairs",
+      "question": "Which country hosted the G20 Summit in 2023?",
+      "correct_answer": "India",
+      "incorrect_answers": ["USA", "Japan", "Germany"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Current Affairs",
+      "question": "Who won the Nobel Peace Prize in 2024?",
+      "correct_answer": "Narges Mohammadi",
+      "incorrect_answers": [
+        "Greta Thunberg",
+        "Volodymyr Zelenskyy",
+        "Malala Yousafzai"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Current Affairs",
+      "question": "Who is the current President of the USA (2025)?",
+      "correct_answer": "Joe Biden",
+      "incorrect_answers": ["Donald Trump", "Barack Obama", "Kamala Harris"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Current Affairs",
+      "question": "Which country won the ICC Men's T20 World Cup in 2024?",
+      "correct_answer": "England",
+      "incorrect_answers": ["India", "Australia", "Pakistan"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Current Affairs",
+      "question": "Who won the Booker Prize in 2023?",
+      "correct_answer": "Paul Lynch",
+      "incorrect_answers": [
+        "Shehan Karunatilaka",
+        "Bernardine Evaristo",
+        "Douglas Stuart"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Current Affairs",
+      "question": "Which country hosted the COP28 climate summit?",
+      "correct_answer": "UAE",
+      "incorrect_answers": ["USA", "India", "UK"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Current Affairs",
+      "question": "Who is the CEO of Twitter (2025)?",
+      "correct_answer": "Linda Yaccarino",
+      "incorrect_answers": ["Elon Musk", "Jack Dorsey", "Parag Agrawal"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Current Affairs",
+      "question": "Who won the Nobel Prize in Literature in 2024?",
+      "correct_answer": "Jon Fosse",
+      "incorrect_answers": ["Annie Ernaux", "Kazuo Ishiguro", "Olga Tokarczuk"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Current Affairs",
+      "question": "Which country won the UEFA Euro 2024?",
+      "correct_answer": "Germany",
+      "incorrect_answers": ["France", "Italy", "Spain"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Current Affairs",
+      "question": "Who is the Secretary-General of the United Nations (2025)?",
+      "correct_answer": "António Guterres",
+      "incorrect_answers": [
+        "Ban Ki-moon",
+        "Kofi Annan",
+        "Boutros Boutros-Ghali"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Current Affairs",
+      "question": "Which country won the FIFA Women's World Cup in 2023?",
+      "correct_answer": "Spain",
+      "incorrect_answers": ["USA", "England", "Germany"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Current Affairs",
+      "question": "Who is the current President of France (2025)?",
+      "correct_answer": "Emmanuel Macron",
+      "incorrect_answers": [
+        "Marine Le Pen",
+        "François Hollande",
+        "Nicolas Sarkozy"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Current Affairs",
+      "question": "Which city hosted the 2024 Summer Olympics?",
+      "correct_answer": "Paris",
+      "incorrect_answers": ["Tokyo", "Los Angeles", "London"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Current Affairs",
+      "question": "Who won the 2024 Indian General Election?",
+      "correct_answer": "Bharatiya Janata Party (BJP)",
+      "incorrect_answers": [
+        "Indian National Congress",
+        "Aam Aadmi Party",
+        "Trinamool Congress"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Current Affairs",
+      "question": "Who is the current Chancellor of Germany (2025)?",
+      "correct_answer": "Olaf Scholz",
+      "incorrect_answers": [
+        "Angela Merkel",
+        "Armin Laschet",
+        "Frank-Walter Steinmeier"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Current Affairs",
+      "question": "Which country won the ICC Women's T20 World Cup in 2024?",
+      "correct_answer": "Australia",
+      "incorrect_answers": ["India", "England", "South Africa"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Current Affairs",
+      "question": "Who is the current President of Russia (2025)?",
+      "correct_answer": "Vladimir Putin",
+      "incorrect_answers": [
+        "Dmitry Medvedev",
+        "Alexei Navalny",
+        "Sergey Lavrov"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Current Affairs",
+      "question": "Which country won the 2024 Nobel Prize in Economics?",
+      "correct_answer": "USA",
+      "incorrect_answers": ["UK", "Germany", "France"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Current Affairs",
+      "question": "Who won the Pulitzer Prize for Fiction in 2024?",
+      "correct_answer": "Jayne Anne Phillips",
+      "incorrect_answers": [
+        "Hernan Diaz",
+        "Colson Whitehead",
+        "Barbara Kingsolver"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Current Affairs",
+      "question": "Which country hosted the World Economic Forum 2025?",
+      "correct_answer": "Switzerland",
+      "incorrect_answers": ["USA", "India", "China"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Current Affairs",
+      "question": "Who is the current CEO of Google (2025)?",
+      "correct_answer": "Sundar Pichai",
+      "incorrect_answers": ["Larry Page", "Eric Schmidt", "Satya Nadella"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Current Affairs",
+      "question": "Which country won the 2024 ICC Under-19 Cricket World Cup?",
+      "correct_answer": "India",
+      "incorrect_answers": ["Australia", "England", "Pakistan"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Current Affairs",
+      "question": "Who won the 2024 Academy Award for Best Picture?",
+      "correct_answer": "Oppenheimer",
+      "incorrect_answers": ["Barbie", "Poor Things", "Maestro"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Current Affairs",
+      "question": "Who is the current President of South Africa (2025)?",
+      "correct_answer": "Cyril Ramaphosa",
+      "incorrect_answers": ["Jacob Zuma", "Thabo Mbeki", "Kgalema Motlanthe"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Current Affairs",
+      "question": "Which country won the 2024 Nobel Prize in Physics?",
+      "correct_answer": "France",
+      "incorrect_answers": ["USA", "Japan", "Germany"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Current Affairs",
+      "question": "Who is the current Prime Minister of Canada (2025)?",
+      "correct_answer": "Justin Trudeau",
+      "incorrect_answers": ["Pierre Poilievre", "Jagmeet Singh", "Erin O'Toole"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Current Affairs",
+      "question": "Which country hosted the 2025 World Expo?",
+      "correct_answer": "Japan",
+      "incorrect_answers": ["UAE", "France", "USA"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Current Affairs",
+      "question": "Who won the 2024 Nobel Prize in Chemistry?",
+      "correct_answer": "Carolyn Bertozzi",
+      "incorrect_answers": [
+        "Benjamin List",
+        "David MacMillan",
+        "Jennifer Doudna"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Current Affairs",
+      "question": "Which country won the 2024 Rugby World Cup?",
+      "correct_answer": "South Africa",
+      "incorrect_answers": ["New Zealand", "England", "Australia"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Current Affairs",
+      "question": "Who is the current President of Brazil (2025)?",
+      "correct_answer": "Luiz Inácio Lula da Silva",
+      "incorrect_answers": ["Jair Bolsonaro", "Dilma Rousseff", "Michel Temer"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Current Affairs",
+      "question": "Which country won the 2024 Nobel Prize in Medicine?",
+      "correct_answer": "Hungary",
+      "incorrect_answers": ["USA", "UK", "Germany"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Current Affairs",
+      "question": "Who won the 2024 Man Booker International Prize?",
+      "correct_answer": "Jenny Erpenbeck",
+      "incorrect_answers": ["Geetanjali Shree", "David Diop", "Olga Tokarczuk"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Current Affairs",
+      "question": "Who is the current President of China (2025)?",
+      "correct_answer": "Xi Jinping",
+      "incorrect_answers": ["Li Keqiang", "Wang Qishan", "Hu Jintao"]
+    },
+
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Current Affairs",
+      "question": "Which country hosted the 2025 World Expo?",
+      "correct_answer": "Japan",
+      "incorrect_answers": ["UAE", "France", "USA"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Current Affairs",
+      "question": "Who won the 2025 Nobel Peace Prize?",
+      "correct_answer": "Maria Ressa",
+      "incorrect_answers": [
+        "Greta Thunberg",
+        "Volodymyr Zelenskyy",
+        "Malala Yousafzai"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Current Affairs",
+      "question": "Which country won the 2025 FIFA U-20 World Cup?",
+      "correct_answer": "Brazil",
+      "incorrect_answers": ["Argentina", "France", "Germany"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Current Affairs",
+      "question": "Who is the current CEO of Apple (2025)?",
+      "correct_answer": "Tim Cook",
+      "incorrect_answers": ["Steve Jobs", "Jeff Williams", "Craig Federighi"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Current Affairs",
+      "question": "Which country won the 2025 Nobel Prize in Literature?",
+      "correct_answer": "Ngugi wa Thiong'o",
+      "incorrect_answers": ["Jon Fosse", "Kazuo Ishiguro", "Olga Tokarczuk"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Current Affairs",
+      "question": "Who won the 2025 Nobel Prize in Chemistry?",
+      "correct_answer": "Benjamin List",
+      "incorrect_answers": [
+        "Carolyn Bertozzi",
+        "David MacMillan",
+        "Jennifer Doudna"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Current Affairs",
+      "question": "Which country won the 2025 Rugby World Cup?",
+      "correct_answer": "New Zealand",
+      "incorrect_answers": ["South Africa", "England", "Australia"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Current Affairs",
+      "question": "Who is the current President of Mexico (2025)?",
+      "correct_answer": "Andrés Manuel López Obrador",
+      "incorrect_answers": [
+        "Felipe Calderón",
+        "Enrique Peña Nieto",
+        "Vicente Fox"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Current Affairs",
+      "question": "Which country won the 2025 Nobel Prize in Medicine?",
+      "correct_answer": "Japan",
+      "incorrect_answers": ["USA", "UK", "Germany"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Current Affairs",
+      "question": "Who won the 2025 Man Booker International Prize?",
+      "correct_answer": "David Diop",
+      "incorrect_answers": [
+        "Jenny Erpenbeck",
+        "Geetanjali Shree",
+        "Olga Tokarczuk"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Current Affairs",
+      "question": "Who is the current President of Italy (2025)?",
+      "correct_answer": "Sergio Mattarella",
+      "incorrect_answers": [
+        "Giorgia Meloni",
+        "Matteo Renzi",
+        "Silvio Berlusconi"
+      ]
+    }
+  ]
+}

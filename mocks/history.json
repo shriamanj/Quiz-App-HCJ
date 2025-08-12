@@ -1,0 +1,106 @@
+{
+  "response_code": 0,
+  "total_no_of_questions": 13,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "Who was the first President of the United States?",
+      "correct_answer": "George Washington",
+      "incorrect_answers": ["Abraham Lincoln", "Thomas Jefferson", "John Adams"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "In which year did World War II end?",
+      "correct_answer": "1945",
+      "incorrect_answers": ["1939", "1942", "1950"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "Who was known as the Iron Lady?",
+      "correct_answer": "Margaret Thatcher",
+      "incorrect_answers": ["Indira Gandhi", "Angela Merkel", "Golda Meir"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "Who discovered America?",
+      "correct_answer": "Christopher Columbus",
+      "incorrect_answers": ["Vasco da Gama", "Ferdinand Magellan", "James Cook"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "Who was the first Emperor of Rome?",
+      "correct_answer": "Augustus",
+      "incorrect_answers": ["Julius Caesar", "Nero", "Constantine"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "In which year did the French Revolution begin?",
+      "correct_answer": "1789",
+      "incorrect_answers": ["1776", "1804", "1750"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "Who was the first woman Prime Minister of India?",
+      "correct_answer": "Indira Gandhi",
+      "incorrect_answers": ["Sonia Gandhi", "Pratibha Patil", "Sarojini Naidu"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "Who was the first President of South Africa after apartheid?",
+      "correct_answer": "Nelson Mandela",
+      "incorrect_answers": ["Thabo Mbeki", "Jacob Zuma", "F.W. de Klerk"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "Who was the last Tsar of Russia?",
+      "correct_answer": "Nicholas II",
+      "incorrect_answers": ["Alexander III", "Peter the Great", "Ivan IV"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "Who wrote the Communist Manifesto?",
+      "correct_answer": "Karl Marx",
+      "incorrect_answers": [
+        "Vladimir Lenin",
+        "Friedrich Engels",
+        "Joseph Stalin"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "Who was the first female pharaoh of Egypt?",
+      "correct_answer": "Hatshepsut",
+      "incorrect_answers": ["Cleopatra", "Nefertiti", "Sobekneferu"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "What year did the Titanic sink?",
+      "correct_answer": "1912",
+      "incorrect_answers": ["1905", "1915", "1920"]
+    }
+  ]
+}

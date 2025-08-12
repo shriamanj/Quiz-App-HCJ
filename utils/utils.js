@@ -203,6 +203,8 @@ function getOption(id, questionText, options) {
 }
 
 const shuffleArray = (arr) => {
+  const array = [...arr]; // create a shallow copy
+  if (array.length === 0) return array; // handle empty array case
   for (let i = arr.length - 1; i > 0; i--) {
     const randomIdx = Math.floor(Math.random() * (i + 1));
     [arr[i], arr[randomIdx]] = [arr[randomIdx], arr[i]];
@@ -348,7 +350,7 @@ function submitQuiz() {
   currentUser.skipped = skipped;
   currentUser.notAttempted = notAttempted;
   currentUser.score = score;
-  currentUser.totalTimeTaken = currentUser.questions.length * 60 - timeLeft;
+  currentUser.totalTimeTaken = timeLeft;
 
   const users = JSON.parse(localStorage.getItem("users"));
   const index = users.findIndex(

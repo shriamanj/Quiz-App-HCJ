@@ -1,0 +1,94 @@
+{
+  "response_code": 0,
+  "total_no_of_questions": 12,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What is the capital of Canada?",
+      "correct_answer": "Ottawa",
+      "incorrect_answers": ["Toronto", "Vancouver", "Montreal"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "Which is the largest continent?",
+      "correct_answer": "Asia",
+      "incorrect_answers": ["Africa", "Europe", "North America"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "Which is the longest river in the world?",
+      "correct_answer": "Nile",
+      "incorrect_answers": ["Amazon", "Yangtze", "Mississippi"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What is the capital of Japan?",
+      "correct_answer": "Tokyo",
+      "incorrect_answers": ["Kyoto", "Osaka", "Nagoya"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "Which is the largest ocean?",
+      "correct_answer": "Pacific Ocean",
+      "incorrect_answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "Which country has the most islands?",
+      "correct_answer": "Sweden",
+      "incorrect_answers": ["Indonesia", "Canada", "Philippines"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "Which is the highest mountain in Africa?",
+      "correct_answer": "Kilimanjaro",
+      "incorrect_answers": ["Mount Kenya", "Mount Elgon", "Simien Mountains"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "Which desert is the largest in the world?",
+      "correct_answer": "Sahara",
+      "incorrect_answers": ["Gobi", "Kalahari", "Arabian"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "Which is the deepest lake in the world?",
+      "correct_answer": "Lake Baikal",
+      "incorrect_answers": ["Lake Superior", "Lake Victoria", "Lake Tanganyika"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "Which country has the longest coastline?",
+      "correct_answer": "Canada",
+      "incorrect_answers": ["Russia", "USA", "Australia"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "Which is the smallest country in Africa?",
+      "correct_answer": "Seychelles",
+      "incorrect_answers": ["Gambia", "Comoros", "Djibouti"]
+    }
+  ]
+}

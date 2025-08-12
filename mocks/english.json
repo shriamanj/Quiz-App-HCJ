@@ -1,0 +1,214 @@
+{
+  "response_code": 0,
+  "total_no_of_questions": 120,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "English",
+      "question": "What is the synonym of 'Happy'?",
+      "correct_answer": "Joyful",
+      "incorrect_answers": ["Sad", "Angry", "Tired"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "English",
+      "question": "What is the antonym of 'Brave'?",
+      "correct_answer": "Coward",
+      "incorrect_answers": ["Hero", "Strong", "Bold"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "English",
+      "question": "What is the synonym of 'Happy'?",
+      "correct_answer": "Joyful",
+      "incorrect_answers": ["Sad", "Angry", "Tired"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "English",
+      "question": "What is the antonym of 'Brave'?",
+      "correct_answer": "Coward",
+      "incorrect_answers": ["Hero", "Strong", "Bold"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "English",
+      "question": "Choose the correct spelling:",
+      "correct_answer": "Accommodation",
+      "incorrect_answers": ["Accomodation", "Acommodation", "Accommadation"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "English",
+      "question": "What is the plural of 'Child'?",
+      "correct_answer": "Children",
+      "incorrect_answers": ["Childs", "Childes", "Childrens"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "English",
+      "question": "Which word is a noun?",
+      "correct_answer": "Book",
+      "incorrect_answers": ["Run", "Quickly", "Blue"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "English",
+      "question": "What is the antonym of 'Quick'?",
+      "correct_answer": "Slow",
+      "incorrect_answers": ["Fast", "Rapid", "Swift"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "English",
+      "question": "Choose the correct spelling:",
+      "correct_answer": "Separate",
+      "incorrect_answers": ["Seperate", "Seperete", "Seperat"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "English",
+      "question": "What is the plural of 'Mouse'?",
+      "correct_answer": "Mice",
+      "incorrect_answers": ["Mouses", "Mices", "Mouse"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "English",
+      "question": "Which word is a verb?",
+      "correct_answer": "Run",
+      "incorrect_answers": ["Book", "Blue", "Quickly"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "English",
+      "question": "What is the synonym of 'Beautiful'?",
+      "correct_answer": "Attractive",
+      "incorrect_answers": ["Ugly", "Plain", "Dull"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "English",
+      "question": "What is the antonym of 'Strong'?",
+      "correct_answer": "Weak",
+      "incorrect_answers": ["Powerful", "Bold", "Brave"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "English",
+      "question": "Choose the correct spelling:",
+      "correct_answer": "Definitely",
+      "incorrect_answers": ["Definately", "Definetly", "Definitley"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "English",
+      "question": "What is the plural of 'Goose'?",
+      "correct_answer": "Geese",
+      "incorrect_answers": ["Gooses", "Geeses", "Goose"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "English",
+      "question": "Which word is an adjective?",
+      "correct_answer": "Beautiful",
+      "incorrect_answers": ["Run", "Book", "Quickly"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "English",
+      "question": "What is the synonym of 'Rapid'?",
+      "correct_answer": "Swift",
+      "incorrect_answers": ["Slow", "Calm", "Steady"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "English",
+      "question": "What is the antonym of 'Generous'?",
+      "correct_answer": "Stingy",
+      "incorrect_answers": ["Kind", "Helpful", "Friendly"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "English",
+      "question": "Choose the correct spelling:",
+      "correct_answer": "Occurrence",
+      "incorrect_answers": ["Occurence", "Ocurrence", "Occurrance"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "English",
+      "question": "What is the plural of 'Cactus'?",
+      "correct_answer": "Cacti",
+      "incorrect_answers": ["Cactuses", "Cactis", "Cactus"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "English",
+      "question": "Which word is an adverb?",
+      "correct_answer": "Quickly",
+      "incorrect_answers": ["Book", "Blue", "Run"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "English",
+      "question": "What is the synonym of 'Obsolete'?",
+      "correct_answer": "Outdated",
+      "incorrect_answers": ["Modern", "Current", "Recent"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "English",
+      "question": "What is the antonym of 'Transparent'?",
+      "correct_answer": "Opaque",
+      "incorrect_answers": ["Clear", "Translucent", "Bright"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "English",
+      "question": "Choose the correct spelling:",
+      "correct_answer": "Conscientious",
+      "incorrect_answers": ["Consciencious", "Consciencous", "Conscientous"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "English",
+      "question": "What is the plural of 'Phenomenon'?",
+      "correct_answer": "Phenomena",
+      "incorrect_answers": ["Phenomenons", "Phenomenas", "Phenomenon"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "English",
+      "question": "Which word is a conjunction?",
+      "correct_answer": "Although",
+      "incorrect_answers": ["Book", "Run", "Blue"]
+    }
+  ]
+}

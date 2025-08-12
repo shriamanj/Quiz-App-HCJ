@@ -1,5 +1,6 @@
 {
   "response_code": 0,
+  "total_no_of_questions": 120,
   "results": [
     {
       "type": "multiple",
@@ -459,6 +460,67 @@
       "category": "ReactJS",
       "question": "What is the use of useLayoutEffect hook?",
       "correct_answer": "To run effects synchronously after all DOM mutations",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unstable_IdlePriority?",
+      "correct_answer": "To schedule work at idle priority",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unstable_LowPriority?",
+      "correct_answer": "To schedule work at low priority",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unstable_NormalPriority?",
+      "correct_answer": "To schedule work at normal priority",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unstable_UserBlockingPriority?",
+      "correct_answer": "To schedule work at user-blocking priority",
+      "incorrect_answers": [
+        "To manage state",
+        "To handle routing",
+        "To fetch data"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "ReactJS",
+      "question": "What is the use of ReactDOM.unstable_ImmediatePriority?",
+      "correct_answer": "To schedule work at immediate priority",
       "incorrect_answers": [
         "To manage state",
         "To handle routing",
