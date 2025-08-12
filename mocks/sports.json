@@ -1,6 +1,6 @@
 {
   "response_code": 0,
-  "total_no_of_questions": 13,
+  "total_no_of_questions": 100,
   "results": [
     {
       "type": "multiple",
@@ -937,6 +937,206 @@
       "question": "Which country won the Women's Handball World Championship in 2023?",
       "correct_answer": "Norway",
       "incorrect_answers": ["France", "Denmark", "Russia"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Which country hosted the 2022 FIFA World Cup?",
+      "correct_answer": "Qatar",
+      "incorrect_answers": ["Russia", "USA", "Brazil"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "Who won the 2022 Tour de France Femmes?",
+      "correct_answer": "Annemiek van Vleuten",
+      "incorrect_answers": ["Marianne Vos", "Katarzyna Niewiadoma", "Elisa Longo Borghini"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "Who holds the record for most goals in a single World Cup tournament?",
+      "correct_answer": "Just Fontaine",
+      "incorrect_answers": ["Miroslav Klose", "Ronaldo", "Pele"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Which country won the 2023 Cricket World Cup?",
+      "correct_answer": "Australia",
+      "incorrect_answers": ["India", "England", "New Zealand"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "Who won the 2022 Ballon d'Or Féminin?",
+      "correct_answer": "Alexia Putellas",
+      "incorrect_answers": ["Sam Kerr", "Beth Mead", "Vivianne Miedema"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "Which city hosted the 2022 Winter Olympics?",
+      "correct_answer": "Beijing",
+      "incorrect_answers": ["Pyeongchang", "Sochi", "Vancouver"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Who won the 2023 Super Bowl?",
+      "correct_answer": "Kansas City Chiefs",
+      "incorrect_answers": ["Philadelphia Eagles", "San Francisco 49ers", "Buffalo Bills"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "Who won the 2022 FIFA Club World Cup Golden Ball?",
+      "correct_answer": "Vinícius Júnior",
+      "incorrect_answers": ["Karim Benzema", "Luka Modric", "Federico Valverde"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "Who won the 2022 MotoGP World Championship?",
+      "correct_answer": "Francesco Bagnaia",
+      "incorrect_answers": ["Fabio Quartararo", "Marc Márquez", "Joan Mir"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Which country won the 2022 T20 Cricket World Cup?",
+      "correct_answer": "England",
+      "incorrect_answers": ["Pakistan", "India", "Australia"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "Who won the 2023 NBA Rookie of the Year?",
+      "correct_answer": "Paolo Banchero",
+      "incorrect_answers": ["Jalen Williams", "Walker Kessler", "Bennedict Mathurin"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "Who won the 2022 World Snooker Championship?",
+      "correct_answer": "Ronnie O'Sullivan",
+      "incorrect_answers": ["Judd Trump", "Mark Selby", "John Higgins"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Which country won the 2022 Women's Africa Cup of Nations?",
+      "correct_answer": "South Africa",
+      "incorrect_answers": ["Morocco", "Nigeria", "Cameroon"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "Who won the 2023 Indian Premier League (IPL)?",
+      "correct_answer": "Chennai Super Kings",
+      "incorrect_answers": ["Gujarat Titans", "Mumbai Indians", "Rajasthan Royals"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "Who won the 2022 Women's Tour de France mountain classification?",
+      "correct_answer": "Annemiek van Vleuten",
+      "incorrect_answers": ["Marianne Vos", "Katarzyna Niewiadoma", "Elisa Longo Borghini"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Who won the 2023 UEFA Super Cup?",
+      "correct_answer": "Manchester City",
+      "incorrect_answers": ["Sevilla", "Real Madrid", "Bayern Munich"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "Who won the 2022 Women's Rugby World Cup Player of the Tournament?",
+      "correct_answer": "Ruahei Demant",
+      "incorrect_answers": ["Sarah Hunter", "Emily Scarratt", "Portia Woodman"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "Who won the 2022 World Chess Championship?",
+      "correct_answer": "Ian Nepomniachtchi",
+      "incorrect_answers": ["Magnus Carlsen", "Ding Liren", "Fabiano Caruana"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Which country won the 2023 Women's Cricket T20 World Cup?",
+      "correct_answer": "Australia",
+      "incorrect_answers": ["England", "India", "South Africa"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "Who won the 2022 UEFA Women's Champions League?",
+      "correct_answer": "Lyon",
+      "incorrect_answers": ["Barcelona", "Chelsea", "Wolfsburg"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "Who won the 2022 World Athletics Men's 100m?",
+      "correct_answer": "Fred Kerley",
+      "incorrect_answers": ["Trayvon Bromell", "Marvin Bracy", "Christian Coleman"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Who won the 2023 FA Cup?",
+      "correct_answer": "Manchester City",
+      "incorrect_answers": ["Manchester United", "Chelsea", "Liverpool"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "Who won the 2022 Women's Wimbledon singles?",
+      "correct_answer": "Elena Rybakina",
+      "incorrect_answers": ["Ons Jabeur", "Simona Halep", "Iga Swiatek"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "Who won the 2022 Formula E World Championship?",
+      "correct_answer": "Stoffel Vandoorne",
+      "incorrect_answers": ["Edoardo Mortara", "Mitch Evans", "Jean-Éric Vergne"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "Who won the 2023 Tour de France Femmes?",
+      "correct_answer": "Demi Vollering",
+      "incorrect_answers": ["Annemiek van Vleuten", "Katarzyna Niewiadoma", "Elisa Longo Borghini"]
     }
   ]
 }

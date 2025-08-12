@@ -1,94 +1,1126 @@
 {
-  "response_code": 0,
-  "total_no_of_questions": 12,
-  "results": [
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Geography",
-      "question": "What is the capital of Canada?",
-      "correct_answer": "Ottawa",
-      "incorrect_answers": ["Toronto", "Vancouver", "Montreal"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Geography",
-      "question": "Which is the largest continent?",
-      "correct_answer": "Asia",
-      "incorrect_answers": ["Africa", "Europe", "North America"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Geography",
-      "question": "Which is the longest river in the world?",
-      "correct_answer": "Nile",
-      "incorrect_answers": ["Amazon", "Yangtze", "Mississippi"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Geography",
-      "question": "What is the capital of Japan?",
-      "correct_answer": "Tokyo",
-      "incorrect_answers": ["Kyoto", "Osaka", "Nagoya"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Geography",
-      "question": "Which is the largest ocean?",
-      "correct_answer": "Pacific Ocean",
-      "incorrect_answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Geography",
-      "question": "Which country has the most islands?",
-      "correct_answer": "Sweden",
-      "incorrect_answers": ["Indonesia", "Canada", "Philippines"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Geography",
-      "question": "Which is the highest mountain in Africa?",
-      "correct_answer": "Kilimanjaro",
-      "incorrect_answers": ["Mount Kenya", "Mount Elgon", "Simien Mountains"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Geography",
-      "question": "Which desert is the largest in the world?",
-      "correct_answer": "Sahara",
-      "incorrect_answers": ["Gobi", "Kalahari", "Arabian"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Geography",
-      "question": "Which is the deepest lake in the world?",
-      "correct_answer": "Lake Baikal",
-      "incorrect_answers": ["Lake Superior", "Lake Victoria", "Lake Tanganyika"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Geography",
-      "question": "Which country has the longest coastline?",
-      "correct_answer": "Canada",
-      "incorrect_answers": ["Russia", "USA", "Australia"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Geography",
-      "question": "Which is the smallest country in Africa?",
-      "correct_answer": "Seychelles",
-      "incorrect_answers": ["Gambia", "Comoros", "Djibouti"]
-    }
-  ]
+    "response_code": 0,
+    "total_no_of_questions": 11,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Canada?",
+            "correct_answer": "Ottawa",
+            "incorrect_answers": ["Toronto", "Vancouver", "Montreal"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which is the largest continent?",
+            "correct_answer": "Asia",
+            "incorrect_answers": ["Africa", "Europe", "North America"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which is the longest river in the world?",
+            "correct_answer": "Nile",
+            "incorrect_answers": ["Amazon", "Yangtze", "Mississippi"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Japan?",
+            "correct_answer": "Tokyo",
+            "incorrect_answers": ["Kyoto", "Osaka", "Nagoya"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which is the largest ocean?",
+            "correct_answer": "Pacific Ocean",
+            "incorrect_answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country has the most islands?",
+            "correct_answer": "Sweden",
+            "incorrect_answers": ["Indonesia", "Canada", "Philippines"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the highest mountain in Africa?",
+            "correct_answer": "Kilimanjaro",
+            "incorrect_answers": ["Mount Kenya", "Mount Elgon", "Simien Mountains"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which desert is the largest in the world?",
+            "correct_answer": "Sahara",
+            "incorrect_answers": ["Gobi", "Kalahari", "Arabian"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which is the deepest lake in the world?",
+            "correct_answer": "Lake Baikal",
+            "incorrect_answers": ["Lake Superior", "Lake Victoria", "Lake Tanganyika"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which country has the longest coastline?",
+            "correct_answer": "Canada",
+            "incorrect_answers": ["Russia", "USA", "Australia"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which is the smallest country in Africa?",
+            "correct_answer": "Seychelles",
+            "incorrect_answers": ["Gambia", "Comoros", "Djibouti"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of France?",
+            "correct_answer": "Paris",
+            "incorrect_answers": ["Lyon", "Marseille", "Nice"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which country is known as the Land of the Rising Sun?",
+            "correct_answer": "Japan",
+            "incorrect_answers": ["China", "Thailand", "South Korea"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which ocean is on the east coast of the United States?",
+            "correct_answer": "Atlantic Ocean",
+            "incorrect_answers": ["Pacific Ocean", "Indian Ocean", "Arctic Ocean"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Australia?",
+            "correct_answer": "Canberra",
+            "incorrect_answers": ["Sydney", "Melbourne", "Brisbane"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which country is famous for tulips and windmills?",
+            "correct_answer": "Netherlands",
+            "incorrect_answers": ["Belgium", "Germany", "Denmark"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which continent is Egypt located in?",
+            "correct_answer": "Africa",
+            "incorrect_answers": ["Asia", "Europe", "South America"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the largest country in the world by area?",
+            "correct_answer": "Russia",
+            "incorrect_answers": ["Canada", "China", "USA"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which country is shaped like a boot?",
+            "correct_answer": "Italy",
+            "incorrect_answers": ["Spain", "Greece", "Portugal"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of the United Kingdom?",
+            "correct_answer": "London",
+            "incorrect_answers": ["Manchester", "Birmingham", "Liverpool"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which river flows through Paris?",
+            "correct_answer": "Seine",
+            "incorrect_answers": ["Thames", "Danube", "Rhine"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Marrakech?",
+            "correct_answer": "Morocco",
+            "incorrect_answers": ["Egypt", "Algeria", "Tunisia"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which mountain range separates Europe and Asia?",
+            "correct_answer": "Ural Mountains",
+            "incorrect_answers": ["Alps", "Andes", "Rockies"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital of Argentina?",
+            "correct_answer": "Buenos Aires",
+            "incorrect_answers": ["Santiago", "Lima", "Montevideo"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country has the city of Dubrovnik?",
+            "correct_answer": "Croatia",
+            "incorrect_answers": ["Serbia", "Montenegro", "Slovenia"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest island in the Mediterranean Sea?",
+            "correct_answer": "Sicily",
+            "incorrect_answers": ["Sardinia", "Cyprus", "Crete"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is known as the Emerald Isle?",
+            "correct_answer": "Ireland",
+            "incorrect_answers": ["Iceland", "Scotland", "Wales"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which river is the longest in Europe?",
+            "correct_answer": "Volga",
+            "incorrect_answers": ["Danube", "Rhine", "Elbe"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is the city of Petra located in?",
+            "correct_answer": "Jordan",
+            "incorrect_answers": ["Egypt", "Israel", "Syria"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the smallest continent by land area?",
+            "correct_answer": "Australia",
+            "incorrect_answers": ["Europe", "Antarctica", "South America"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Germany?",
+            "correct_answer": "Berlin",
+            "incorrect_answers": ["Munich", "Frankfurt", "Hamburg"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which country is known for the Eiffel Tower?",
+            "correct_answer": "France",
+            "incorrect_answers": ["Italy", "Spain", "Germany"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which continent is Brazil located in?",
+            "correct_answer": "South America",
+            "incorrect_answers": ["Africa", "Europe", "Asia"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of India?",
+            "correct_answer": "New Delhi",
+            "incorrect_answers": ["Mumbai", "Bangalore", "Kolkata"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which country is famous for the Great Wall?",
+            "correct_answer": "China",
+            "incorrect_answers": ["Japan", "India", "Mongolia"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which is the largest country in South America?",
+            "correct_answer": "Brazil",
+            "incorrect_answers": ["Argentina", "Colombia", "Peru"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Italy?",
+            "correct_answer": "Rome",
+            "incorrect_answers": ["Venice", "Milan", "Florence"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which country is known for pyramids?",
+            "correct_answer": "Egypt",
+            "incorrect_answers": ["Mexico", "Peru", "Greece"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which is the largest desert in Africa?",
+            "correct_answer": "Sahara",
+            "incorrect_answers": ["Kalahari", "Namib", "Gobi"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Spain?",
+            "correct_answer": "Madrid",
+            "incorrect_answers": ["Barcelona", "Valencia", "Seville"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which country is known as the Land Down Under?",
+            "correct_answer": "Australia",
+            "incorrect_answers": ["New Zealand", "South Africa", "Canada"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which is the largest island in the world?",
+            "correct_answer": "Greenland",
+            "incorrect_answers": ["Australia", "Borneo", "Madagascar"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Russia?",
+            "correct_answer": "Moscow",
+            "incorrect_answers": ["Saint Petersburg", "Kazan", "Novosibirsk"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which country is famous for maple syrup?",
+            "correct_answer": "Canada",
+            "incorrect_answers": ["USA", "Russia", "Sweden"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which continent is the Sahara Desert located in?",
+            "correct_answer": "Africa",
+            "incorrect_answers": ["Asia", "Australia", "Europe"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Egypt?",
+            "correct_answer": "Cairo",
+            "incorrect_answers": ["Alexandria", "Giza", "Luxor"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which country is known for kangaroos?",
+            "correct_answer": "Australia",
+            "incorrect_answers": ["South Africa", "India", "Brazil"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which is the largest lake in Africa?",
+            "correct_answer": "Lake Victoria",
+            "incorrect_answers": ["Lake Tanganyika", "Lake Malawi", "Lake Chad"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of China?",
+            "correct_answer": "Beijing",
+            "incorrect_answers": ["Shanghai", "Guangzhou", "Shenzhen"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which country is known for the Taj Mahal?",
+            "correct_answer": "India",
+            "incorrect_answers": ["Pakistan", "Bangladesh", "Nepal"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which is the largest country in Africa?",
+            "correct_answer": "Algeria",
+            "incorrect_answers": ["Nigeria", "Egypt", "Sudan"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Brazil?",
+            "correct_answer": "Brasília",
+            "incorrect_answers": ["Rio de Janeiro", "São Paulo", "Salvador"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which country is known for Mount Fuji?",
+            "correct_answer": "Japan",
+            "incorrect_answers": ["China", "South Korea", "Thailand"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which is the smallest country in the world?",
+            "correct_answer": "Vatican City",
+            "incorrect_answers": ["Monaco", "San Marino", "Liechtenstein"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of South Africa?",
+            "correct_answer": "Pretoria",
+            "incorrect_answers": ["Cape Town", "Johannesburg", "Durban"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which country is known for the Colosseum?",
+            "correct_answer": "Italy",
+            "incorrect_answers": ["Greece", "France", "Spain"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which is the largest peninsula in the world?",
+            "correct_answer": "Arabian Peninsula",
+            "incorrect_answers": ["Iberian Peninsula", "Scandinavian Peninsula", "Balkan Peninsula"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Turkey?",
+            "correct_answer": "Ankara",
+            "incorrect_answers": ["Istanbul", "Izmir", "Antalya"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which country is known for the Andes Mountains?",
+            "correct_answer": "Peru",
+            "incorrect_answers": ["Brazil", "Argentina", "Chile"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the highest waterfall in the world?",
+            "correct_answer": "Angel Falls",
+            "incorrect_answers": ["Niagara Falls", "Victoria Falls", "Iguazu Falls"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country has the most volcanoes?",
+            "correct_answer": "Indonesia",
+            "incorrect_answers": ["Japan", "USA", "Italy"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest island in the Mediterranean?",
+            "correct_answer": "Sicily",
+            "incorrect_answers": ["Sardinia", "Cyprus", "Crete"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Timbuktu?",
+            "correct_answer": "Mali",
+            "incorrect_answers": ["Niger", "Chad", "Sudan"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which river forms part of the border between the USA and Mexico?",
+            "correct_answer": "Rio Grande",
+            "incorrect_answers": ["Colorado", "Mississippi", "Yukon"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Africa by population?",
+            "correct_answer": "Lagos",
+            "incorrect_answers": ["Cairo", "Kinshasa", "Johannesburg"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Dubrovnik?",
+            "correct_answer": "Croatia",
+            "incorrect_answers": ["Serbia", "Montenegro", "Slovenia"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the highest capital city in the world?",
+            "correct_answer": "La Paz",
+            "incorrect_answers": ["Quito", "Kathmandu", "Thimphu"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is known as the Land of a Thousand Lakes?",
+            "correct_answer": "Finland",
+            "incorrect_answers": ["Sweden", "Norway", "Canada"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest bay in the world?",
+            "correct_answer": "Bay of Bengal",
+            "incorrect_answers": ["Hudson Bay", "San Francisco Bay", "Bay of Biscay"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Casablanca?",
+            "correct_answer": "Morocco",
+            "incorrect_answers": ["Algeria", "Tunisia", "Egypt"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest archipelago in the world?",
+            "correct_answer": "Indonesia",
+            "incorrect_answers": ["Philippines", "Japan", "Maldives"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which river is the longest in Asia?",
+            "correct_answer": "Yangtze",
+            "incorrect_answers": ["Yellow River", "Mekong", "Ganges"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Zurich?",
+            "correct_answer": "Switzerland",
+            "incorrect_answers": ["Austria", "Germany", "France"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest island in the Caribbean?",
+            "correct_answer": "Cuba",
+            "incorrect_answers": ["Jamaica", "Hispaniola", "Puerto Rico"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Krakow?",
+            "correct_answer": "Poland",
+            "incorrect_answers": ["Czech Republic", "Slovakia", "Hungary"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest country in the Middle East?",
+            "correct_answer": "Saudi Arabia",
+            "incorrect_answers": ["Iran", "Iraq", "Turkey"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which river flows through Budapest?",
+            "correct_answer": "Danube",
+            "incorrect_answers": ["Rhine", "Elbe", "Seine"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Medellín?",
+            "correct_answer": "Colombia",
+            "incorrect_answers": ["Peru", "Ecuador", "Venezuela"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Australia?",
+            "correct_answer": "Sydney",
+            "incorrect_answers": ["Melbourne", "Brisbane", "Perth"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Antwerp?",
+            "correct_answer": "Belgium",
+            "incorrect_answers": ["Netherlands", "France", "Germany"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest island in Japan?",
+            "correct_answer": "Honshu",
+            "incorrect_answers": ["Hokkaido", "Kyushu", "Shikoku"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Porto?",
+            "correct_answer": "Portugal",
+            "incorrect_answers": ["Spain", "Italy", "France"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in the United States by area?",
+            "correct_answer": "Sitka, Alaska",
+            "incorrect_answers": ["New York", "Los Angeles", "Houston"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Gothenburg?",
+            "correct_answer": "Sweden",
+            "incorrect_answers": ["Norway", "Denmark", "Finland"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in South America?",
+            "correct_answer": "São Paulo",
+            "incorrect_answers": ["Buenos Aires", "Rio de Janeiro", "Lima"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Thessaloniki?",
+            "correct_answer": "Greece",
+            "incorrect_answers": ["Turkey", "Bulgaria", "Albania"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Canada?",
+            "correct_answer": "Toronto",
+            "incorrect_answers": ["Vancouver", "Montreal", "Calgary"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Valencia?",
+            "correct_answer": "Spain",
+            "incorrect_answers": ["Portugal", "Italy", "France"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in India?",
+            "correct_answer": "Mumbai",
+            "incorrect_answers": ["Delhi", "Bangalore", "Chennai"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Salzburg?",
+            "correct_answer": "Austria",
+            "incorrect_answers": ["Germany", "Switzerland", "Hungary"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in China?",
+            "correct_answer": "Shanghai",
+            "incorrect_answers": ["Beijing", "Guangzhou", "Shenzhen"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Ghent?",
+            "correct_answer": "Belgium",
+            "incorrect_answers": ["Netherlands", "France", "Germany"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Russia?",
+            "correct_answer": "Moscow",
+            "incorrect_answers": ["Saint Petersburg", "Novosibirsk", "Yekaterinburg"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Bergen?",
+            "correct_answer": "Norway",
+            "incorrect_answers": ["Sweden", "Denmark", "Finland"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Turkey?",
+            "correct_answer": "Istanbul",
+            "incorrect_answers": ["Ankara", "Izmir", "Bursa"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Split?",
+            "correct_answer": "Croatia",
+            "incorrect_answers": ["Serbia", "Montenegro", "Slovenia"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Egypt?",
+            "correct_answer": "Cairo",
+            "incorrect_answers": ["Alexandria", "Giza", "Luxor"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Lausanne?",
+            "correct_answer": "Switzerland",
+            "incorrect_answers": ["France", "Germany", "Austria"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in France?",
+            "correct_answer": "Paris",
+            "incorrect_answers": ["Marseille", "Lyon", "Toulouse"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Bologna?",
+            "correct_answer": "Italy",
+            "incorrect_answers": ["France", "Spain", "Switzerland"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Germany?",
+            "correct_answer": "Berlin",
+            "incorrect_answers": ["Hamburg", "Munich", "Cologne"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Porto Alegre?",
+            "correct_answer": "Brazil",
+            "incorrect_answers": ["Argentina", "Uruguay", "Paraguay"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in South Africa?",
+            "correct_answer": "Johannesburg",
+            "incorrect_answers": ["Cape Town", "Durban", "Pretoria"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Medellín?",
+            "correct_answer": "Colombia",
+            "incorrect_answers": ["Peru", "Ecuador", "Venezuela"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Mexico?",
+            "correct_answer": "Mexico City",
+            "incorrect_answers": ["Guadalajara", "Monterrey", "Puebla"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Antwerp?",
+            "correct_answer": "Belgium",
+            "incorrect_answers": ["Netherlands", "France", "Germany"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Valencia?",
+            "correct_answer": "Spain",
+            "incorrect_answers": ["Portugal", "Italy", "France"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in India?",
+            "correct_answer": "Mumbai",
+            "incorrect_answers": ["Delhi", "Bangalore", "Chennai"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Salzburg?",
+            "correct_answer": "Austria",
+            "incorrect_answers": ["Germany", "Switzerland", "Hungary"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in China?",
+            "correct_answer": "Shanghai",
+            "incorrect_answers": ["Beijing", "Guangzhou", "Shenzhen"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Ghent?",
+            "correct_answer": "Belgium",
+            "incorrect_answers": ["Netherlands", "France", "Germany"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Russia?",
+            "correct_answer": "Moscow",
+            "incorrect_answers": ["Saint Petersburg", "Novosibirsk", "Yekaterinburg"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Bergen?",
+            "correct_answer": "Norway",
+            "incorrect_answers": ["Sweden", "Denmark", "Finland"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Turkey?",
+            "correct_answer": "Istanbul",
+            "incorrect_answers": ["Ankara", "Izmir", "Bursa"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Split?",
+            "correct_answer": "Croatia",
+            "incorrect_answers": ["Serbia", "Montenegro", "Slovenia"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Egypt?",
+            "correct_answer": "Cairo",
+            "incorrect_answers": ["Alexandria", "Giza", "Luxor"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Lausanne?",
+            "correct_answer": "Switzerland",
+            "incorrect_answers": ["France", "Germany", "Austria"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in France?",
+            "correct_answer": "Paris",
+            "incorrect_answers": ["Marseille", "Lyon", "Toulouse"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Bologna?",
+            "correct_answer": "Italy",
+            "incorrect_answers": ["France", "Spain", "Switzerland"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Germany?",
+            "correct_answer": "Berlin",
+            "incorrect_answers": ["Hamburg", "Munich", "Cologne"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Porto Alegre?",
+            "correct_answer": "Brazil",
+            "incorrect_answers": ["Argentina", "Uruguay", "Paraguay"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in South Africa?",
+            "correct_answer": "Johannesburg",
+            "incorrect_answers": ["Cape Town", "Durban", "Pretoria"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Medellín?",
+            "correct_answer": "Colombia",
+            "incorrect_answers": ["Peru", "Ecuador", "Venezuela"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Mexico?",
+            "correct_answer": "Mexico City",
+            "incorrect_answers": ["Guadalajara", "Monterrey", "Puebla"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Quebec?",
+            "correct_answer": "Canada",
+            "incorrect_answers": ["France", "USA", "Belgium"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Pakistan?",
+            "correct_answer": "Karachi",
+            "incorrect_answers": ["Lahore", "Islamabad", "Faisalabad"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Zurich?",
+            "correct_answer": "Switzerland",
+            "incorrect_answers": ["Austria", "Germany", "France"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Indonesia?",
+            "correct_answer": "Jakarta",
+            "incorrect_answers": ["Surabaya", "Bandung", "Medan"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Cape Town?",
+            "correct_answer": "South Africa",
+            "incorrect_answers": ["Namibia", "Botswana", "Zimbabwe"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Saudi Arabia?",
+            "correct_answer": "Riyadh",
+            "incorrect_answers": ["Jeddah", "Mecca", "Medina"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Auckland?",
+            "correct_answer": "New Zealand",
+            "incorrect_answers": ["Australia", "Fiji", "Papua New Guinea"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Nigeria?",
+            "correct_answer": "Lagos",
+            "incorrect_answers": ["Abuja", "Kano", "Ibadan"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Casablanca?",
+            "correct_answer": "Morocco",
+            "incorrect_answers": ["Algeria", "Tunisia", "Egypt"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Argentina?",
+            "correct_answer": "Buenos Aires",
+            "incorrect_answers": ["Córdoba", "Rosario", "Mendoza"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Busan?",
+            "correct_answer": "South Korea",
+            "incorrect_answers": ["North Korea", "Japan", "China"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Iran?",
+            "correct_answer": "Tehran",
+            "incorrect_answers": ["Mashhad", "Isfahan", "Tabriz"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Gothenburg?",
+            "correct_answer": "Sweden",
+            "incorrect_answers": ["Norway", "Denmark", "Finland"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Thailand?",
+            "correct_answer": "Bangkok",
+            "incorrect_answers": ["Chiang Mai", "Phuket", "Pattaya"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country is home to the city of Porto?",
+            "correct_answer": "Portugal",
+            "incorrect_answers": ["Spain", "Italy", "France"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Vietnam?",
+            "correct_answer": "Ho Chi Minh City",
+            "incorrect_answers": ["Hanoi", "Da Nang", "Hai Phong"]
+        }
+    ]
 }

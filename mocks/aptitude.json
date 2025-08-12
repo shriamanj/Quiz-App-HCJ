@@ -849,6 +849,278 @@
       "question": "What is the value of 30^2?",
       "correct_answer": "900",
       "incorrect_answers": ["890", "910", "880"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 24x - 48 = 192, what is x?",
+      "correct_answer": "10",
+      "incorrect_answers": ["8", "12", "14"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 31^2?",
+      "correct_answer": "961",
+      "incorrect_answers": ["951", "971", "941"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 25x + 50 = 175, what is x?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "6", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 32^2?",
+      "correct_answer": "1024",
+      "incorrect_answers": ["1014", "1034", "1004"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 26x - 52 = 208, what is x?",
+      "correct_answer": "10",
+      "incorrect_answers": ["8", "12", "14"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 33^2?",
+      "correct_answer": "1089",
+      "incorrect_answers": ["1079", "1099", "1069"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 27x + 54 = 189, what is x?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "6", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 34^2?",
+      "correct_answer": "1156",
+      "incorrect_answers": ["1146", "1166", "1136"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 28x - 56 = 224, what is x?",
+      "correct_answer": "10",
+      "incorrect_answers": ["8", "12", "14"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 35^2?",
+      "correct_answer": "1225",
+      "incorrect_answers": ["1215", "1235", "1205"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 29x + 58 = 203, what is x?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "6", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 36^2?",
+      "correct_answer": "1296",
+      "incorrect_answers": ["1286", "1306", "1276"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 30x - 60 = 240, what is x?",
+      "correct_answer": "10",
+      "incorrect_answers": ["8", "12", "14"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 37^2?",
+      "correct_answer": "1369",
+      "incorrect_answers": ["1359", "1379", "1349"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 31x + 62 = 217, what is x?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "6", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 38^2?",
+      "correct_answer": "1444",
+      "incorrect_answers": ["1434", "1454", "1424"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 32x - 64 = 256, what is x?",
+      "correct_answer": "10",
+      "incorrect_answers": ["8", "12", "14"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 39^2?",
+      "correct_answer": "1521",
+      "incorrect_answers": ["1511", "1531", "1491"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 33x + 66 = 231, what is x?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "6", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 40^2?",
+      "correct_answer": "1600",
+      "incorrect_answers": ["1590", "1610", "1580"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 34x - 68 = 272, what is x?",
+      "correct_answer": "10",
+      "incorrect_answers": ["8", "12", "14"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 41^2?",
+      "correct_answer": "1681",
+      "incorrect_answers": ["1671", "1691", "1661"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 35x + 70 = 245, what is x?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "6", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 42^2?",
+      "correct_answer": "1764",
+      "incorrect_answers": ["1754", "1774", "1744"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 36x - 72 = 288, what is x?",
+      "correct_answer": "10",
+      "incorrect_answers": ["8", "12", "14"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 43^2?",
+      "correct_answer": "1849",
+      "incorrect_answers": ["1839", "1859", "1829"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 37x + 74 = 259, what is x?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "6", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 44^2?",
+      "correct_answer": "1936",
+      "incorrect_answers": ["1926", "1946", "1916"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 38x - 76 = 304, what is x?",
+      "correct_answer": "10",
+      "incorrect_answers": ["8", "12", "14"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 45^2?",
+      "correct_answer": "2025",
+      "incorrect_answers": ["2015", "2035", "2005"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 39x + 78 = 273, what is x?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "6", "7"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 46^2?",
+      "correct_answer": "2116",
+      "incorrect_answers": ["2106", "2126", "2096"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "If 40x - 80 = 320, what is x?",
+      "correct_answer": "10",
+      "incorrect_answers": ["8", "12", "14"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Aptitude",
+      "question": "What is the value of 47^2?",
+      "correct_answer": "2209",
+      "incorrect_answers": ["2199", "2219", "2189"]
     }
   ]
 }

@@ -1,814 +1,1126 @@
 {
-  "response_code": 0,
-  "total_no_of_questions": 120,
-  "results": [
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "What does HTML stand for?",
-      "correct_answer": "HyperText Markup Language",
-      "incorrect_answers": [
-        "Hyperlinks and Text Markup Language",
-        "Home Tool Markup Language",
-        "Hyperlinking Text Markup Language"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "Which HTML tag is used to define an unordered list?",
-      "correct_answer": "<ul>",
-      "incorrect_answers": ["<ol>", "<li>", "<list>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "Which tag is used to create a hyperlink in HTML?",
-      "correct_answer": "<a>",
-      "incorrect_answers": ["<link>", "<href>", "<hyperlink>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "What is the correct HTML element for inserting a line break?",
-      "correct_answer": "<br>",
-      "incorrect_answers": ["<break>", "<lb>", "<newline>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "Which tag is used to display a picture on a webpage?",
-      "correct_answer": "<img>",
-      "incorrect_answers": ["<picture>", "<src>", "<image>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "Which attribute is used to provide an alternative text for an image?",
-      "correct_answer": "alt",
-      "incorrect_answers": ["src", "title", "href"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "Which HTML tag is used to define a table row?",
-      "correct_answer": "<tr>",
-      "incorrect_answers": ["<td>", "<th>", "<row>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "Which tag is used to make text bold in HTML?",
-      "correct_answer": "<b>",
-      "incorrect_answers": ["<strong>", "<bold>", "<em>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "Which HTML tag is used to define a paragraph?",
-      "correct_answer": "<p>",
-      "incorrect_answers": ["<para>", "<pg>", "<paragraph>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "Which tag is used to define the largest heading in HTML?",
-      "correct_answer": "<h1>",
-      "incorrect_answers": ["<heading>", "<head>", "<h6>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "What is the correct HTML for adding a background color?",
-      "correct_answer": "<body style=\"background-color:yellow;\">",
-      "incorrect_answers": [
-        "<background>yellow</background>",
-        "<body bg=\"yellow\">",
-        "<body color=\"yellow\">"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "Which tag is used to create a numbered list?",
-      "correct_answer": "<ol>",
-      "incorrect_answers": ["<ul>", "<li>", "<list>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "Which tag is used to define a list item?",
-      "correct_answer": "<li>",
-      "incorrect_answers": ["<ul>", "<ol>", "<item>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "Which tag is used to define emphasized text?",
-      "correct_answer": "<em>",
-      "incorrect_answers": ["<i>", "<strong>", "<b>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "Which tag is used to define a form in HTML?",
-      "correct_answer": "<form>",
-      "incorrect_answers": ["<input>", "<fieldset>", "<submit>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "Which tag is used to define a checkbox in a form?",
-      "correct_answer": "<input type=\"checkbox\">",
-      "incorrect_answers": [
-        "<checkbox>",
-        "<input type=\"check\">",
-        "<input checkbox>"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "Which tag is used to define a drop-down list?",
-      "correct_answer": "<select>",
-      "incorrect_answers": ["<dropdown>", "<list>", "<option>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "Which tag is used to define a table header?",
-      "correct_answer": "<th>",
-      "incorrect_answers": ["<thead>", "<td>", "<header>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "Which tag is used to define a table cell?",
-      "correct_answer": "<td>",
-      "incorrect_answers": ["<tr>", "<th>", "<cell>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML",
-      "question": "Which tag is used to define a section in HTML5?",
-      "correct_answer": "<section>",
-      "incorrect_answers": ["<div>", "<article>", "<main>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is new in HTML5 for embedding video content?",
-      "correct_answer": "<video>",
-      "incorrect_answers": ["<media>", "<movie>", "<embed>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used for audio content in HTML5?",
-      "correct_answer": "<audio>",
-      "incorrect_answers": ["<sound>", "<music>", "<media>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to draw graphics in HTML5?",
-      "correct_answer": "<canvas>",
-      "incorrect_answers": ["<draw>", "<svg>", "<paint>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define navigation links in HTML5?",
-      "correct_answer": "<nav>",
-      "incorrect_answers": ["<navigation>", "<links>", "<menu>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define a footer in HTML5?",
-      "correct_answer": "<footer>",
-      "incorrect_answers": ["<bottom>", "<section>", "<aside>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define a header in HTML5?",
-      "correct_answer": "<header>",
-      "incorrect_answers": ["<top>", "<section>", "<aside>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define an article in HTML5?",
-      "correct_answer": "<article>",
-      "incorrect_answers": ["<section>", "<div>", "<main>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define marked or highlighted text in HTML5?",
-      "correct_answer": "<mark>",
-      "incorrect_answers": ["<highlight>", "<strong>", "<em>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define a progress bar in HTML5?",
-      "correct_answer": "<progress>",
-      "incorrect_answers": ["<bar>", "<meter>", "<range>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define a scalar measurement within a known range in HTML5?",
-      "correct_answer": "<meter>",
-      "incorrect_answers": ["<progress>", "<range>", "<scale>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define a time/date in HTML5?",
-      "correct_answer": "<time>",
-      "incorrect_answers": ["<date>", "<datetime>", "<clock>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which attribute is used to make an input field mandatory in HTML5?",
-      "correct_answer": "required",
-      "incorrect_answers": ["mandatory", "validate", "must"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which attribute is used to specify a short hint in an input field?",
-      "correct_answer": "placeholder",
-      "incorrect_answers": ["hint", "title", "alt"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which input type is used for selecting a color in HTML5?",
-      "correct_answer": "color",
-      "incorrect_answers": ["select", "picker", "palette"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which input type is used for selecting a date in HTML5?",
-      "correct_answer": "date",
-      "incorrect_answers": ["calendar", "datetime", "day"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which input type is used for selecting a range in HTML5?",
-      "correct_answer": "range",
-      "incorrect_answers": ["slider", "progress", "meter"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define a figure caption in HTML5?",
-      "correct_answer": "<figcaption>",
-      "incorrect_answers": ["<caption>", "<figure>", "<legend>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to group related elements in a form?",
-      "correct_answer": "<fieldset>",
-      "incorrect_answers": ["<group>", "<section>", "<formgroup>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define a caption for a <fieldset> element?",
-      "correct_answer": "<legend>",
-      "incorrect_answers": ["<caption>", "<title>", "<label>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define contact information for the author/owner of a document?",
-      "correct_answer": "<address>",
-      "incorrect_answers": ["<contact>", "<info>", "<author>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define side content in HTML5?",
-      "correct_answer": "<aside>",
-      "incorrect_answers": ["<side>", "<section>", "<sidebar>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define a main content area in HTML5?",
-      "correct_answer": "<main>",
-      "incorrect_answers": ["<body>", "<section>", "<content>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define a dialog box or window in HTML5?",
-      "correct_answer": "<dialog>",
-      "incorrect_answers": ["<window>", "<popup>", "<modal>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define a short quotation?",
-      "correct_answer": "<q>",
-      "incorrect_answers": ["<quote>", "<blockquote>", "<shortquote>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define a block-level quotation?",
-      "correct_answer": "<blockquote>",
-      "incorrect_answers": ["<quote>", "<q>", "<block>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define sample output from a computer program?",
-      "correct_answer": "<samp>",
-      "incorrect_answers": ["<output>", "<code>", "<kbd>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define keyboard input?",
-      "correct_answer": "<kbd>",
-      "incorrect_answers": ["<input>", "<key>", "<keyboard>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define preformatted text?",
-      "correct_answer": "<pre>",
-      "incorrect_answers": ["<code>", "<format>", "<text>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define a variable in programming or in a mathematical expression?",
-      "correct_answer": "<var>",
-      "incorrect_answers": ["<variable>", "<math>", "<code>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define a definition term?",
-      "correct_answer": "<dt>",
-      "incorrect_answers": ["<def>", "<definition>", "<term>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define a definition description?",
-      "correct_answer": "<dd>",
-      "incorrect_answers": ["<desc>", "<definition>", "<description>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define a definition list?",
-      "correct_answer": "<dl>",
-      "incorrect_answers": ["<list>", "<deflist>", "<definitionlist>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define a ruby annotation?",
-      "correct_answer": "<ruby>",
-      "incorrect_answers": ["<annotation>", "<rt>", "<rb>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define the pronunciation of characters in a ruby annotation?",
-      "correct_answer": "<rt>",
-      "incorrect_answers": ["<rp>", "<rb>", "<ruby>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define fallback parentheses for ruby annotations?",
-      "correct_answer": "<rp>",
-      "incorrect_answers": ["<rt>", "<rb>", "<ruby>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define a bidirectional override?",
-      "correct_answer": "<bdo>",
-      "incorrect_answers": ["<bdi>", "<dir>", "<override>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "HTML5",
-      "question": "Which tag is used to define text directionality isolation?",
-      "correct_answer": "<bdi>",
-      "incorrect_answers": ["<bdo>", "<dir>", "<isolate>"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "What does CSS stand for?",
-      "correct_answer": "Cascading Style Sheets",
-      "incorrect_answers": [
-        "Computer Style Sheets",
-        "Creative Style Sheets",
-        "Colorful Style Sheets"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to change the text color of an element?",
-      "correct_answer": "color",
-      "incorrect_answers": ["font-color", "text-color", "background-color"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to change the background color?",
-      "correct_answer": "background-color",
-      "incorrect_answers": ["color", "bgcolor", "background"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to change the font size?",
-      "correct_answer": "font-size",
-      "incorrect_answers": ["text-size", "font-style", "size"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to make text bold?",
-      "correct_answer": "font-weight",
-      "incorrect_answers": ["font-style", "bold", "weight"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to change the left margin of an element?",
-      "correct_answer": "margin-left",
-      "incorrect_answers": ["padding-left", "left-margin", "margin"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to change the left padding of an element?",
-      "correct_answer": "padding-left",
-      "incorrect_answers": ["margin-left", "left-padding", "padding"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the width of an element?",
-      "correct_answer": "width",
-      "incorrect_answers": ["size", "element-width", "length"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the height of an element?",
-      "correct_answer": "height",
-      "incorrect_answers": ["size", "element-height", "length"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to align text to the center?",
-      "correct_answer": "text-align: center;",
-      "incorrect_answers": [
-        "align: center;",
-        "center-align: text;",
-        "text-center: align;"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which selector is used to select all elements with class 'example'?",
-      "correct_answer": ".example",
-      "incorrect_answers": ["#example", "example", "*example"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which selector is used to select the element with id 'demo'?",
-      "correct_answer": "#demo",
-      "incorrect_answers": [".demo", "demo", "*demo"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to add a shadow to text?",
-      "correct_answer": "text-shadow",
-      "incorrect_answers": ["box-shadow", "shadow", "font-shadow"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to add a shadow to a box?",
-      "correct_answer": "box-shadow",
-      "incorrect_answers": ["text-shadow", "shadow", "element-shadow"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to change the font family?",
-      "correct_answer": "font-family",
-      "incorrect_answers": ["font", "font-style", "family"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the space between lines of text?",
-      "correct_answer": "line-height",
-      "incorrect_answers": ["spacing", "text-spacing", "line-spacing"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the space between letters?",
-      "correct_answer": "letter-spacing",
-      "incorrect_answers": ["word-spacing", "text-spacing", "spacing"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the space between words?",
-      "correct_answer": "word-spacing",
-      "incorrect_answers": ["letter-spacing", "text-spacing", "spacing"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the border color?",
-      "correct_answer": "border-color",
-      "incorrect_answers": ["color-border", "border", "border-style"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the border width?",
-      "correct_answer": "border-width",
-      "incorrect_answers": ["width-border", "border", "border-style"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the border style?",
-      "correct_answer": "border-style",
-      "incorrect_answers": ["style-border", "border", "border-width"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the border radius?",
-      "correct_answer": "border-radius",
-      "incorrect_answers": ["radius-border", "border", "border-style"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the opacity of an element?",
-      "correct_answer": "opacity",
-      "incorrect_answers": ["transparent", "visibility", "alpha"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to hide an element?",
-      "correct_answer": "display: none;",
-      "incorrect_answers": ["visibility: hidden;", "opacity: 0;", "hide: true;"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to make an element invisible but still take up space?",
-      "correct_answer": "visibility: hidden;",
-      "incorrect_answers": ["display: none;", "opacity: 0;", "hide: true;"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to float an element to the left?",
-      "correct_answer": "float: left;",
-      "incorrect_answers": ["align: left;", "position: left;", "left: float;"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to clear floated elements?",
-      "correct_answer": "clear",
-      "incorrect_answers": ["float-clear", "clear-float", "remove-float"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the position of an element?",
-      "correct_answer": "position",
-      "incorrect_answers": ["location", "place", "align"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the z-index of an element?",
-      "correct_answer": "z-index",
-      "incorrect_answers": ["index", "z", "layer"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the overflow of an element?",
-      "correct_answer": "overflow",
-      "incorrect_answers": ["flow", "over", "scroll"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the cursor style?",
-      "correct_answer": "cursor",
-      "incorrect_answers": ["pointer", "mouse", "style"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the display type of an element?",
-      "correct_answer": "display",
-      "incorrect_answers": ["type", "show", "block"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the maximum width of an element?",
-      "correct_answer": "max-width",
-      "incorrect_answers": ["width-max", "maximum-width", "maxwidth"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the minimum height of an element?",
-      "correct_answer": "min-height",
-      "incorrect_answers": ["height-min", "minimum-height", "minheight"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the background image?",
-      "correct_answer": "background-image",
-      "incorrect_answers": ["image-background", "bg-image", "background"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to repeat a background image?",
-      "correct_answer": "background-repeat",
-      "incorrect_answers": ["repeat-background", "bg-repeat", "background"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the background position?",
-      "correct_answer": "background-position",
-      "incorrect_answers": ["position-background", "bg-position", "background"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the background size?",
-      "correct_answer": "background-size",
-      "incorrect_answers": ["size-background", "bg-size", "background"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the background attachment?",
-      "correct_answer": "background-attachment",
-      "incorrect_answers": [
-        "attachment-background",
-        "bg-attachment",
-        "background"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the background clip?",
-      "correct_answer": "background-clip",
-      "incorrect_answers": ["clip-background", "bg-clip", "background"]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "CSS",
-      "question": "Which property is used to set the background origin?",
-      "correct_answer": "background-origin",
-      "incorrect_answers": ["origin-background", "bg-origin", "background"]
-    }
-  ]
+    "response_code": 0,
+    "total_no_of_questions": 120,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML",
+            "question": "What does HTML stand for?",
+            "correct_answer": "HyperText Markup Language",
+            "incorrect_answers": ["Hyperlinks and Text Markup Language", "Home Tool Markup Language", "Hyperlinking Text Markup Language"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define an unordered list?",
+            "correct_answer": "<ul>",
+            "incorrect_answers": ["<ol>", "<li>", "<list>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML",
+            "question": "Which tag is used to create a hyperlink in HTML?",
+            "correct_answer": "<a>",
+            "incorrect_answers": ["<link>", "<href>", "<hyperlink>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML",
+            "question": "Which attribute is used to provide an alternative text for an image?",
+            "correct_answer": "alt",
+            "incorrect_answers": ["src", "title", "href"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML",
+            "question": "What is the correct HTML for adding a background color?",
+            "correct_answer": "<body style=\"background-color:yellow;\">",
+            "incorrect_answers": ["<background>yellow</background>", "<body bg=\"yellow\">", "<body color=\"yellow\">"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML",
+            "question": "Which tag is used to define emphasized text?",
+            "correct_answer": "<em>",
+            "incorrect_answers": ["<i>", "<strong>", "<b>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML",
+            "question": "Which tag is used to define a checkbox in a form?",
+            "correct_answer": "<input type=\"checkbox\">",
+            "incorrect_answers": ["<checkbox>", "<input type=\"check\">", "<input checkbox>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML",
+            "question": "Which tag is used to define a drop-down list?",
+            "correct_answer": "<select>",
+            "incorrect_answers": ["<dropdown>", "<list>", "<option>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML",
+            "question": "Which tag is used to define a section in HTML5?",
+            "correct_answer": "<section>",
+            "incorrect_answers": ["<div>", "<article>", "<main>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is new in HTML5 for embedding video content?",
+            "correct_answer": "<video>",
+            "incorrect_answers": ["<media>", "<movie>", "<embed>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used for audio content in HTML5?",
+            "correct_answer": "<audio>",
+            "incorrect_answers": ["<sound>", "<music>", "<media>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to draw graphics in HTML5?",
+            "correct_answer": "<canvas>",
+            "incorrect_answers": ["<draw>", "<svg>", "<paint>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define navigation links in HTML5?",
+            "correct_answer": "<nav>",
+            "incorrect_answers": ["<navigation>", "<links>", "<menu>"]
+        },
+       {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define an article in HTML5?",
+            "correct_answer": "<article>",
+            "incorrect_answers": ["<section>", "<div>", "<main>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define a progress bar in HTML5?",
+            "correct_answer": "<progress>",
+            "incorrect_answers": ["<bar>", "<meter>", "<range>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define a scalar measurement within a known range in HTML5?",
+            "correct_answer": "<meter>",
+            "incorrect_answers": ["<progress>", "<range>", "<scale>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define a time/date in HTML5?",
+            "correct_answer": "<time>",
+            "incorrect_answers": ["<date>", "<datetime>", "<clock>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which attribute is used to make an input field mandatory in HTML5?",
+            "correct_answer": "required",
+            "incorrect_answers": ["mandatory", "validate", "must"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which attribute is used to specify a short hint in an input field?",
+            "correct_answer": "placeholder",
+            "incorrect_answers": ["hint", "title", "alt"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which input type is used for selecting a color in HTML5?",
+            "correct_answer": "color",
+            "incorrect_answers": ["select", "picker", "palette"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which input type is used for selecting a date in HTML5?",
+            "correct_answer": "date",
+            "incorrect_answers": ["calendar", "datetime", "day"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which input type is used for selecting a range in HTML5?",
+            "correct_answer": "range",
+            "incorrect_answers": ["slider", "progress", "meter"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define a figure caption in HTML5?",
+            "correct_answer": "<figcaption>",
+            "incorrect_answers": ["<caption>", "<figure>", "<legend>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to group related elements in a form?",
+            "correct_answer": "<fieldset>",
+            "incorrect_answers": ["<group>", "<section>", "<formgroup>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define a caption for a <fieldset> element?",
+            "correct_answer": "<legend>",
+            "incorrect_answers": ["<caption>", "<title>", "<label>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define contact information for the author/owner of a document?",
+            "correct_answer": "<address>",
+            "incorrect_answers": ["<contact>", "<info>", "<author>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define side content in HTML5?",
+            "correct_answer": "<aside>",
+            "incorrect_answers": ["<side>", "<section>", "<sidebar>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define a main content area in HTML5?",
+            "correct_answer": "<main>",
+            "incorrect_answers": ["<body>", "<section>", "<content>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define a dialog box or window in HTML5?",
+            "correct_answer": "<dialog>",
+            "incorrect_answers": ["<window>", "<popup>", "<modal>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define a short quotation?",
+            "correct_answer": "<q>",
+            "incorrect_answers": ["<quote>", "<blockquote>", "<shortquote>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define a block-level quotation?",
+            "correct_answer": "<blockquote>",
+            "incorrect_answers": ["<quote>", "<q>", "<block>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define sample output from a computer program?",
+            "correct_answer": "<samp>",
+            "incorrect_answers": ["<output>", "<code>", "<kbd>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define keyboard input?",
+            "correct_answer": "<kbd>",
+            "incorrect_answers": ["<input>", "<key>", "<keyboard>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define preformatted text?",
+            "correct_answer": "<pre>",
+            "incorrect_answers": ["<code>", "<format>", "<text>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define a variable in programming or in a mathematical expression?",
+            "correct_answer": "<var>",
+            "incorrect_answers": ["<variable>", "<math>", "<code>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define a definition term?",
+            "correct_answer": "<dt>",
+            "incorrect_answers": ["<def>", "<definition>", "<term>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define a definition description?",
+            "correct_answer": "<dd>",
+            "incorrect_answers": ["<desc>", "<definition>", "<description>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define a definition list?",
+            "correct_answer": "<dl>",
+            "incorrect_answers": ["<list>", "<deflist>", "<definitionlist>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define a ruby annotation?",
+            "correct_answer": "<ruby>",
+            "incorrect_answers": ["<annotation>", "<rt>", "<rb>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define the pronunciation of characters in a ruby annotation?",
+            "correct_answer": "<rt>",
+            "incorrect_answers": ["<rp>", "<rb>", "<ruby>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define fallback parentheses for ruby annotations?",
+            "correct_answer": "<rp>",
+            "incorrect_answers": ["<rt>", "<rb>", "<ruby>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define a bidirectional override?",
+            "correct_answer": "<bdo>",
+            "incorrect_answers": ["<bdi>", "<dir>", "<override>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "HTML5",
+            "question": "Which tag is used to define text directionality isolation?",
+            "correct_answer": "<bdi>",
+            "incorrect_answers": ["<bdo>", "<dir>", "<isolate>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "What does CSS stand for?",
+            "correct_answer": "Cascading Style Sheets",
+            "incorrect_answers": ["Computer Style Sheets", "Creative Style Sheets", "Colorful Style Sheets"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to change the text color of an element?",
+            "correct_answer": "color",
+            "incorrect_answers": ["font-color", "text-color", "background-color"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to change the background color?",
+            "correct_answer": "background-color",
+            "incorrect_answers": ["color", "bgcolor", "background"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to change the font size?",
+            "correct_answer": "font-size",
+            "incorrect_answers": ["text-size", "font-style", "size"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to make text bold?",
+            "correct_answer": "font-weight",
+            "incorrect_answers": ["font-style", "bold", "weight"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to change the left margin of an element?",
+            "correct_answer": "margin-left",
+            "incorrect_answers": ["padding-left", "left-margin", "margin"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to change the left padding of an element?",
+            "correct_answer": "padding-left",
+            "incorrect_answers": ["margin-left", "left-padding", "padding"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to align text to the center?",
+            "correct_answer": "text-align: center;",
+            "incorrect_answers": ["align: center;", "center-align: text;", "text-center: align;"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which selector is used to select all elements with class 'example'?",
+            "correct_answer": ".example",
+            "incorrect_answers": ["#example", "example", "*example"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which selector is used to select the element with id 'demo'?",
+            "correct_answer": "#demo",
+            "incorrect_answers": [".demo", "demo", "*demo"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to add a shadow to text?",
+            "correct_answer": "text-shadow",
+            "incorrect_answers": ["box-shadow", "shadow", "font-shadow"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to add a shadow to a box?",
+            "correct_answer": "box-shadow",
+            "incorrect_answers": ["text-shadow", "shadow", "element-shadow"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the space between lines of text?",
+            "correct_answer": "line-height",
+            "incorrect_answers": ["spacing", "text-spacing", "line-spacing"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the space between letters?",
+            "correct_answer": "letter-spacing",
+            "incorrect_answers": ["word-spacing", "text-spacing", "spacing"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the space between words?",
+            "correct_answer": "word-spacing",
+            "incorrect_answers": ["letter-spacing", "text-spacing", "spacing"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the border color?",
+            "correct_answer": "border-color",
+            "incorrect_answers": ["color-border", "border", "border-style"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the border width?",
+            "correct_answer": "border-width",
+            "incorrect_answers": ["width-border", "border", "border-style"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the border style?",
+            "correct_answer": "border-style",
+            "incorrect_answers": ["style-border", "border", "border-width"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the border radius?",
+            "correct_answer": "border-radius",
+            "incorrect_answers": ["radius-border", "border", "border-style"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the opacity of an element?",
+            "correct_answer": "opacity",
+            "incorrect_answers": ["transparent", "visibility", "alpha"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to hide an element?",
+            "correct_answer": "display: none;",
+            "incorrect_answers": ["visibility: hidden;", "opacity: 0;", "hide: true;"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to make an element invisible but still take up space?",
+            "correct_answer": "visibility: hidden;",
+            "incorrect_answers": ["display: none;", "opacity: 0;", "hide: true;"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to float an element to the left?",
+            "correct_answer": "float: left;",
+            "incorrect_answers": ["align: left;", "position: left;", "left: float;"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to clear floated elements?",
+            "correct_answer": "clear",
+            "incorrect_answers": ["float-clear", "clear-float", "remove-float"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the position of an element?",
+            "correct_answer": "position",
+            "incorrect_answers": ["location", "place", "align"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the z-index of an element?",
+            "correct_answer": "z-index",
+            "incorrect_answers": ["index", "z", "layer"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the overflow of an element?",
+            "correct_answer": "overflow",
+            "incorrect_answers": ["flow", "over", "scroll"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the cursor style?",
+            "correct_answer": "cursor",
+            "incorrect_answers": ["pointer", "mouse", "style"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the display type of an element?",
+            "correct_answer": "display",
+            "incorrect_answers": ["type", "show", "block"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the maximum width of an element?",
+            "correct_answer": "max-width",
+            "incorrect_answers": ["width-max", "maximum-width", "maxwidth"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the minimum height of an element?",
+            "correct_answer": "min-height",
+            "incorrect_answers": ["height-min", "minimum-height", "minheight"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the background image?",
+            "correct_answer": "background-image",
+            "incorrect_answers": ["image-background", "bg-image", "background"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to repeat a background image?",
+            "correct_answer": "background-repeat",
+            "incorrect_answers": ["repeat-background", "bg-repeat", "background"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the background position?",
+            "correct_answer": "background-position",
+            "incorrect_answers": ["position-background", "bg-position", "background"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the background size?",
+            "correct_answer": "background-size",
+            "incorrect_answers": ["size-background", "bg-size", "background"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the background attachment?",
+            "correct_answer": "background-attachment",
+            "incorrect_answers": ["attachment-background", "bg-attachment", "background"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the background clip?",
+            "correct_answer": "background-clip",
+            "incorrect_answers": ["clip-background", "bg-clip", "background"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "CSS",
+            "question": "Which property is used to set the background origin?",
+            "correct_answer": "background-origin",
+            "incorrect_answers": ["origin-background", "bg-origin", "background"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "HTML",
+            "question": "Which HTML tag is used to specify a list of pre-defined options for input controls?",
+            "correct_answer": "<datalist>",
+            "incorrect_answers": ["<options>", "<inputlist>", "<selectlist>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "HTML",
+            "question": "Which attribute is used to specify that an input field must be filled out before submitting the form?",
+            "correct_answer": "required",
+            "incorrect_answers": ["validate", "mandatory", "checked"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a client-side script?",
+            "correct_answer": "<script>",
+            "incorrect_answers": ["<js>", "<javascript>", "<code>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a container for external application (non-HTML)?",
+            "correct_answer": "<object>",
+            "incorrect_answers": ["<embed>", "<applet>", "<iframe>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "HTML",
+            "question": "Which attribute is used to specify the character encoding for the HTML document?",
+            "correct_answer": "charset",
+            "incorrect_answers": ["encoding", "lang", "type"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a scalar measurement within a known range?",
+            "correct_answer": "<meter>",
+            "incorrect_answers": ["<progress>", "<range>", "<scale>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a command button that a user can invoke?",
+            "correct_answer": "<button>",
+            "incorrect_answers": ["<input>", "<cmd>", "<submit>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a group of related options in a drop-down list?",
+            "correct_answer": "<optgroup>",
+            "incorrect_answers": ["<group>", "<options>", "<selectgroup>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a term/name in a description list?",
+            "correct_answer": "<dt>",
+            "incorrect_answers": ["<dd>", "<dl>", "<li>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a description/value of a term in a description list?",
+            "correct_answer": "<dd>",
+            "incorrect_answers": ["<dt>", "<dl>", "<li>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a list of definitions?",
+            "correct_answer": "<dl>",
+            "incorrect_answers": ["<list>", "<deflist>", "<definitionlist>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a short inline quotation?",
+            "correct_answer": "<q>",
+            "incorrect_answers": ["<quote>", "<blockquote>", "<shortquote>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define sample output from a computer program?",
+            "correct_answer": "<samp>",
+            "incorrect_answers": ["<output>", "<code>", "<kbd>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define keyboard input?",
+            "correct_answer": "<kbd>",
+            "incorrect_answers": ["<input>", "<key>", "<keyboard>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define preformatted text?",
+            "correct_answer": "<pre>",
+            "incorrect_answers": ["<code>", "<format>", "<text>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a variable in programming or in a mathematical expression?",
+            "correct_answer": "<var>",
+            "incorrect_answers": ["<variable>", "<math>", "<code>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to control the order of flex items?",
+            "correct_answer": "order",
+            "incorrect_answers": ["flex-order", "item-order", "sequence"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to specify how an element should be positioned in a flex container?",
+            "correct_answer": "align-self",
+            "incorrect_answers": ["align-item", "justify-self", "flex-align"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to specify the direction of the flexible items?",
+            "correct_answer": "flex-direction",
+            "incorrect_answers": ["direction", "flex-flow", "flex-align"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to wrap flex items onto multiple lines?",
+            "correct_answer": "flex-wrap",
+            "incorrect_answers": ["wrap", "flex-line", "flex-multiline"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to define the space between items in a flex container?",
+            "correct_answer": "justify-content",
+            "incorrect_answers": ["align-content", "space-between", "flex-space"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to align items vertically in a flex container?",
+            "correct_answer": "align-items",
+            "incorrect_answers": ["vertical-align", "justify-items", "flex-align"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to set the transparency of an element?",
+            "correct_answer": "opacity",
+            "incorrect_answers": ["transparent", "alpha", "visibility"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to add rounded corners to an element?",
+            "correct_answer": "border-radius",
+            "incorrect_answers": ["corner-radius", "border-corner", "radius"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to add a shadow to a box?",
+            "correct_answer": "box-shadow",
+            "incorrect_answers": ["shadow", "element-shadow", "text-shadow"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to add a shadow to text?",
+            "correct_answer": "text-shadow",
+            "incorrect_answers": ["box-shadow", "shadow", "font-shadow"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to specify the spacing between lines of text?",
+            "correct_answer": "line-height",
+            "incorrect_answers": ["spacing", "text-spacing", "line-spacing"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to specify the spacing between letters?",
+            "correct_answer": "letter-spacing",
+            "incorrect_answers": ["word-spacing", "text-spacing", "spacing"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to specify the spacing between words?",
+            "correct_answer": "word-spacing",
+            "incorrect_answers": ["letter-spacing", "text-spacing", "spacing"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to set the maximum width of an element?",
+            "correct_answer": "max-width",
+            "incorrect_answers": ["width-max", "maximum-width", "maxwidth"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to set the minimum height of an element?",
+            "correct_answer": "min-height",
+            "incorrect_answers": ["height-min", "minimum-height", "minheight"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to set the background image?",
+            "correct_answer": "background-image",
+            "incorrect_answers": ["image-background", "bg-image", "background"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to repeat a background image?",
+            "correct_answer": "background-repeat",
+            "incorrect_answers": ["repeat-background", "bg-repeat", "background"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to set the background position?",
+            "correct_answer": "background-position",
+            "incorrect_answers": ["position-background", "bg-position", "background"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to set the background size?",
+            "correct_answer": "background-size",
+            "incorrect_answers": ["size-background", "bg-size", "background"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to set the background attachment?",
+            "correct_answer": "background-attachment",
+            "incorrect_answers": ["attachment-background", "bg-attachment", "background"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "CSS",
+            "question": "Which CSS property is used to set the background clip?",
+            "correct_answer": "background-clip",
+            "incorrect_answers": ["clip-background", "bg-clip", "background"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "HTML",
+            "question": "Which HTML element is used to embed SVG graphics directly into a web page?",
+            "correct_answer": "<svg>",
+            "incorrect_answers": ["<canvas>", "<vector>", "<img>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "HTML",
+            "question": "Which attribute is used to specify that an input field should automatically get focus when the page loads?",
+            "correct_answer": "autofocus",
+            "incorrect_answers": ["focus", "selected", "active"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a document's base URL?",
+            "correct_answer": "<base>",
+            "incorrect_answers": ["<url>", "<link>", "<head>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a ruby base in East Asian typography?",
+            "correct_answer": "<rb>",
+            "incorrect_answers": ["<rt>", "<rp>", "<ruby>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a dialog box or window?",
+            "correct_answer": "<dialog>",
+            "incorrect_answers": ["<window>", "<popup>", "<modal>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a template for client-side content?",
+            "correct_answer": "<template>",
+            "incorrect_answers": ["<script>", "<content>", "<pattern>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a part of text that might be formatted in a different direction from other text?",
+            "correct_answer": "<bdi>",
+            "incorrect_answers": ["<bdo>", "<dir>", "<span>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a bidirectional override?",
+            "correct_answer": "<bdo>",
+            "incorrect_answers": ["<bdi>", "<dir>", "<override>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a scalar measurement within a known range?",
+            "correct_answer": "<meter>",
+            "incorrect_answers": ["<progress>", "<range>", "<scale>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a progress bar?",
+            "correct_answer": "<progress>",
+            "incorrect_answers": ["<bar>", "<meter>", "<range>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a figure caption?",
+            "correct_answer": "<figcaption>",
+            "incorrect_answers": ["<caption>", "<figure>", "<legend>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a group of media content and their caption?",
+            "correct_answer": "<figure>",
+            "incorrect_answers": ["<media>", "<img>", "<caption>"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "CSS",
+            "question": "Which CSS property is used to specify how an element is positioned in a grid container?",
+            "correct_answer": "grid-area",
+            "incorrect_answers": ["grid-position", "area", "grid-placement"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "CSS",
+            "question": "Which CSS property is used to specify the number of columns in a multi-column layout?",
+            "correct_answer": "column-count",
+            "incorrect_answers": ["columns", "multi-columns", "col-count"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "CSS",
+            "question": "Which CSS property is used to specify the gap between columns in a multi-column layout?",
+            "correct_answer": "column-gap",
+            "incorrect_answers": ["gap", "col-gap", "column-spacing"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "CSS",
+            "question": "Which CSS property is used to specify the width of columns in a multi-column layout?",
+            "correct_answer": "column-width",
+            "incorrect_answers": ["col-width", "width", "column-size"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "CSS",
+            "question": "Which CSS property is used to specify the rule between columns in a multi-column layout?",
+            "correct_answer": "column-rule",
+            "incorrect_answers": ["col-rule", "column-border", "rule"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "CSS",
+            "question": "Which CSS property is used to specify the style of the rule between columns?",
+            "correct_answer": "column-rule-style",
+            "incorrect_answers": ["col-rule-style", "column-style", "rule-style"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "CSS",
+            "question": "Which CSS property is used to specify the color of the rule between columns?",
+            "correct_answer": "column-rule-color",
+            "incorrect_answers": ["col-rule-color", "column-color", "rule-color"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "CSS",
+            "question": "Which CSS property is used to specify the width of the rule between columns?",
+            "correct_answer": "column-rule-width",
+            "incorrect_answers": ["col-rule-width", "column-width", "rule-width"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "CSS",
+            "question": "Which CSS property is used to specify how many columns an element should span?",
+            "correct_answer": "column-span",
+            "incorrect_answers": ["col-span", "span", "column-count"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "CSS",
+            "question": "Which CSS property is used to specify how to fill columns?",
+            "correct_answer": "column-fill",
+            "incorrect_answers": ["col-fill", "fill", "column-content"]
+        }
+    ]
 }

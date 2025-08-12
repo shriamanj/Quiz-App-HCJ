@@ -1,6 +1,6 @@
 {
   "response_code": 0,
-  "total_no_of_questions": 15,
+  "total_no_of_questions": 60,
   "results": [
     {
       "type": "multiple",
@@ -873,6 +873,254 @@
       "question": "Which number is missing: 18, 36, 54, __, 90?",
       "correct_answer": "72",
       "incorrect_answers": ["66", "78", "84"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If all squares have four sides and some squares are blue, can some blue squares have four sides?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Cat, Dog, Fish, Table?",
+      "correct_answer": "Table",
+      "incorrect_answers": ["Cat", "Dog", "Fish"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If X is younger than Y and Y is younger than Z, who is the oldest?",
+      "correct_answer": "Z",
+      "incorrect_answers": ["X", "Y", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: F, H, J, L, ?",
+      "correct_answer": "N",
+      "incorrect_answers": ["M", "O", "P"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which number is missing: 1, 4, 7, __, 13?",
+      "correct_answer": "10",
+      "incorrect_answers": ["8", "9", "11"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "If all rectangles are quadrilaterals and all quadrilaterals have four sides, do all rectangles have four sides?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Apple, Banana, Orange, Chair?",
+      "correct_answer": "Chair",
+      "incorrect_answers": ["Apple", "Banana", "Orange"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "If M is faster than N and N is faster than O, who is the slowest?",
+      "correct_answer": "O",
+      "incorrect_answers": ["M", "N", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: Q, S, U, W, ?",
+      "correct_answer": "Y",
+      "incorrect_answers": ["X", "Z", "A"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Which number is missing: 7, 14, 21, __, 35?",
+      "correct_answer": "28",
+      "incorrect_answers": ["25", "30", "32"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "If all fish can swim and whales are fish, can whales swim?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "Some"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Gold, Silver, Iron, Plastic?",
+      "correct_answer": "Plastic",
+      "incorrect_answers": ["Gold", "Silver", "Iron"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "If A is shorter than B and B is shorter than C, who is the tallest?",
+      "correct_answer": "C",
+      "incorrect_answers": ["A", "B", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: P, R, T, V, ?",
+      "correct_answer": "X",
+      "incorrect_answers": ["W", "Y", "Z"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Which number is missing: 20, 40, 60, __, 100?",
+      "correct_answer": "80",
+      "incorrect_answers": ["70", "90", "110"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If all pens have ink and some pens are blue, can some blue pens have ink?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Sun, Moon, Star, Car?",
+      "correct_answer": "Car",
+      "incorrect_answers": ["Sun", "Moon", "Star"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "If D is heavier than E and E is heavier than F, who is the lightest?",
+      "correct_answer": "F",
+      "incorrect_answers": ["D", "E", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: H, J, L, N, ?",
+      "correct_answer": "P",
+      "incorrect_answers": ["O", "Q", "R"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Reasoning",
+      "question": "Which number is missing: 3, 7, 11, __, 19?",
+      "correct_answer": "15",
+      "incorrect_answers": ["13", "14", "17"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "If all polygons have sides and all sides are straight, do all polygons have straight sides?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "None"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Bus, Train, Plane, Banana?",
+      "correct_answer": "Banana",
+      "incorrect_answers": ["Bus", "Train", "Plane"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "If S is heavier than T and T is heavier than U, who is the lightest?",
+      "correct_answer": "U",
+      "incorrect_answers": ["S", "T", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: R, T, V, X, ?",
+      "correct_answer": "Z",
+      "incorrect_answers": ["Y", "A", "B"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Reasoning",
+      "question": "Which number is missing: 8, 16, 24, __, 40?",
+      "correct_answer": "32",
+      "incorrect_answers": ["28", "34", "36"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "If all birds lay eggs and ostriches are birds, do ostriches lay eggs?",
+      "correct_answer": "Yes",
+      "incorrect_answers": ["No", "Cannot be determined", "Some"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Which is the odd one out: Silver, Gold, Iron, Wood?",
+      "correct_answer": "Wood",
+      "incorrect_answers": ["Silver", "Gold", "Iron"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "If F is shorter than G and G is shorter than H, who is the tallest?",
+      "correct_answer": "H",
+      "incorrect_answers": ["F", "G", "Cannot be determined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Find the next letter in the sequence: L, N, P, R, ?",
+      "correct_answer": "T",
+      "incorrect_answers": ["S", "U", "V"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Which number is missing: 8, 16, 24, __, 40?",
+      "correct_answer": "32",
+      "incorrect_answers": ["28", "34", "36"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Reasoning",
+      "question": "Which number is missing: 11, 22, 33, __, 55?",
+      "correct_answer": "44",
+      "incorrect_answers": ["40", "48", "50"]
     }
   ]
 }

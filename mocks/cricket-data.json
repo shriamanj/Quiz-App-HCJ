@@ -1209,6 +1209,30 @@
       "question": "Which country won the first Women's Cricket World Cup?",
       "correct_answer": "England",
       "incorrect_answers": ["Australia", "New Zealand", "India"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Cricket",
+      "question": "Who was the first cricketer to score a century in all three formats of international cricket?",
+      "correct_answer": "Brendon McCullum",
+      "incorrect_answers": ["Chris Gayle", "Suresh Raina", "Mahela Jayawardene"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Cricket",
+      "question": "Which bowler has taken the most wickets in a single ICC Cricket World Cup tournament?",
+      "correct_answer": "Glenn McGrath",
+      "incorrect_answers": ["Muttiah Muralitharan", "Mitchell Starc", "Lasith Malinga"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Cricket",
+      "question": "Who was the first Indian woman to captain a World Cup final?",
+      "correct_answer": "Mithali Raj",
+      "incorrect_answers": ["Anjum Chopra", "Jhulan Goswami", "Diana Edulji"]
     }
   ]
 }

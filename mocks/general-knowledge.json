@@ -1,6 +1,6 @@
 {
   "response_code": 0,
-  "total_no_of_questions": 14,
+  "total_no_of_questions": 50,
   "results": [
     {
       "type": "multiple",
@@ -445,6 +445,710 @@
       "question": "Which is the largest volcano in the world?",
       "correct_answer": "Mauna Loa",
       "incorrect_answers": ["Mount Etna", "Mount Fuji", "Krakatoa"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which is the largest island in the world?",
+      "correct_answer": "Greenland",
+      "incorrect_answers": ["Australia", "Borneo", "Madagascar"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the tallest mountain in the world?",
+      "correct_answer": "Mount Everest",
+      "incorrect_answers": ["K2", "Kangchenjunga", "Lhotse"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the main language spoken in Brazil?",
+      "correct_answer": "Portuguese",
+      "incorrect_answers": ["Spanish", "English", "French"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which country gifted the Statue of Liberty to the USA?",
+      "correct_answer": "France",
+      "incorrect_answers": ["England", "Germany", "Italy"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the boiling point of water at sea level?",
+      "correct_answer": "100°C",
+      "incorrect_answers": ["90°C", "80°C", "120°C"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Who is the Greek god of the sea?",
+      "correct_answer": "Poseidon",
+      "incorrect_answers": ["Zeus", "Hades", "Apollo"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which animal is known as the King of the Jungle?",
+      "correct_answer": "Lion",
+      "incorrect_answers": ["Tiger", "Elephant", "Leopard"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "What is the largest organ in the human body?",
+      "correct_answer": "Skin",
+      "incorrect_answers": ["Liver", "Heart", "Lungs"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which planet is closest to the Sun?",
+      "correct_answer": "Mercury",
+      "incorrect_answers": ["Venus", "Earth", "Mars"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Who developed the theory of relativity?",
+      "correct_answer": "Albert Einstein",
+      "incorrect_answers": ["Isaac Newton", "Galileo Galilei", "Stephen Hawking"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the currency of Japan?",
+      "correct_answer": "Yen",
+      "incorrect_answers": ["Won", "Dollar", "Euro"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest internal organ in the human body?",
+      "correct_answer": "Liver",
+      "incorrect_answers": ["Heart", "Lungs", "Kidney"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which is the tallest animal in the world?",
+      "correct_answer": "Giraffe",
+      "incorrect_answers": ["Elephant", "Lion", "Horse"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which country is known as the Land of the Midnight Sun?",
+      "correct_answer": "Norway",
+      "incorrect_answers": ["Sweden", "Finland", "Iceland"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the chemical symbol for gold?",
+      "correct_answer": "Au",
+      "incorrect_answers": ["Ag", "Gd", "Go"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Who is the author of 'The Odyssey'?",
+      "correct_answer": "Homer",
+      "incorrect_answers": ["Virgil", "Sophocles", "Plato"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which is the largest bird in the world?",
+      "correct_answer": "Ostrich",
+      "incorrect_answers": ["Eagle", "Penguin", "Emu"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "What is the capital of South Korea?",
+      "correct_answer": "Seoul",
+      "incorrect_answers": ["Busan", "Tokyo", "Beijing"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which is the largest flower in the world?",
+      "correct_answer": "Rafflesia",
+      "incorrect_answers": ["Sunflower", "Rose", "Lotus"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the longest bone in the human body?",
+      "correct_answer": "Femur",
+      "incorrect_answers": ["Tibia", "Humerus", "Fibula"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the capital of Italy?",
+      "correct_answer": "Rome",
+      "incorrect_answers": ["Venice", "Milan", "Florence"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "correct_answer": "Michelangelo",
+      "incorrect_answers": ["Leonardo da Vinci", "Raphael", "Donatello"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which is the largest land animal?",
+      "correct_answer": "African Elephant",
+      "incorrect_answers": ["Giraffe", "Hippopotamus", "Rhinoceros"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the smallest bone in the human body?",
+      "correct_answer": "Stapes",
+      "incorrect_answers": ["Femur", "Ulna", "Patella"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the capital of Spain?",
+      "correct_answer": "Madrid",
+      "incorrect_answers": ["Barcelona", "Seville", "Valencia"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest lake in Africa?",
+      "correct_answer": "Lake Victoria",
+      "incorrect_answers": ["Lake Tanganyika", "Lake Malawi", "Lake Chad"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which is the largest moon of Saturn?",
+      "correct_answer": "Titan",
+      "incorrect_answers": ["Europa", "Ganymede", "Callisto"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Who is the founder of Microsoft?",
+      "correct_answer": "Bill Gates",
+      "incorrect_answers": ["Steve Jobs", "Mark Zuckerberg", "Larry Page"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the capital of Germany?",
+      "correct_answer": "Berlin",
+      "incorrect_answers": ["Munich", "Frankfurt", "Hamburg"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest peninsula in the world?",
+      "correct_answer": "Arabian Peninsula",
+      "incorrect_answers": ["Iberian Peninsula", "Indian Peninsula", "Malay Peninsula"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which is the largest state in the USA by area?",
+      "correct_answer": "Alaska",
+      "incorrect_answers": ["Texas", "California", "Montana"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Who is the author of 'To Kill a Mockingbird'?",
+      "correct_answer": "Harper Lee",
+      "incorrect_answers": ["Mark Twain", "F. Scott Fitzgerald", "Ernest Hemingway"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which is the largest mammal in the ocean?",
+      "correct_answer": "Blue Whale",
+      "incorrect_answers": ["Orca", "Dolphin", "Humpback Whale"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest city in Australia?",
+      "correct_answer": "Sydney",
+      "incorrect_answers": ["Melbourne", "Brisbane", "Perth"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the capital of Russia?",
+      "correct_answer": "Moscow",
+      "incorrect_answers": ["Saint Petersburg", "Kazan", "Sochi"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest bay in the world?",
+      "correct_answer": "Bay of Bengal",
+      "incorrect_answers": ["Hudson Bay", "San Francisco Bay", "Bay of Biscay"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which is the largest river in India?",
+      "correct_answer": "Ganga",
+      "incorrect_answers": ["Yamuna", "Godavari", "Brahmaputra"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Who is the author of '1984'?",
+      "correct_answer": "George Orwell",
+      "incorrect_answers": ["Aldous Huxley", "Ray Bradbury", "J.D. Salinger"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which is the largest country in Africa?",
+      "correct_answer": "Algeria",
+      "incorrect_answers": ["Nigeria", "Egypt", "Sudan"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest waterfall in the world?",
+      "correct_answer": "Victoria Falls",
+      "incorrect_answers": ["Niagara Falls", "Angel Falls", "Iguazu Falls"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which is the largest sea in the world?",
+      "correct_answer": "Philippine Sea",
+      "incorrect_answers": ["Coral Sea", "Arabian Sea", "South China Sea"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest island country in the world?",
+      "correct_answer": "Indonesia",
+      "incorrect_answers": ["Madagascar", "Japan", "Philippines"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which is the largest hot desert in the world?",
+      "correct_answer": "Sahara",
+      "incorrect_answers": ["Gobi", "Kalahari", "Arabian"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest coral reef system in the world?",
+      "correct_answer": "Great Barrier Reef",
+      "incorrect_answers": ["Belize Barrier Reef", "Red Sea Coral Reef", "New Caledonia Barrier Reef"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest archipelago in the world?",
+      "correct_answer": "Indonesia",
+      "incorrect_answers": ["Philippines", "Japan", "Maldives"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the national animal of India?",
+      "correct_answer": "Tiger",
+      "incorrect_answers": ["Lion", "Elephant", "Leopard"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which is the largest planet in our solar system?",
+      "correct_answer": "Jupiter",
+      "incorrect_answers": ["Saturn", "Earth", "Mars"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the capital of China?",
+      "correct_answer": "Beijing",
+      "incorrect_answers": ["Shanghai", "Guangzhou", "Hong Kong"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which country is known as the Land of a Thousand Lakes?",
+      "correct_answer": "Finland",
+      "incorrect_answers": ["Sweden", "Norway", "Canada"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Who is the author of 'The Catcher in the Rye'?",
+      "correct_answer": "J.D. Salinger",
+      "incorrect_answers": ["F. Scott Fitzgerald", "Ernest Hemingway", "Harper Lee"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the smallest ocean in the world?",
+      "correct_answer": "Arctic Ocean",
+      "incorrect_answers": ["Indian Ocean", "Southern Ocean", "Atlantic Ocean"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which country is known as the Land of the Maple Leaf?",
+      "correct_answer": "Canada",
+      "incorrect_answers": ["USA", "Australia", "New Zealand"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Who was the first man to step on the moon?",
+      "correct_answer": "Neil Armstrong",
+      "incorrect_answers": ["Buzz Aldrin", "Yuri Gagarin", "Michael Collins"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest island in the Mediterranean Sea?",
+      "correct_answer": "Sicily",
+      "incorrect_answers": ["Sardinia", "Cyprus", "Crete"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the longest wall in the world?",
+      "correct_answer": "Great Wall of China",
+      "incorrect_answers": ["Berlin Wall", "Hadrian's Wall", "Western Wall"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest gulf in the world?",
+      "correct_answer": "Gulf of Mexico",
+      "incorrect_answers": ["Persian Gulf", "Gulf of Aden", "Gulf of Alaska"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Who is the founder of Facebook?",
+      "correct_answer": "Mark Zuckerberg",
+      "incorrect_answers": ["Bill Gates", "Larry Page", "Elon Musk"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest plateau in the world?",
+      "correct_answer": "Tibetan Plateau",
+      "incorrect_answers": ["Deccan Plateau", "Colorado Plateau", "Altiplano"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest dam in the world?",
+      "correct_answer": "Three Gorges Dam",
+      "incorrect_answers": ["Hoover Dam", "Itaipu Dam", "Aswan Dam"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest stadium in the world by capacity?",
+      "correct_answer": "Rungrado 1st of May Stadium",
+      "incorrect_answers": ["Melbourne Cricket Ground", "Camp Nou", "Wembley Stadium"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest cave in the world?",
+      "correct_answer": "Son Doong Cave",
+      "incorrect_answers": ["Mammoth Cave", "Krubera Cave", "Deer Cave"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest airport in the world by area?",
+      "correct_answer": "King Fahd International Airport",
+      "incorrect_answers": ["Denver International Airport", "Dallas/Fort Worth International Airport", "Beijing Daxing International Airport"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest palace in the world?",
+      "correct_answer": "Forbidden City",
+      "incorrect_answers": ["Buckingham Palace", "Versailles", "Potala Palace"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest museum in the world?",
+      "correct_answer": "Louvre Museum",
+      "incorrect_answers": ["British Museum", "Metropolitan Museum of Art", "Hermitage Museum"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest stadium in India?",
+      "correct_answer": "Narendra Modi Stadium",
+      "incorrect_answers": ["Eden Gardens", "Salt Lake Stadium", "Wankhede Stadium"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest library in the world?",
+      "correct_answer": "Library of Congress",
+      "incorrect_answers": ["British Library", "New York Public Library", "National Library of China"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest waterfall by width?",
+      "correct_answer": "Khone Phapheng Falls",
+      "incorrect_answers": ["Victoria Falls", "Niagara Falls", "Iguazu Falls"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest freshwater lake by volume?",
+      "correct_answer": "Lake Baikal",
+      "incorrect_answers": ["Lake Superior", "Lake Victoria", "Lake Tanganyika"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest peninsula in Europe?",
+      "correct_answer": "Scandinavian Peninsula",
+      "incorrect_answers": ["Iberian Peninsula", "Italian Peninsula", "Balkan Peninsula"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest hot spring in the world?",
+      "correct_answer": "Grand Prismatic Spring",
+      "incorrect_answers": ["Blue Lagoon", "Pamukkale", "Frying Pan Lake"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest salt flat in the world?",
+      "correct_answer": "Salar de Uyuni",
+      "incorrect_answers": ["Bonneville Salt Flats", "Etosha Pan", "Chott el Jerid"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest canyon in the world?",
+      "correct_answer": "Grand Canyon",
+      "incorrect_answers": ["Yarlung Tsangpo Grand Canyon", "Copper Canyon", "Fish River Canyon"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest arch dam in the world?",
+      "correct_answer": "Jinping-I Dam",
+      "incorrect_answers": ["Hoover Dam", "Karun-3 Dam", "Grande Dixence Dam"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest nuclear power plant in the world?",
+      "correct_answer": "Kashiwazaki-Kariwa Nuclear Power Plant",
+      "incorrect_answers": ["Bruce Nuclear Generating Station", "Zaporizhzhia Nuclear Power Plant", "Gravelines Nuclear Power Station"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest hydroelectric power station in the world?",
+      "correct_answer": "Three Gorges Dam",
+      "incorrect_answers": ["Itaipu Dam", "Baihetan Dam", "Xiluodu Dam"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest man-made lake in the world?",
+      "correct_answer": "Lake Volta",
+      "incorrect_answers": ["Lake Kariba", "Lake Nasser", "Lake Mead"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest railway station in the world?",
+      "correct_answer": "Grand Central Terminal",
+      "incorrect_answers": ["Gare du Nord", "Shinjuku Station", "Beijing South Railway Station"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest cruise ship in the world?",
+      "correct_answer": "Wonder of the Seas",
+      "incorrect_answers": ["Symphony of the Seas", "Harmony of the Seas", "Oasis of the Seas"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest animal ever to have lived?",
+      "correct_answer": "Blue Whale",
+      "incorrect_answers": ["Argentinosaurus", "Megalodon", "African Elephant"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest living reptile?",
+      "correct_answer": "Saltwater Crocodile",
+      "incorrect_answers": ["Komodo Dragon", "Green Anaconda", "Leatherback Turtle"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest living bird by wingspan?",
+      "correct_answer": "Wandering Albatross",
+      "incorrect_answers": ["Andean Condor", "Dalmatian Pelican", "Marabou Stork"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest living fish?",
+      "correct_answer": "Whale Shark",
+      "incorrect_answers": ["Great White Shark", "Basking Shark", "Manta Ray"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest living amphibian?",
+      "correct_answer": "Chinese Giant Salamander",
+      "incorrect_answers": ["Japanese Giant Salamander", "Goliath Frog", "African Bullfrog"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest living rodent?",
+      "correct_answer": "Capybara",
+      "incorrect_answers": ["Beaver", "Porcupine", "Nutria"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest living marsupial?",
+      "correct_answer": "Red Kangaroo",
+      "incorrect_answers": ["Koala", "Tasmanian Devil", "Wombat"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest living carnivore on land?",
+      "correct_answer": "Polar Bear",
+      "incorrect_answers": ["Grizzly Bear", "Siberian Tiger", "African Lion"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest living primate?",
+      "correct_answer": "Eastern Gorilla",
+      "incorrect_answers": ["Orangutan", "Chimpanzee", "Baboon"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which is the largest living snake?",
+      "correct_answer": "Green Anaconda",
+      "incorrect_answers": ["Reticulated Python", "Burmese Python", "African Rock Python"]
     }
   ]
 }
