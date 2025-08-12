@@ -1,44 +1,48 @@
 let interval = null;
 let currentUser = null;
 let currentQuestion = null;
+let timeLeft = 0;
+let timerValue = 0;
 
 function loadNavbar(selector = "#navbar") {
   fetch("../components/navbar.html")
     .then((res) => res.text())
     .then((data) => {
       document.querySelector(selector).innerHTML = data;
-      if (
-        window.location.href.includes("quiz.html") ||
-        window.location.href.includes("review.html")
-      )
-        checkQuizStatus();
-      else if (window.location.href.includes("index.html")) {
+      if (window.location.href.includes("quiz.html")) checkQuizStatus();
+      else if (window.location.href.includes("index.html"))
         localStorage.setItem("currentUser", null);
-      }
     })
     .catch((err) => console.error("Error loading navbar:", err));
 }
 
 function getQuesNumberClassName(i) {
   let className =
-    "flex items-center justify-center p-2 rounded-full shadow w-8 md:w-10 h-8 md:h-10 text-sm md:text-base ";
+    "flex items-center justify-center p-2 rounded-full shadow w-8 md:w-10 h-8 md:h-10 text-sm md:text-base cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed ";
   if (currentUser?.questions[i]?.yourAnswer !== "") {
     className = className + "bg-green-300";
   } else if (
     currentUser?.questions[i]?.yourAnswer === "" &&
+    currentUser?.questions[i]?.timeTaken > 0 &&
     currentUser?.questions[i]?.timeTaken < 60
   ) {
     className = className + "bg-purple-300";
+  } else if (currentUser?.questions[i]?.timeTaken >= 60) {
+    className = className + "bg-gray-200";
   } else {
     className = className + "bg-gray-200";
   }
   return className;
 }
 
+function getDisabled(i) {
+  return currentUser.questions[i].timeTaken >= 60 ? true : false;
+}
+
 function getPregressWidth() {
   const filterAns = currentUser?.questions.filter(
     (item) =>
-      item.yourAnswer !== "" || (item.yourAnswer === "" && item.timeTaken < 60)
+      item.yourAnswer !== "" || (item.yourAnswer === "" && item.timeTaken > 0)
   );
   return (filterAns.length * 100) / currentUser?.questions.length;
 }
@@ -46,13 +50,16 @@ function getPregressWidth() {
 function loadQuestions() {
   if (currentUser?.questions) {
     const container = document.getElementById("container");
-    for (let i = 0; i <= currentUser?.questions.length - 1; i++) {
-      const div = document.createElement("div");
-      div.id = `question-number-${i + 1}`;
-      div.textContent = `${i + 1}`;
-      div.onclick = () => saveNext(i);
-      div.className = getQuesNumberClassName(i);
-      container.appendChild(div);
+    if (container) {
+      for (let i = 0; i <= currentUser?.questions.length - 1; i++) {
+        const div = document.createElement("button");
+        div.id = `question-number-${i + 1}`;
+        div.textContent = `${i + 1}`;
+        div.onclick = () => saveNext(i);
+        div.disabled = getDisabled(i);
+        div.className = getQuesNumberClassName(i);
+        container.appendChild(div);
+      }
     }
   }
 }
@@ -81,10 +88,9 @@ function loadQuizReview() {
   document.getElementById("correct").textContent = currentUser.score;
   document.getElementById("incorrect").textContent = currentUser.incorrect;
   document.getElementById("skipped").textContent = currentUser.skipped;
-  document.getElementById("not-attempted").textContent =
-    currentUser.notAttempted;
-  document.getElementById("time-taken").textContent =
-    currentUser.totalTimeTaken;
+  document.getElementById("time-taken").textContent = formatTime(
+    currentUser.questions.length * 60 - currentUser.totalTimeTaken
+  );
 
   const question = document.getElementById("totalQues");
   currentUser.questions.forEach((ques) => {
@@ -119,7 +125,10 @@ function loadQuizReview() {
 
 function startTimer() {
   const timerEl = document.getElementById("timer");
-  let timerValue = 60;
+  timerValue =
+    currentUser.questions[currentQuestion.id].timeTaken > 0
+      ? 60 - currentUser.questions[currentQuestion.id].timeTaken
+      : 60;
   timerEl.textContent = timerValue;
   interval = setInterval(() => {
     timerValue--;
@@ -151,7 +160,10 @@ function formatTime(seconds) {
 
 function remaningTimer() {
   const timerEl = document.getElementById("remaningTime");
-  let timeLeft = currentUser.questions.length * 60;
+  timeLeft =
+    currentUser.totalTimeTaken === 0
+      ? currentUser.questions.length * 60
+      : currentUser.totalTimeTaken;
   const intervalRem = setInterval(() => {
     if (timeLeft <= 0) {
       clearInterval(intervalRem);
@@ -165,7 +177,7 @@ function remaningTimer() {
 
 function getOption(id, questionText, options) {
   const question = document.getElementById("question");
-  question.textContent = `Q${id + 1}. ${questionText}`;
+  question.innerHTML = `<span>Q${id + 1}.</span> ${questionText}`;
   const ul = document.getElementById("options");
   ul.innerHTML = "";
   options.forEach((optionText, index) => {
@@ -177,6 +189,7 @@ function getOption(id, questionText, options) {
     input.name = "question"; // all radios share same name to form a group
     input.id = `option-${index}`;
     input.value = optionText;
+    input.checked = optionText === currentUser.questions[id].yourAnswer;
 
     const label = document.createElement("label");
     label.htmlFor = `option-${index}`;
@@ -206,8 +219,10 @@ const urls = {
 
 const setQuizUI = (ques) => {
   currentQuestion = ques;
-  document.getElementById("user-detail").style.display = "none";
-  document.getElementById("quiz-questions").style.display = "flex";
+  if (document.getElementById("user-detail"))
+    document.getElementById("user-detail").style.display = "none";
+  if (document.getElementById("quiz-questions"))
+    document.getElementById("quiz-questions").style.display = "flex";
   const navbar = document.getElementById("nav-items");
   navbar.style.display = "none";
   document.getElementById("remaningTime").style.display = "flex";
@@ -225,13 +240,14 @@ async function fetchQuestion() {
   const category = document.getElementById("category").value;
   const res = await fetch(urls[category]);
   const data = await res.json();
-  const shuffeledQues = shuffleArray(data.results)
-  const uniqueQues = uniqueArray(shuffeledQues).slice(0, 20)
+  const shuffeledQues = shuffleArray(data.results);
+  const uniqueQues = uniqueArray(shuffeledQues).slice(0, 20);
   const ques = uniqueQues.map((item, index) => {
-    return { ...item, id: index, yourAnswer: "", timeTaken: 60 };
+    return { ...item, id: index, yourAnswer: "", timeTaken: 0 };
   });
   currentUser.questions = ques;
-  setQuizUI(ques[0]);
+  const index = ques.findIndex((item) => item.timeTaken > 0);
+  setQuizUI(ques[index > -1 ? index : 0]);
 }
 
 function validateEmail(email) {
@@ -253,7 +269,7 @@ async function startQuiz() {
         email: email,
         rollNumber: rollNumber,
         score: "",
-        totalTimeTaken: "",
+        totalTimeTaken: 0,
         questions: [],
       };
       if (index !== -1) users[index] = { ...currentUser };
@@ -275,14 +291,15 @@ async function startQuiz() {
 
 const saveNext = (index) => {
   const selected = document.querySelector('input[name="question"]:checked');
-  const timerEl = document.getElementById("timer");
-  currentUser.questions[currentQuestion.id].timeTaken =
-    60 - parseInt(timerEl.textContent);
+  currentUser.questions[currentQuestion.id].timeTaken = 60 - timerValue;
   currentUser.questions[currentQuestion.id].yourAnswer = selected?.value || "";
   const queNum = document.getElementById(
     `question-number-${currentQuestion.id + 1}`
   );
+  queNum.disabled = getDisabled(currentQuestion.id);
   queNum.className = getQuesNumberClassName(currentQuestion.id);
+  currentUser.questions[currentQuestion.id].timeTaken = 60 - timerValue;
+  localStorage.setItem("currentUser", JSON.stringify(currentUser));
   const progressWidth = getPregressWidth();
   const progress = document.getElementById("progress");
   progress.className = progress.className.replace(/w-\[\d+%\]/, "");
@@ -304,7 +321,7 @@ const saveNext = (index) => {
 };
 
 const disableSubmit = () => {
-  let yourAns = currentUser.questions.some((ques) => ques.timeTaken === 60);
+  let yourAns = currentUser.questions.some((ques) => ques.timeTaken === 0);
   document.getElementById("submitQuiz").disabled = yourAns;
 };
 
@@ -312,22 +329,18 @@ function submitQuiz() {
   let score = 0,
     incorrect = 0,
     skipped = 0,
-    notAttempted = 0,
-    totalTime = 0;
+    notAttempted = 0;
   currentUser.questions.forEach((item) => {
     if (item.yourAnswer === item.correct_answer) {
       score++;
-      totalTime = totalTime + item.timeTaken;
-    } else if (item.timeTaken < 60 && item.yourAnswer === "") {
+    } else if (item.timeTaken <= 60 && item.yourAnswer === "") {
       skipped++;
-      totalTime = totalTime + item.timeTaken;
     } else if (
       item.yourAnswer !== "" &&
       item.yourAnswer !== item.correct_answer
     ) {
       incorrect++;
-      totalTime = totalTime + item.timeTaken;
-    } else if (item.timeTaken === 60 && item.yourAnswer === "") {
+    } else if (item.timeTaken === 0 && item.yourAnswer === "") {
       notAttempted++;
     }
   });
@@ -335,7 +348,7 @@ function submitQuiz() {
   currentUser.skipped = skipped;
   currentUser.notAttempted = notAttempted;
   currentUser.score = score;
-  currentUser.totalTimeTaken = totalTime;
+  currentUser.totalTimeTaken = currentUser.questions.length * 60 - timeLeft;
 
   const users = JSON.parse(localStorage.getItem("users"));
   const index = users.findIndex(
@@ -361,17 +374,24 @@ function findResult() {
 
 function checkQuizStatus() {
   const cUser = JSON.parse(localStorage.getItem("currentUser"));
-  if (cUser) {
+  if (cUser?.questions.length > 0) {
     currentUser = cUser;
-    setQuizUI(currentUser.questions[0]);
+    const index = currentUser.questions.findIndex(
+      (item) => item.timeTaken < 60 && item.yourAnswer === ""
+    );
+    setQuizUI(currentUser.questions[index]);
   }
 }
 
 function uniqueArray(array) {
-  const newArray = [];
-  array.forEach((ques) => {
-    const isName = newArray.some((item) => item.name !== ques.name);
-    if (isName) newArray.push(ques);
-  });
-  return newArray
+  return [
+    ...new Map(array.map((item) => [item.correct_answer, item])).values(),
+  ];
 }
+
+if (window.location.href.includes("quiz.html"))
+  window.addEventListener("beforeunload", function () {
+    currentUser.totalTimeTaken = timeLeft;
+    currentUser.questions[currentQuestion.id].timeTaken = 60 - timerValue;
+    localStorage.setItem("currentUser", JSON.stringify(currentUser));
+  });
