@@ -1201,9 +1201,165 @@
       "question": "Which of the following is NOT a valid way to use the rest parameter?",
       "correct_answer": "function myFunc(...args, last) {}",
       "incorrect_answers": [
-        "function myFunc(...args) {}",
-        "const myFunc = (...args) => {}",
-        "function myFunc(a, ...rest) {}"
+      "function myFunc(...args) {}",
+      "const myFunc = (...args) => {}",
+      "function myFunc(a, ...rest) {}"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to use optional chaining?",
+      "correct_answer": "obj??.prop",
+      "incorrect_answers": [
+      "obj?.prop",
+      "obj?.method?.()",
+      "arr?.[0]"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to use nullish coalescing?",
+      "correct_answer": "a ? b : c",
+      "incorrect_answers": [
+      "a ?? b",
+      "a ?? (b ?? c)",
+      "(a ?? b) ?? c"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to use template literals?",
+      "correct_answer": "'Hello ${name}'",
+      "incorrect_answers": [
+      "`Hello ${name}`",
+      "`Result: ${a + b}`",
+      "`Line1\nLine2`"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to use destructuring with default values?",
+      "correct_answer": "let {a = 1, b} = obj();",
+      "incorrect_answers": [
+      "let {a = 1, b} = obj;",
+      "const [x = 2, y] = arr;",
+      "let {a: alpha = 3} = obj;"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to use array destructuring?",
+      "correct_answer": "let [a, b] = arr{};",
+      "incorrect_answers": [
+      "let [a, b] = arr;",
+      "const [x, y] = [1, 2];",
+      "let [, , z] = arr;"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to use object destructuring?",
+      "correct_answer": "let {a, b} = obj[];",
+      "incorrect_answers": [
+      "let {a, b} = obj;",
+      "const {x, y} = {x: 1, y: 2};",
+      "let {a: alpha, b: beta} = obj;"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to use the spread operator in arrays?",
+      "correct_answer": "let arr = ...[1, 2, 3];",
+      "incorrect_answers": [
+      "let arr = [...[1, 2, 3]];",
+      "let arr2 = [...arr1, 4];",
+      "let arr3 = [0, ...arr1, 5];"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to use the spread operator in objects?",
+      "correct_answer": "let obj = ...otherObj;",
+      "incorrect_answers": [
+      "let obj = {...otherObj};",
+      "let obj2 = {a: 1, ...otherObj};",
+      "let obj3 = {...obj1, b: 2};"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to use rest parameters?",
+      "correct_answer": "function fn(a, ...rest, b) {}",
+      "incorrect_answers": [
+      "function fn(...args) {}",
+      "const fn = (...params) => {};",
+      "function fn(a, ...rest) {}"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to use destructuring in function parameters?",
+      "correct_answer": "function fn({a, b} = obj()) {}",
+      "incorrect_answers": [
+      "function fn({a, b}) {}",
+      "const fn = ([x, y]) => {};",
+      "function fn({a = 1, b}) {}"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to use nested destructuring?",
+      "correct_answer": "let {a: {b}} = obj[];",
+      "incorrect_answers": [
+      "let {a: {b}} = obj;",
+      "const [,[x]] = arr;",
+      "let {a: {b: {c}}} = obj;"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to use default values in array destructuring?",
+      "correct_answer": "let [a = 1, b = 2] = arr();",
+      "incorrect_answers": [
+      "let [a = 1, b = 2] = arr;",
+      "const [x = 10] = [];",
+      "let [a, b = 5] = [3];"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which of the following is NOT a valid way to use computed property names in object destructuring?",
+      "correct_answer": "let {[key]: value} = obj();",
+      "incorrect_answers": [
+      "let {[key]: value} = obj;",
+      "const {['prop']: val} = obj;",
+      "let {[dynamic]: v} = obj;"
       ]
     }
   ]

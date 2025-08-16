@@ -1,6 +1,6 @@
 {
   "response_code": 0,
-  "total_no_of_questions": 15,
+  "total_no_of_questions": 60,
   "results": [
     {
       "type": "multiple",
@@ -937,6 +937,190 @@
       "question": "What is the chemical formula for sodium chloride?",
       "correct_answer": "NaCl",
       "incorrect_answers": ["KCl", "NaOH", "HCl"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which scientist is known for the photoelectric effect?",
+      "correct_answer": "Albert Einstein",
+      "incorrect_answers": ["Isaac Newton", "Marie Curie", "Niels Bohr"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the SI unit of electric charge?",
+      "correct_answer": "Coulomb",
+      "incorrect_answers": ["Ampere", "Volt", "Ohm"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which element has the atomic number 26?",
+      "correct_answer": "Iron",
+      "incorrect_answers": ["Copper", "Nickel", "Zinc"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical symbol for Antimony?",
+      "correct_answer": "Sb",
+      "incorrect_answers": ["At", "Am", "Ab"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which scientist is known for the laws of planetary motion?",
+      "correct_answer": "Johannes Kepler",
+      "incorrect_answers": ["Galileo Galilei", "Isaac Newton", "Tycho Brahe"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the main component of the sun?",
+      "correct_answer": "Hydrogen",
+      "incorrect_answers": ["Helium", "Oxygen", "Carbon"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which organelle modifies, sorts, and packages proteins?",
+      "correct_answer": "Golgi Apparatus",
+      "incorrect_answers": ["Ribosome", "Nucleus", "Lysosome"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical formula for ozone?",
+      "correct_answer": "O3",
+      "incorrect_answers": ["O2", "CO2", "H2O"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which scientist is known for the discovery of X-rays?",
+      "correct_answer": "Wilhelm Röntgen",
+      "incorrect_answers": ["Marie Curie", "Isaac Newton", "James Clerk Maxwell"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the SI unit of inductance?",
+      "correct_answer": "Henry",
+      "incorrect_answers": ["Farad", "Weber", "Tesla"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which element is a noble gas?",
+      "correct_answer": "Argon",
+      "incorrect_answers": ["Nitrogen", "Oxygen", "Chlorine"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical symbol for Tungsten?",
+      "correct_answer": "W",
+      "incorrect_answers": ["Tg", "Tu", "Ts"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which scientist is known as the father of modern chemistry?",
+      "correct_answer": "Antoine Lavoisier",
+      "incorrect_answers": ["Dmitri Mendeleev", "Marie Curie", "Isaac Newton"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical formula for benzene?",
+      "correct_answer": "C6H6",
+      "incorrect_answers": ["C2H6", "C6H12", "C5H5"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which planet has the longest day (rotation period)?",
+      "correct_answer": "Venus",
+      "incorrect_answers": ["Mercury", "Mars", "Jupiter"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the SI unit of luminous intensity?",
+      "correct_answer": "Candela",
+      "incorrect_answers": ["Lumen", "Lux", "Watt"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which element has the highest atomic number found in nature?",
+      "correct_answer": "Uranium",
+      "incorrect_answers": ["Plutonium", "Radium", "Thorium"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the main function of lysosomes in a cell?",
+      "correct_answer": "Digestion of waste",
+      "incorrect_answers": ["Protein synthesis", "Energy production", "Cell division"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which scientist is credited with the discovery of the neutron?",
+      "correct_answer": "James Chadwick",
+      "incorrect_answers": ["Ernest Rutherford", "Niels Bohr", "J.J. Thomson"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical symbol for Radon?",
+      "correct_answer": "Rn",
+      "incorrect_answers": ["Rd", "Ra", "Ro"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which organelle is responsible for detoxification in liver cells?",
+      "correct_answer": "Smooth Endoplasmic Reticulum",
+      "incorrect_answers": ["Golgi Apparatus", "Mitochondria", "Lysosome"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the chemical formula for baking soda?",
+      "correct_answer": "NaHCO3",
+      "incorrect_answers": ["Na2CO3", "NaCl", "NaOH"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which scientist is known for the discovery of the proton?",
+      "correct_answer": "Ernest Rutherford",
+      "incorrect_answers": ["J.J. Thomson", "James Chadwick", "Niels Bohr"]
     }
   ]
 }
