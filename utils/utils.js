@@ -225,7 +225,7 @@ async function fetchQuestion() {
   const res = await fetch(urls[category]);
   const data = await res.json();
   const shuffeledQues = shuffleArray(data.results);
-  const uniqueQues = uniqueArray(shuffeledQues).slice(0, 20);
+  const uniqueQues = uniqueArray(shuffeledQues).slice(0, 5);
   const ques = uniqueQues.map((item, index) => {
     return { ...item, id: index, yourAnswer: "", timeTaken: 0 };
   });
