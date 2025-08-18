@@ -225,7 +225,7 @@ async function fetchQuestion() {
   const res = await fetch(urls[category]);
   const data = await res.json();
   const shuffeledQues = shuffleArray(data.results);
-  const uniqueQues = uniqueArray(shuffeledQues).slice(0, 5);
+  const uniqueQues = uniqueArray(shuffeledQues).slice(0, 20);
   const ques = uniqueQues.map((item, index) => {
     return { ...item, id: index, yourAnswer: "", timeTaken: 0 };
   });
@@ -245,13 +245,11 @@ async function startQuiz() {
     const email = document.getElementById('email').value;
     if (name && email) {
         if (validateEmail(email)) {
-            const rollNumber = Math.floor(100000 + Math.random() * 900000);
             const users = JSON.parse(localStorage.getItem('users')) || [];
             const index = users.findIndex((user) => email === user.email);
             currentUser = {
                 name: name,
                 email: email,
-                rollNumber: rollNumber,
                 score: '',
                 totalTimeTaken: 0,
                 questions: [],
@@ -322,7 +320,7 @@ function submitQuiz() {
     currentUser.totalTimeTaken = timeLeft;
 
     const users = JSON.parse(localStorage.getItem('users'));
-    const index = users.findIndex((item) => item.rollNumber === currentUser.rollNumber);
+    const index = users.findIndex((item) => item.email === currentUser.email);
     users[index] = { ...currentUser };
     localStorage.setItem('users', JSON.stringify(users));
     localStorage.setItem('currentUser', JSON.stringify(currentUser));
